@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Generative Models",
+      "path": "ML/Generative Models.md"
+    },
+    {
+      "basename": "joint probability distribution",
+      "path": "Probability & Stats/joint probability distribution.md"
+    },
+    {
+      "basename": "Naive Bayes",
+      "path": "ML/Naive Bayes.md"
+    },
+    {
+      "basename": "fundamental approaches to modeling data",
+      "path": "ML/fundamental approaches to modeling data.md"
+    },
+    {
+      "basename": "Discriminative Models",
+      "path": "ML/Discriminative Models.md"
+    },
+    {
+      "basename": "00. all ques",
+      "path": "ML/practice questions end term/week8/00. all ques.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
