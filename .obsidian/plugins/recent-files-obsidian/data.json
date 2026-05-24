@@ -1,28 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Generative Models",
-      "path": "ML/Generative Models.md"
+      "basename": "Psychophysics",
+      "path": "Neuro/Psychophysics.md"
     },
     {
-      "basename": "joint probability distribution",
-      "path": "Probability & Stats/joint probability distribution.md"
+      "basename": "Behavioral Readout",
+      "path": "Neuro/Behavioral Readout.md"
     },
     {
-      "basename": "Naive Bayes",
-      "path": "ML/Naive Bayes.md"
+      "basename": "Untitled",
+      "path": "ML/Untitled.md"
     },
     {
       "basename": "fundamental approaches to modeling data",
       "path": "ML/fundamental approaches to modeling data.md"
     },
     {
+      "basename": "Naive Bayes",
+      "path": "ML/Naive Bayes.md"
+    },
+    {
+      "basename": "Neural Networks",
+      "path": "ML/Neural Networks.md"
+    },
+    {
+      "basename": "Boosting",
+      "path": "ML/Training & Generalization/Boosting.md"
+    },
+    {
+      "basename": "Bagging",
+      "path": "ML/Training & Generalization/Bagging.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "ML/Training & Generalization/Regularization.md"
+    },
+    {
+      "basename": "Bias-Variance Tradeoff",
+      "path": "ML/Training & Generalization/Bias-Variance Tradeoff.md"
+    },
+    {
+      "basename": "Underfitting",
+      "path": "ML/Training & Generalization/Underfitting.md"
+    },
+    {
+      "basename": "Overfitting",
+      "path": "ML/Training & Generalization/Overfitting.md"
+    },
+    {
+      "basename": "Soft Margin SVM",
+      "path": "ML/Soft Margin SVM.md"
+    },
+    {
+      "basename": "BOUNDARY-BASED DISCRIMINATIVE MODELS",
+      "path": "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md"
+    },
+    {
       "basename": "Discriminative Models",
       "path": "ML/Discriminative Models.md"
     },
     {
-      "basename": "00. all ques",
-      "path": "ML/practice questions end term/week8/00. all ques.md"
+      "basename": "Support Vector Machine",
+      "path": "ML/Support Vector Machine.md"
+    },
+    {
+      "basename": "Cross Validation",
+      "path": "ML/Training & Generalization/Cross Validation.md"
+    },
+    {
+      "basename": "Perceptron Learning Algorithm",
+      "path": "ML/Perceptron Learning Algorithm.md"
+    },
+    {
+      "basename": "PROBABILISTIC DISCRIMINATIVE MODELS",
+      "path": "ML/PROBABILISTIC DISCRIMINATIVE MODELS.md"
+    },
+    {
+      "basename": "Generative Models",
+      "path": "ML/Generative Models.md"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "ML/Logistic Regression.md"
+    },
+    {
+      "basename": "joint probability distribution",
+      "path": "Probability & Stats/joint probability distribution.md"
     }
   ],
   "omittedPaths": [],

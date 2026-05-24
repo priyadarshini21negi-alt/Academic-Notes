@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "710198d5013546fd",
+        "id": "0af6d7e6692199bd",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7be8686b040cc6",
+            "id": "63c119c33bc136c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Generative Models.md",
+                "file": "Neuro/Psychophysics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generative Models"
+              "title": "Psychophysics"
+            }
+          },
+          {
+            "id": "f32ec6349f7a7266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuro/Behavioral Readout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Behavioral Readout"
             }
           }
         ]
@@ -45,6 +59,20 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "fefb381b2b5bd1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -189,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,44 +237,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "63c119c33bc136c4",
   "lastOpenFiles": [
-    "Probability & Stats/joint probability distribution.md",
-    "ML/Generative Models.md",
-    "Probability & Stats",
-    "ML/Naive Bayes.md",
+    "Neuro/Behavioral Readout.md",
+    "System Commands",
+    "Neuro/Psychophysics.md",
+    "ML/Untitled.md",
     "ML/fundamental approaches to modeling data.md",
+    "Neuro",
+    "ML/Naive Bayes.md",
+    "ML/Neural Networks.md",
+    "ML/Training & Generalization/Boosting.md",
+    "ML/Training & Generalization/Bagging.md",
+    "ML/Training & Generalization/Regularization.md",
+    "ML/Training & Generalization/Bias-Variance Tradeoff.md",
+    "ML/Training & Generalization/Underfitting.md",
+    "ML/Training & Generalization/Overfitting.md",
+    "ML/Soft Margin SVM.md",
+    "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md",
     "ML/Discriminative Models.md",
+    "ML/Support Vector Machine.md",
+    "ML/Training & Generalization/Cross Validation.md",
+    "ML/Training & Generalization",
+    "ML/Perceptron Learning Algorithm.md",
+    "ML/PROBABILISTIC DISCRIMINATIVE MODELS.md",
+    "ML/Generative Models.md",
+    "Stochastic Processes",
+    "Dynamical Systems",
+    "Calculus",
+    "Linear Algebra",
+    "PDSA",
+    "DL",
+    "ML/Logistic Regression.md",
+    "ML/practice questions end term/week8/00. all ques.md",
+    "Probability & Stats/joint probability distribution.md",
+    "Probability & Stats",
     "Logistic Regression.md",
     "Support Vector Machines.md",
-    "Support Vector Machins.md",
-    "ML/Unsupervised Learning/00 Hub/Unsupervised Learning.md",
-    "ML/Unsupervised Learning/03 Hierarchical Methods",
-    "ML/Unsupervised Learning/02 Clustering Algorithms",
-    "ML/Unsupervised Learning/01 Tasks",
-    "Unsupervised Learning/00 Hub/Untitled.md",
-    "ML/Supervised Learning/01 Problem Types/Regression.md",
-    "ML/Unsupervised Learning/00 Hub",
-    "ML/Unsupervised Learning",
-    "ML/Supervised Learning/02 Models/Neural Networks.md",
-    "ML/Supervised Learning/03 Evaluation/Cross Validation.md",
-    "ML/Supervised Learning/04 Concepts/Overfitting.md",
-    "ML/Supervised Learning/01 Problem Types/Classification.md",
-    "ML/Supervised Learning/02 Models/Linear Regression.md",
-    "ML/Supervised Learning/04 Concepts/Generalization.md",
-    "ML/Supervised Learning/04 Concepts",
-    "Intro concepts.md",
-    "ML/Supervised Learning/03 Evaluation",
-    "ML/Supervised Learning/02 Models",
-    "ML/Supervised Learning/01 Problem Types",
-    "ML/Supervised Learning/00 Hub/Supervised Learning.md",
-    "ML/Supervised Learning/04 Concepts/Underfitting.md",
-    "ML/Supervised Learning/04 Concepts/Loss Functions.md",
-    "ML/Supervised Learning/03 Evaluation/Leave One Out Cross Validation.md",
-    "ML/Supervised Learning/03 Evaluation/K-Fold Cross Validation.md",
-    "ML/Supervised Learning/03 Evaluation/Bias Variance Tradeoff.md",
-    "ML/Supervised Learning/02 Models/Support Vector Machine.md",
-    "ML/Supervised Learning/02 Models/Naive Bayes.md",
     "Pasted image 20260331164141.png",
     "images/Pasted image 20260331153712.png",
     "images/Pasted image 20260331154355.png",
