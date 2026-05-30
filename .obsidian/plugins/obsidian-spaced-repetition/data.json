@@ -1,9 +1,8 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards",
-      "#review",
-      "#derivation"
+      "#Linux",
+      "#flashcards"
     ],
     "convertFoldersToDecks": true,
     "burySiblingCards": false,
@@ -17,7 +16,7 @@
     "clozePatterns": [
       "==[123;;]answer[;;hint]=="
     ],
-    "singleLineCardSeparator": "::",
+    "singleLineCardSeparator": ";;",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",

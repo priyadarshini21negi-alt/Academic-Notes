@@ -1,9 +1,11 @@
 {
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Things",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Orbitron",
   "textFontFamily": "DotGothic16",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": true,
+  "showViewHeader": true
 }

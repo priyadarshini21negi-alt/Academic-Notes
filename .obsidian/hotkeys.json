@@ -101,14 +101,6 @@
       "key": "G"
     }
   ],
-  "editor:insert-mathblock": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "4"
-    }
-  ],
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
   "window:reset-zoom": [
@@ -219,5 +211,26 @@
       ],
       "key": "F2"
     }
-  ]
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "markdown:add-metadata-property": [],
+  "workspace:close": [],
+  "workspace:close-window": [],
+  "switcher:open": [],
+  "darlal-switcher-plus:switcher-plus:open-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": []
 }

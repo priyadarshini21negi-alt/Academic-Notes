@@ -2,5 +2,6 @@
   "promptDelete": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./Attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true
 }

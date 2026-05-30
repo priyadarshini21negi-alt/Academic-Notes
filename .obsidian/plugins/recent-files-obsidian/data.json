@@ -5,8 +5,40 @@
       "path": "Neuro/Psychophysics.md"
     },
     {
+      "basename": "Linux",
+      "path": "System Commands/Linux.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "System Commands/Untitled.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Neuro/Untitled.md"
+    },
+    {
+      "basename": "linuxflashcards",
+      "path": "System Commands/linuxflashcards.md"
+    },
+    {
       "basename": "Behavioral Readout",
       "path": "Neuro/Behavioral Readout.md"
+    },
+    {
+      "basename": "Brain Signals",
+      "path": "Neuro/Brain Signals.md"
+    },
+    {
+      "basename": "Support Vector Machine",
+      "path": "ML/Support Vector Machine.md"
+    },
+    {
+      "basename": "Soft Margin SVM",
+      "path": "ML/Soft Margin SVM.md"
+    },
+    {
+      "basename": "Neural Networks",
+      "path": "ML/Neural Networks.md"
     },
     {
       "basename": "Untitled",
@@ -19,10 +51,6 @@
     {
       "basename": "Naive Bayes",
       "path": "ML/Naive Bayes.md"
-    },
-    {
-      "basename": "Neural Networks",
-      "path": "ML/Neural Networks.md"
     },
     {
       "basename": "Boosting",
@@ -49,20 +77,12 @@
       "path": "ML/Training & Generalization/Overfitting.md"
     },
     {
-      "basename": "Soft Margin SVM",
-      "path": "ML/Soft Margin SVM.md"
-    },
-    {
       "basename": "BOUNDARY-BASED DISCRIMINATIVE MODELS",
       "path": "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md"
     },
     {
       "basename": "Discriminative Models",
       "path": "ML/Discriminative Models.md"
-    },
-    {
-      "basename": "Support Vector Machine",
-      "path": "ML/Support Vector Machine.md"
     },
     {
       "basename": "Cross Validation",
@@ -86,7 +106,7 @@
     },
     {
       "basename": "joint probability distribution",
-      "path": "Probability & Stats/joint probability distribution.md"
+      "path": "Math/Probability/joint probability distribution.md"
     }
   ],
   "omittedPaths": [],

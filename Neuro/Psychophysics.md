@@ -1,4 +1,5 @@
-# TL;DR 
+#review 
+****# TL;DR 
 - ultimate goal of neuroscience is to relate all human experience to neural activity. 
 - Psychophysics is the essential starting point — it gives you precise, rigorous measurements of perception that can then be linked to neural mechanisms 
 - Techniques like 2AFC, psychometric function fitting, and staircase methods allow measurement of sensitivity and bias while controlling for confounds like decision criterion and response bias.
