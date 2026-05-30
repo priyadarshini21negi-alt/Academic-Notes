@@ -194,8 +194,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,11 +245,11 @@
   "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
     "System Commands/Linux.md",
+    "Neuro/Behavioral Readout.md",
     "System Commands/Untitled.md",
     "System Commands/linuxflashcards.md",
     "Neuro/Untitled.md",
     "Neuro/Psychophysics.md",
-    "Neuro/Behavioral Readout.md",
     "Math/Differential Equations",
     "Math/Statistics",
     "Math",
