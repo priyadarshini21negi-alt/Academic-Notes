@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
+                "file": "Neuro/Brain Signals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometric Interpretation aka Intro"
+              "title": "Brain Signals"
             }
           },
           {
@@ -55,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -271,8 +271,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "7a984c4dfebaf566",
   "lastOpenFiles": [
+    "Neuro/2. Behavioral Readout.md",
+    "Neuro/Brain Signals.md",
+    "Neuro/3. Brain Signals/Action Potentials (Spikes).md",
+    "Neuro/3. Brain Signals",
+    "Neuro/1. Psychophysics.md",
+    "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125959.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125930.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125804.png",
@@ -283,22 +289,17 @@
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531124934.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531124914.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531124751.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531124638.png",
     "Math/Calculus/1. Single Variable/Attachments",
     "Math/Calculus/1. Single Variable/Limits.md",
-    "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
-    "Neuro/Behavioral Readout.md",
     "Math/Calculus/2. Multi Variable",
     "Math/Calculus/1. Single Variable",
     "System Commands/Linux.md",
     "System Commands/Untitled.md",
     "System Commands/linuxflashcards.md",
     "Neuro/Untitled.md",
-    "Neuro/Psychophysics.md",
     "Math/Differential Equations",
     "Math/Statistics",
     "Math",
-    "Neuro/Brain Signals.md",
     "ML/Support Vector Machine.md",
     "ML/Soft Margin SVM.md",
     "ML/Neural Networks.md",
@@ -316,8 +317,6 @@
     "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md",
     "ML/Discriminative Models.md",
     "ML/Training & Generalization/Cross Validation.md",
-    "ML/Training & Generalization",
-    "ML/Perceptron Learning Algorithm.md",
-    "Math/Stochastic Processes"
+    "ML/Training & Generalization"
   ]
 }
