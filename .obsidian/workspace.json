@@ -98,7 +98,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -313,7 +313,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
     "Neuro/Stimulus Representation.md",
     "Neuro/Brain Signals.md",
