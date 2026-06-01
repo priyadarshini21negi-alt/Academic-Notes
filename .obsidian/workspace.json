@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuro/Brain Signals.md",
+                "file": "Neuro/Stimulus Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Signals"
+              "title": "Stimulus Representation"
+            }
+          },
+          {
+            "id": "15e08fca119aac34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuro/Neurotransmitters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neurotransmitters"
+            }
+          },
+          {
+            "id": "5267803d000fbf16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuro/Neurons to Consciousness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neurons to Consciousness"
             }
           },
           {
@@ -35,7 +63,8 @@
               "title": "Limits"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -271,10 +299,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "5267803d000fbf16",
   "lastOpenFiles": [
-    "Neuro/Behavioral Readout.md",
+    "Neuro/Neurotransmitters.md",
+    "Neuro/Neurons to Consciousness.md",
+    "Neuro/Neurons to Consciousness.md",
+    "Neuro/Stimulus Representation.md",
     "Neuro/Brain Signals.md",
+    "Neuro/Behavioral Readout.md",
     "Neuro/3. Brain Signals/Action Potentials (Spikes).md",
     "Neuro/3. Brain Signals",
     "Neuro/Psychophysics.md",
@@ -296,7 +328,6 @@
     "System Commands/Linux.md",
     "System Commands/Untitled.md",
     "System Commands/linuxflashcards.md",
-    "Neuro/Untitled.md",
     "Math/Differential Equations",
     "Math/Statistics",
     "Math",
@@ -314,9 +345,6 @@
     "ML/Training & Generalization/Bias-Variance Tradeoff.md",
     "ML/Training & Generalization/Underfitting.md",
     "ML/Training & Generalization/Overfitting.md",
-    "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md",
-    "ML/Discriminative Models.md",
-    "ML/Training & Generalization/Cross Validation.md",
     "ML/Training & Generalization"
   ]
 }
