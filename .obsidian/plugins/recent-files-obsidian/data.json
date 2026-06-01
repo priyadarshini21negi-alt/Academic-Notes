@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Brain Signals",
+      "path": "Neuro/Brain Signals.md"
+    },
+    {
+      "basename": "Stimulus Representation",
+      "path": "Neuro/Stimulus Representation.md"
+    },
+    {
+      "basename": "Psychophysics",
+      "path": "Neuro/Psychophysics.md"
+    },
+    {
       "basename": "Command Line Environment",
       "path": "System Commands/Command Line Environment.md"
     },
@@ -13,20 +25,8 @@
       "path": "Neuro/Neurotransmitters.md"
     },
     {
-      "basename": "Stimulus Representation",
-      "path": "Neuro/Stimulus Representation.md"
-    },
-    {
-      "basename": "Brain Signals",
-      "path": "Neuro/Brain Signals.md"
-    },
-    {
       "basename": "Behavioral Readout",
       "path": "Neuro/Behavioral Readout.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Neuro/Psychophysics.md"
     },
     {
       "basename": "Geometric Interpretation aka Intro",
