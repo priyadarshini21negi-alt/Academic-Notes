@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "fundamental approaches to modeling data",
+      "path": "ML/notes/fundamental approaches to modeling data.md"
+    },
+    {
+      "basename": "Discriminative Models",
+      "path": "ML/notes/Discriminative Models.md"
+    },
+    {
+      "basename": "Generative Models",
+      "path": "ML/notes/Generative Models.md"
+    },
+    {
+      "basename": "Naive Bayes",
+      "path": "ML/notes/Naive Bayes.md"
+    },
+    {
+      "basename": "Perceptron Learning Algorithm",
+      "path": "ML/notes/Perceptron Learning Algorithm.md"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "ML/notes/Logistic Regression.md"
+    },
+    {
+      "basename": "PROBABILISTIC DISCRIMINATIVE MODELS",
+      "path": "ML/notes/PROBABILISTIC DISCRIMINATIVE MODELS.md"
+    },
+    {
+      "basename": "BOUNDARY-BASED DISCRIMINATIVE MODELS",
+      "path": "ML/notes/BOUNDARY-BASED DISCRIMINATIVE MODELS.md"
+    },
+    {
+      "basename": "Support Vector Machine",
+      "path": "ML/notes/Support Vector Machine.md"
+    },
+    {
+      "basename": "Soft Margin SVM",
+      "path": "ML/notes/Soft Margin SVM.md"
+    },
+    {
+      "basename": "Neural Networks",
+      "path": "ML/notes/Neural Networks.md"
+    },
+    {
       "basename": "Linux - Simple Commands",
       "path": "System Commands/Notes/Linux - Simple Commands.md"
     },
@@ -101,80 +145,32 @@
       "path": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md"
     },
     {
-      "basename": "Untitled",
-      "path": "ML/Untitled.md"
-    },
-    {
-      "basename": "Support Vector Machine",
-      "path": "ML/Support Vector Machine.md"
-    },
-    {
-      "basename": "Soft Margin SVM",
-      "path": "ML/Soft Margin SVM.md"
-    },
-    {
-      "basename": "Neural Networks",
-      "path": "ML/Neural Networks.md"
-    },
-    {
-      "basename": "fundamental approaches to modeling data",
-      "path": "ML/fundamental approaches to modeling data.md"
-    },
-    {
-      "basename": "Naive Bayes",
-      "path": "ML/Naive Bayes.md"
-    },
-    {
       "basename": "Boosting",
-      "path": "ML/Training & Generalization/Boosting.md"
+      "path": "ML/notes/Training & Generalization/Boosting.md"
     },
     {
       "basename": "Bagging",
-      "path": "ML/Training & Generalization/Bagging.md"
+      "path": "ML/notes/Training & Generalization/Bagging.md"
     },
     {
       "basename": "Regularization",
-      "path": "ML/Training & Generalization/Regularization.md"
+      "path": "ML/notes/Training & Generalization/Regularization.md"
     },
     {
       "basename": "Bias-Variance Tradeoff",
-      "path": "ML/Training & Generalization/Bias-Variance Tradeoff.md"
+      "path": "ML/notes/Training & Generalization/Bias-Variance Tradeoff.md"
     },
     {
       "basename": "Underfitting",
-      "path": "ML/Training & Generalization/Underfitting.md"
+      "path": "ML/notes/Training & Generalization/Underfitting.md"
     },
     {
       "basename": "Overfitting",
-      "path": "ML/Training & Generalization/Overfitting.md"
-    },
-    {
-      "basename": "BOUNDARY-BASED DISCRIMINATIVE MODELS",
-      "path": "ML/BOUNDARY-BASED DISCRIMINATIVE MODELS.md"
-    },
-    {
-      "basename": "Discriminative Models",
-      "path": "ML/Discriminative Models.md"
+      "path": "ML/notes/Training & Generalization/Overfitting.md"
     },
     {
       "basename": "Cross Validation",
-      "path": "ML/Training & Generalization/Cross Validation.md"
-    },
-    {
-      "basename": "Perceptron Learning Algorithm",
-      "path": "ML/Perceptron Learning Algorithm.md"
-    },
-    {
-      "basename": "PROBABILISTIC DISCRIMINATIVE MODELS",
-      "path": "ML/PROBABILISTIC DISCRIMINATIVE MODELS.md"
-    },
-    {
-      "basename": "Generative Models",
-      "path": "ML/Generative Models.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "ML/Logistic Regression.md"
+      "path": "ML/notes/Training & Generalization/Cross Validation.md"
     },
     {
       "basename": "joint probability distribution",
