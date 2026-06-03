@@ -1,40 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Brain Signals",
-      "path": "Neuro/Brain Signals.md"
-    },
-    {
-      "basename": "Stimulus Representation",
-      "path": "Neuro/Stimulus Representation.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Neuro/Psychophysics.md"
+      "basename": "Linux - Simple Commands",
+      "path": "System Commands/Notes/Linux - Simple Commands.md"
     },
     {
       "basename": "Command Line Environment",
-      "path": "System Commands/Command Line Environment.md"
+      "path": "System Commands/Notes/Command Line Environment.md"
     },
     {
-      "basename": "Neurons to Consciousness",
-      "path": "Neuro/Neurons to Consciousness.md"
+      "basename": "Command line editors",
+      "path": "System Commands/flashcards/Command line editors.md"
+    },
+    {
+      "basename": "Networking commands and SSH",
+      "path": "System Commands/flashcards/Networking commands and SSH.md"
     },
     {
       "basename": "Neurotransmitters",
-      "path": "Neuro/Neurotransmitters.md"
+      "path": "Neuro/flashcards/Neurotransmitters.md"
+    },
+    {
+      "basename": "Stimulus Representation",
+      "path": "Neuro/flashcards/Stimulus Representation.md"
+    },
+    {
+      "basename": "Neurons to Consciousness",
+      "path": "Neuro/flashcards/Neurons to Consciousness.md"
+    },
+    {
+      "basename": "Brain Signals",
+      "path": "Neuro/flashcards/Brain Signals.md"
     },
     {
       "basename": "Behavioral Readout",
-      "path": "Neuro/Behavioral Readout.md"
+      "path": "Neuro/flashcards/Behavioral Readout.md"
+    },
+    {
+      "basename": "Psychophysics",
+      "path": "Neuro/flashcards/Psychophysics.md"
+    },
+    {
+      "basename": "Psychophysics",
+      "path": "Neuro/notes/Psychophysics.md"
+    },
+    {
+      "basename": "Brain Signals",
+      "path": "Neuro/notes/Brain Signals.md"
+    },
+    {
+      "basename": "Behavioral Readout",
+      "path": "Neuro/notes/Behavioral Readout.md"
+    },
+    {
+      "basename": "Neurotransmitters",
+      "path": "Neuro/notes/Neurotransmitters.md"
+    },
+    {
+      "basename": "Stimulus Representation",
+      "path": "Neuro/notes/Stimulus Representation.md"
+    },
+    {
+      "basename": "Neurons to Consciousness",
+      "path": "Neuro/notes/Neurons to Consciousness.md"
+    },
+    {
+      "basename": "Pattern Matching",
+      "path": "System Commands/flashcards/Pattern Matching.md"
+    },
+    {
+      "basename": "Linux Processes Management",
+      "path": "System Commands/flashcards/Linux Processes Management.md"
+    },
+    {
+      "basename": "Software Management",
+      "path": "System Commands/flashcards/Software Management.md"
+    },
+    {
+      "basename": "Redirections",
+      "path": "System Commands/flashcards/Redirections.md"
+    },
+    {
+      "basename": "Combining commands & files",
+      "path": "System Commands/flashcards/Combining commands & files.md"
+    },
+    {
+      "basename": "Limits",
+      "path": "Math/Calculus/1. Single Variable/Limits.md"
+    },
+    {
+      "basename": "Pasted image 20260601084431",
+      "path": "System Commands/Attachments/Pasted image 20260601084431.png"
+    },
+    {
+      "basename": "Pasted image 20260601084100",
+      "path": "System Commands/Attachments/Pasted image 20260601084100.png"
     },
     {
       "basename": "Geometric Interpretation aka Intro",
       "path": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md"
     },
     {
-      "basename": "Limits",
-      "path": "Math/Calculus/1. Single Variable/Limits.md"
+      "basename": "Untitled",
+      "path": "ML/Untitled.md"
     },
     {
       "basename": "Support Vector Machine",
@@ -47,10 +115,6 @@
     {
       "basename": "Neural Networks",
       "path": "ML/Neural Networks.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "ML/Untitled.md"
     },
     {
       "basename": "fundamental approaches to modeling data",

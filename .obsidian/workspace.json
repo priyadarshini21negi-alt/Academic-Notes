@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a133f505000da4fd",
+        "id": "f441b4044cff7d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "7a984c4dfebaf566",
+            "id": "f37dbed2ff6a0c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuro/Stimulus Representation.md",
+                "file": "System Commands/Notes/Linux - Simple Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stimulus Representation"
-            }
-          },
-          {
-            "id": "15e08fca119aac34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuro/Neurotransmitters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neurotransmitters"
-            }
-          },
-          {
-            "id": "5267803d000fbf16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuro/Neurons to Consciousness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neurons to Consciousness"
-            }
-          },
-          {
-            "id": "f52b369ab0eb441f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuro/Brain Signals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brain Signals"
-            }
-          },
-          {
-            "id": "9b1c075b2ccaeeb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/1. Single Variable/Limits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limits"
+              "title": "Linux - Simple Commands"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,34 +45,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "fefb381b2b5bd1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f96a41e751606116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geometric Interpretation aka Intro"
             }
           },
           {
@@ -165,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -313,51 +228,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
-    "Neuro/Stimulus Representation.md",
-    "Neuro/Brain Signals.md",
-    "Neuro/Psychophysics.md",
-    "System Commands/Command Line Environment.md",
+    "System Commands/Notes/Command Line Environment.md",
+    "System Commands/flashcards/Command line editors.md",
+    "System Commands/flashcards/Networking commands and SSH.md",
+    "Neuro/flashcards/Neurotransmitters.md",
+    "Neuro/notes",
+    "Neuro/flashcards/Stimulus Representation.md",
+    "Neuro/flashcards/Neurons to Consciousness.md",
+    "Neuro/flashcards/Brain Signals.md",
+    "Neuro/flashcards/Behavioral Readout.md",
+    "Neuro/flashcards/Psychophysics.md",
+    "Neuro/notes/Psychophysics.md",
+    "Neuro/notes/Brain Signals.md",
+    "Neuro/notes/Behavioral Readout.md",
+    "Neuro/notes/Neurotransmitters.md",
+    "Neuro/notes/Stimulus Representation.md",
+    "Neuro/notes/Neurons to Consciousness.md",
+    "System Commands/flashcards/Pattern Matching.md",
+    "System Commands/flashcards/Linux Processes Management.md",
+    "System Commands/flashcards/Software Management.md",
+    "System Commands/flashcards/Redirections.md",
+    "System Commands/flashcards/Combining commands & files.md",
+    "System Commands/Notes",
+    "Math/Calculus/1. Single Variable/Limits.md",
+    "System Commands/flashcards/Linux Process Management.md",
+    "System Commands/Notes/Linux - Simple Commands.md",
+    "System Commands/flashcards",
+    "Neuro/flashcards",
+    "System Commands/Attachments/Pasted image 20260601084431.png",
+    "System Commands/Attachments/Pasted image 20260601084100.png",
+    "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
+    "ML/Untitled.md",
     "System Commands/Attachments/Pasted image 20260601084749.png",
     "System Commands/Attachments/Pasted image 20260601084515.png",
-    "System Commands/Attachments/Pasted image 20260601084431.png",
     "System Commands/Attachments/Pasted image 20260601084323.png",
-    "System Commands/Attachments/Pasted image 20260601084100.png",
     "System Commands/Attachments",
-    "Neuro/Neurons to Consciousness.md",
-    "Neuro/Neurotransmitters.md",
-    "Neuro/Behavioral Readout.md",
-    "Neuro/3. Brain Signals/Action Potentials (Spikes).md",
     "Neuro/3. Brain Signals",
-    "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125959.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125930.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125804.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125344.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125331.png",
     "Math/Calculus/1. Single Variable/Attachments",
-    "Math/Calculus/1. Single Variable/Limits.md",
     "Math/Calculus/2. Multi Variable",
     "Math/Calculus/1. Single Variable",
-    "System Commands/Linux.md",
-    "System Commands/linuxflashcards.md",
-    "Math/Differential Equations",
-    "Math/Statistics",
-    "Math",
-    "ML/Support Vector Machine.md",
-    "ML/Soft Margin SVM.md",
-    "ML/Neural Networks.md",
-    "System Commands",
-    "ML/Untitled.md",
-    "ML/fundamental approaches to modeling data.md",
-    "Neuro",
-    "ML/Naive Bayes.md",
-    "ML/Training & Generalization/Boosting.md",
-    "ML/Training & Generalization/Bagging.md",
-    "ML/Training & Generalization/Regularization.md",
-    "ML/Training & Generalization/Bias-Variance Tradeoff.md",
-    "ML/Training & Generalization/Underfitting.md",
-    "ML/Training & Generalization/Overfitting.md"
+    "Math/Differential Equations"
   ]
 }
