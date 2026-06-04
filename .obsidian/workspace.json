@@ -11,14 +11,12 @@
             "id": "f37dbed2ff6a0c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ML/notes/fundamental approaches to modeling data.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf"
               },
-              "icon": "lucide-file",
-              "title": "fundamental approaches to modeling data"
+              "icon": "lucide-file-text",
+              "title": "Discrete and Combinatorial Mathematics by Ralph P Grimaldi"
             }
           }
         ]
@@ -88,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -228,13 +226,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "f37dbed2ff6a0c93",
   "lastOpenFiles": [
-    "DL/tensors",
-    "ML/notes",
-    "ML/MLP/2. Scikit-learn",
-    "ML/MLP/1. Pandas",
-    "ML/MLP",
+    "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf",
+    "ML/notes/fundamental approaches to modeling data.md",
+    "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf",
+    "Math/Discrete Math/books",
+    "Computer Science",
+    "AI",
+    "Computer Science/Python DSA",
+    "Computer Science/Computer Networks",
+    "Computer Science/DBMS",
+    "Computer Science/Operating System",
+    "Computer Science/Compiler Design",
     "ML/notes/Discriminative Models.md",
     "ML/notes/Generative Models.md",
     "ML/notes/Naive Bayes.md",
@@ -250,7 +254,6 @@
     "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Networking commands and SSH.md",
     "Neuro/flashcards/Neurotransmitters.md",
-    "Neuro/notes",
     "Neuro/flashcards/Stimulus Representation.md",
     "Neuro/flashcards/Neurons to Consciousness.md",
     "Neuro/flashcards/Brain Signals.md",
@@ -260,17 +263,11 @@
     "Neuro/notes/Brain Signals.md",
     "Neuro/notes/Behavioral Readout.md",
     "Neuro/notes/Neurotransmitters.md",
-    "Neuro/notes/Stimulus Representation.md",
-    "System Commands/Notes",
-    "System Commands/flashcards",
-    "Neuro/flashcards",
     "System Commands/Attachments/Pasted image 20260601084431.png",
     "System Commands/Attachments/Pasted image 20260601084100.png",
     "System Commands/Attachments/Pasted image 20260601084749.png",
     "System Commands/Attachments/Pasted image 20260601084515.png",
     "System Commands/Attachments/Pasted image 20260601084323.png",
-    "System Commands/Attachments",
-    "Neuro/3. Brain Signals",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125959.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125930.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125804.png",
