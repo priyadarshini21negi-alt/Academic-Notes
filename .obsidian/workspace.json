@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f441b4044cff7d5f",
+        "id": "85d602acd1796f19",
         "type": "tabs",
         "children": [
           {
-            "id": "f37dbed2ff6a0c93",
+            "id": "fb269d2009dc0453",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Discrete and Combinatorial Mathematics by Ralph P Grimaldi"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -226,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37dbed2ff6a0c93",
+  "active": "ac8e7fc67b0b9753",
   "lastOpenFiles": [
     "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf",
     "ML/notes/fundamental approaches to modeling data.md",
