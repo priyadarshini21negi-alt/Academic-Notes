@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux - Simple Commands",
+      "path": "System Commands/Notes/Linux - Simple Commands.md"
+    },
+    {
       "basename": "Discrete and Combinatorial Mathematics by Ralph P Grimaldi",
       "path": "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Neural Networks",
       "path": "ML/notes/Neural Networks.md"
-    },
-    {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
     },
     {
       "basename": "Command Line Environment",

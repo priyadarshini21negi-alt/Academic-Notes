@@ -11,10 +11,14 @@
             "id": "fb269d2009dc0453",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Commands/Notes/Linux - Simple Commands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linux - Simple Commands"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -224,11 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "fb269d2009dc0453",
   "lastOpenFiles": [
+    "System Commands/Notes/Attachments/Pasted image 20260605210535.png",
+    "System Commands/Notes/Attachments/Pasted image 20260605205811.png",
+    "System Commands/Notes/Attachments/Pasted image 20260605205652.png",
+    "System Commands/Notes/Attachments",
+    "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf",
     "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf",
     "ML/notes/fundamental approaches to modeling data.md",
-    "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf",
     "Math/Discrete Math/books",
     "Computer Science",
     "AI",
@@ -236,7 +245,6 @@
     "Computer Science/Computer Networks",
     "Computer Science/DBMS",
     "Computer Science/Operating System",
-    "Computer Science/Compiler Design",
     "ML/notes/Discriminative Models.md",
     "ML/notes/Generative Models.md",
     "ML/notes/Naive Bayes.md",
@@ -268,8 +276,6 @@
     "System Commands/Attachments/Pasted image 20260601084323.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125959.png",
     "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125930.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125804.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125344.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125331.png"
+    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125804.png"
   ]
 }
