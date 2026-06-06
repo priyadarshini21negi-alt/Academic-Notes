@@ -37,50 +37,6 @@
       "path": "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf"
     },
     {
-      "basename": "fundamental approaches to modeling data",
-      "path": "ML/notes/fundamental approaches to modeling data.md"
-    },
-    {
-      "basename": "Discriminative Models",
-      "path": "ML/notes/Discriminative Models.md"
-    },
-    {
-      "basename": "Generative Models",
-      "path": "ML/notes/Generative Models.md"
-    },
-    {
-      "basename": "Naive Bayes",
-      "path": "ML/notes/Naive Bayes.md"
-    },
-    {
-      "basename": "Perceptron Learning Algorithm",
-      "path": "ML/notes/Perceptron Learning Algorithm.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "ML/notes/Logistic Regression.md"
-    },
-    {
-      "basename": "PROBABILISTIC DISCRIMINATIVE MODELS",
-      "path": "ML/notes/PROBABILISTIC DISCRIMINATIVE MODELS.md"
-    },
-    {
-      "basename": "BOUNDARY-BASED DISCRIMINATIVE MODELS",
-      "path": "ML/notes/BOUNDARY-BASED DISCRIMINATIVE MODELS.md"
-    },
-    {
-      "basename": "Support Vector Machine",
-      "path": "ML/notes/Support Vector Machine.md"
-    },
-    {
-      "basename": "Soft Margin SVM",
-      "path": "ML/notes/Soft Margin SVM.md"
-    },
-    {
-      "basename": "Neural Networks",
-      "path": "ML/notes/Neural Networks.md"
-    },
-    {
       "basename": "Command Line Environment",
       "path": "System Commands/Notes/Command Line Environment.md"
     },
@@ -151,34 +107,6 @@
     {
       "basename": "Geometric Interpretation aka Intro",
       "path": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md"
-    },
-    {
-      "basename": "Boosting",
-      "path": "ML/notes/Training & Generalization/Boosting.md"
-    },
-    {
-      "basename": "Bagging",
-      "path": "ML/notes/Training & Generalization/Bagging.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "ML/notes/Training & Generalization/Regularization.md"
-    },
-    {
-      "basename": "Bias-Variance Tradeoff",
-      "path": "ML/notes/Training & Generalization/Bias-Variance Tradeoff.md"
-    },
-    {
-      "basename": "Underfitting",
-      "path": "ML/notes/Training & Generalization/Underfitting.md"
-    },
-    {
-      "basename": "Overfitting",
-      "path": "ML/notes/Training & Generalization/Overfitting.md"
-    },
-    {
-      "basename": "Cross Validation",
-      "path": "ML/notes/Training & Generalization/Cross Validation.md"
     },
     {
       "basename": "joint probability distribution",
