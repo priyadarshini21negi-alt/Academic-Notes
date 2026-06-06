@@ -6,8 +6,7 @@ answering one big question:
 ## 1. Electrical Signals 
 They are the most direct signals produced by neurons. 
 ### 1. Action Potentials (Spikes)
-A rapid change in the polarity of a neuron's membrane potential ;; Action Potentials
-<!--SR:!2026-06-04,1,230-->
+A rapid change in the polarity of a neuron's membrane potential.
 #### Membrane Potential 
 The neuron membrane separates : 
 - Extracellular fluid (outside)
@@ -29,7 +28,7 @@ Cell becomes more positive
 Potassium leaves : $\text{K}^+ \rightarrow \text{outside}$ 
 
 - A neuron has a resting voltage of about ;; -70 mV
-<!--SR:!2026-06-06,3,250-->
+<!--SR:!2026-06-17,11,270-->
 - When enough stimulation arrives :- 
 	1. Neuron's voltage becomes less negative.
 	2. Threshold is reached (around -55 mV).
