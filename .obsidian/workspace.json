@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuro/flashcards/Brain Signals.md",
+                "file": "Neuro/notes/Psychophysics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Signals"
+              "title": "Psychophysics"
             }
           }
         ]
@@ -230,8 +230,8 @@
   },
   "active": "fb269d2009dc0453",
   "lastOpenFiles": [
-    "Neuro/notes/Brain Signals.md",
     "Neuro/flashcards/Brain Signals.md",
+    "Neuro/notes/Brain Signals.md",
     "Neuro/flashcards/Psychophysics.md",
     "Neuro/flashcards/Neurons to Consciousness.md",
     "Neuro/flashcards/Behavioral Readout.md",

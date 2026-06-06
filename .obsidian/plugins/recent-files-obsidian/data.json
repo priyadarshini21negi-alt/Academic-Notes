@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Psychophysics",
+      "path": "Neuro/notes/Psychophysics.md"
+    },
+    {
       "basename": "Brain Signals",
       "path": "Neuro/flashcards/Brain Signals.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Stimulus Representation",
       "path": "Neuro/flashcards/Stimulus Representation.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Neuro/notes/Psychophysics.md"
     },
     {
       "basename": "Behavioral Readout",

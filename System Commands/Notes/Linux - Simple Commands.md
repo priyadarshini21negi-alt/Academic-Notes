@@ -15,21 +15,25 @@
 # Useful System Information Command 
 1. Date - `date`
 2. Date in RFC email format ;; `date -R`
+<!--SR:!2026-06-09,3,256-->
 3. Calendar ;; `cal`
 <!--SR:!2026-06-10,4,276-->
 4. Specific month (August 1946) ;; `cal August 1946` or `cal 8 1946`
 <!--SR:!2026-06-09,3,256-->
 5. Vertical calendar ;; `ncal`
+<!--SR:!2026-06-07,1,236-->
 
 # Memory Statistics 
 1. Show RAM usage ;; `free`
 <!--SR:!2026-06-07,1,236-->
 2. Better version to show RAM usage (human readable format );; `free -h`
+<!--SR:!2026-06-07,1,236-->
 3. **Swap Memory?** ;; Swap is a disk space used as Emergency memory when RAM is full. RAM -> fast ; Swap-> Slow. If Swap usage is 0, that's good
 <!--SR:!2026-06-07,1,236-->
 4. What command displays the groups a user belongs to? ;; groups
 <!--SR:!2026-06-09,3,256-->
 	What does membership in the `sudo` group allow?;; Administrative privileges
+<!--SR:!2026-06-10,4,276-->
 	Give examples of common Linux groups.;; student, sudo, docker
 <!--SR:!2026-06-07,1,236-->
 # About `ls`
@@ -37,8 +41,10 @@
 		Example:
 `drwxr-xr-x 2 user group 4096 Nov 25 Documents`
 What does the first character of `drwxr-xr-x` represent?;; File type
+<!--SR:!2026-06-07,1,236-->
 
 What do the next 9 characters represent? ;; Permissions
+<!--SR:!2026-06-07,1,236-->
 
 What does `user` represent in `ls -l` output?;;Owner
 <!--SR:!2026-06-07,1,236-->
@@ -52,19 +58,25 @@ What does `4096` represent in `ls -l` output?;;Size in bytes
 
 6. View contents of Another Directory ;; `ls -l filename `
 <!--SR:!2026-06-07,1,236-->
-7. View info about directory itself ;; `ls -ld filename` 
+7. View info about directory itself ;; `ls -ld filename`
+<!--SR:!2026-06-07,1,236-->
 		Without `-d`, Linux enters the directory.
 		With `-d`, Linux shows information about the directory object itself. 
-8. Show Inode + Long listing ;; `ls -ldi filename (or) ls -idl level1 (or) ls -lid level1` 
+8. Show Inode + Long listing ;; `ls -ldi filename (or) ls -idl level1 (or) ls -lid level1`
+<!--SR:!2026-06-07,1,236-->
 	- Shows : inode number, permissions, ownership, size
 9. Long Options : ![[Pasted image 20260605210535.png]] 
 # Commands for Reading Text Files 
-- Best command for reading text files. Why? ;; `less file.txt` Features : Scroll up/down, Search, Quit anytime with `q` 
-- Prints entire file immediately ;; `cat file.txt` Good for : Small files. not huge cuz everything floods the screen 
+- Best command for reading text files. Why? ;; `less file.txt` Features : Scroll up/down, Search, Quit anytime with `q`
+<!--SR:!2026-06-07,1,236-->
+- Prints entire file immediately ;; `cat file.txt` Good for : Small files. not huge cuz everything floods the screen
+<!--SR:!2026-06-07,1,236-->
 - Older version of `less` ;; `more file.txt` Page-by-Page viewing.
 <!--SR:!2026-06-10,4,276-->
-- Beginning of a file. Default lines? Custom number? ;; `head` file.txt . 10 lines. `head -n 5 file.txt` 
-- end of file. Default lines? Custom lines? ;; `tail file.txt` . 10 lines. `tail -n 5 file.txt` 
+- Beginning of a file. Default lines? Custom number? ;; `head` file.txt . 10 lines. `head -n 5 file.txt`
+<!--SR:!2026-06-07,1,236-->
+- end of file. Default lines? Custom lines? ;; `tail file.txt` . 10 lines. `tail -n 5 file.txt`
+<!--SR:!2026-06-09,3,256-->
 # Count Lines, Words, Characters 
 - Counting lines, words, characters. Output? ;; `wc file.txt` `27 97 581 file.txt` (lines, words, bytes)
 <!--SR:!2026-06-07,1,236-->
@@ -80,10 +92,16 @@ What does `4096` represent in `ls -l` output?;;Size in bytes
 # Discovering New Commands 
 (One of linux's hidden superpower) 
 - Shows all commands related to "who". ;; `apropos who` / `man -k who`
-- Shows bash built-in commands. Some commands come from linux and some from bash ;; `help` 
-- Text-based documentation browser. Think Wikipedia for installed linux commands inside your terminal ;; `info` 
-- where a command comes from. ;; `type ls` 
+<!--SR:!2026-06-07,1,236-->
+- Shows bash built-in commands. Some commands come from linux and some from bash ;; `help`
+<!--SR:!2026-06-10,4,276-->
+- Text-based documentation browser. Think Wikipedia for installed linux commands inside your terminal ;; `info`
+<!--SR:!2026-06-07,1,236-->
+- where a command comes from. ;; `type ls`
+<!--SR:!2026-06-07,1,236-->
 
 # Aliases 
-- Nickname for a command ;; Alias 
+- Nickname for a command ;; Alias
+<!--SR:!2026-06-07,1,236-->
 - Alias command example ;; `alias ll='ls -l'`
+<!--SR:!2026-06-07,1,236-->
