@@ -10,11 +10,31 @@
     },
     {
       "basename": "Brain Signals",
-      "path": "Neuro/notes/Brain Signals.md"
+      "path": "Neuro/flashcards/Brain Signals.md"
+    },
+    {
+      "basename": "Pasted image 20260601084749",
+      "path": "System Commands/Attachments/Pasted image 20260601084749.png"
+    },
+    {
+      "basename": "Pasted image 20260601084515",
+      "path": "System Commands/Attachments/Pasted image 20260601084515.png"
+    },
+    {
+      "basename": "Pasted image 20260601084431",
+      "path": "System Commands/Attachments/Pasted image 20260601084431.png"
+    },
+    {
+      "basename": "Pasted image 20260601084100",
+      "path": "System Commands/Attachments/Pasted image 20260601084100.png"
+    },
+    {
+      "basename": "Linux commands",
+      "path": "System Commands/flashcards/Linux commands.md"
     },
     {
       "basename": "Brain Signals",
-      "path": "Neuro/flashcards/Brain Signals.md"
+      "path": "Neuro/notes/Brain Signals.md"
     },
     {
       "basename": "naming conventions",
@@ -53,14 +73,6 @@
       "path": "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf"
     },
     {
-      "basename": "Command line editors",
-      "path": "System Commands/flashcards/Command line editors.md"
-    },
-    {
-      "basename": "Networking commands and SSH",
-      "path": "System Commands/flashcards/Networking commands and SSH.md"
-    },
-    {
       "basename": "Neurotransmitters",
       "path": "Neuro/flashcards/Neurotransmitters.md"
     },
@@ -81,36 +93,8 @@
       "path": "Neuro/notes/Stimulus Representation.md"
     },
     {
-      "basename": "Pattern Matching",
-      "path": "System Commands/flashcards/Pattern Matching.md"
-    },
-    {
-      "basename": "Linux Processes Management",
-      "path": "System Commands/flashcards/Linux Processes Management.md"
-    },
-    {
-      "basename": "Software Management",
-      "path": "System Commands/flashcards/Software Management.md"
-    },
-    {
-      "basename": "Redirections",
-      "path": "System Commands/flashcards/Redirections.md"
-    },
-    {
-      "basename": "Combining commands & files",
-      "path": "System Commands/flashcards/Combining commands & files.md"
-    },
-    {
       "basename": "Limits",
       "path": "Math/Calculus/1. Single Variable/Limits.md"
-    },
-    {
-      "basename": "Pasted image 20260601084431",
-      "path": "System Commands/Attachments/Pasted image 20260601084431.png"
-    },
-    {
-      "basename": "Pasted image 20260601084100",
-      "path": "System Commands/Attachments/Pasted image 20260601084100.png"
     },
     {
       "basename": "Geometric Interpretation aka Intro",
