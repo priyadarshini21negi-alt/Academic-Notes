@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuro/notes/Brain Signals.md",
+                "file": "System Commands/Notes/Linux - Simple Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Signals"
+              "title": "Linux - Simple Commands"
             }
           },
           {
@@ -244,8 +244,10 @@
   },
   "active": "fb269d2009dc0453",
   "lastOpenFiles": [
-    "Neuro/flashcards/Brain Signals.md",
+    "System Commands/Notes/Command Line Environment.md",
+    "System Commands/Notes/Linux - Simple Commands.md",
     "Neuro/notes/Brain Signals.md",
+    "Neuro/flashcards/Brain Signals.md",
     "Neuro/Attachments/naming conventions.png",
     "Neuro/Attachments/Pasted image 20260609115858.png",
     "Neuro/Attachments/Pasted image 20260609113731.png",
@@ -261,7 +263,6 @@
     "Neuro/flashcards/Psychophysics.md",
     "Neuro/flashcards/Neurons to Consciousness.md",
     "Neuro/flashcards/Behavioral Readout.md",
-    "System Commands/Notes/Linux - Simple Commands.md",
     "System Commands/Notes/Attachments/Pasted image 20260605210535.png",
     "System Commands/Notes/Attachments/Pasted image 20260605205811.png",
     "System Commands/Notes/Attachments/Pasted image 20260605205652.png",
@@ -281,7 +282,6 @@
     "ML/notes/PROBABILISTIC DISCRIMINATIVE MODELS.md",
     "ML/notes/BOUNDARY-BASED DISCRIMINATIVE MODELS.md",
     "ML/notes/Support Vector Machine.md",
-    "System Commands/Notes/Command Line Environment.md",
     "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Networking commands and SSH.md",
     "Neuro/flashcards/Neurotransmitters.md",

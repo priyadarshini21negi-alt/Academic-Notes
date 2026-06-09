@@ -4,7 +4,7 @@
 <!--SR:!2026-06-07,4,270-->
 2. parent directory - `cd ..`
 3. Home directory ;; `cd ~`
-<!--SR:!2026-06-07,4,270-->
+<!--SR:!2026-06-24,15,290-->
 4. Previous directory ;; `cd -`
 <!--SR:!2026-06-07,4,270--> 
 5. Multiple slashes are treated as same? ;; Yes
@@ -19,9 +19,9 @@
 3. Calendar ;; `cal`
 <!--SR:!2026-06-10,4,276-->
 4. Specific month (August 1946) ;; `cal August 1946` or `cal 8 1946`
-<!--SR:!2026-06-09,3,256-->
+<!--SR:!2026-06-20,11,276-->
 5. Vertical calendar ;; `ncal`
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-10,1,216-->
 
 # Memory Statistics 
 1. Show RAM usage ;; `free`
@@ -35,7 +35,7 @@
 	What does membership in the `sudo` group allow?;; Administrative privileges
 <!--SR:!2026-06-10,4,276-->
 	Give examples of common Linux groups.;; student, sudo, docker
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-11,2,236-->
 # About `ls`
 1. *Understanding `ls -l`* 
 		Example:
@@ -50,10 +50,10 @@ What does `user` represent in `ls -l` output?;;Owner
 <!--SR:!2026-06-07,1,236-->
 
 What does `group` represent in `ls -l` output?;;Group ownership
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-10,1,216-->
 
 What does `4096` represent in `ls -l` output?;;Size in bytes
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-10,1,216-->
 
 
 6. View contents of Another Directory ;; `ls -l filename `
@@ -63,7 +63,7 @@ What does `4096` represent in `ls -l` output?;;Size in bytes
 		Without `-d`, Linux enters the directory.
 		With `-d`, Linux shows information about the directory object itself. 
 8. Show Inode + Long listing ;; `ls -ldi filename (or) ls -idl level1 (or) ls -lid level1`
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-11,2,236-->
 	- Shows : inode number, permissions, ownership, size
 9. Long Options : ![[Pasted image 20260605210535.png]] 
 # Commands for Reading Text Files 
@@ -74,16 +74,16 @@ What does `4096` represent in `ls -l` output?;;Size in bytes
 - Older version of `less` ;; `more file.txt` Page-by-Page viewing.
 <!--SR:!2026-06-10,4,276-->
 - Beginning of a file. Default lines? Custom number? ;; `head` file.txt . 10 lines. `head -n 5 file.txt`
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-12,3,256-->
 - end of file. Default lines? Custom lines? ;; `tail file.txt` . 10 lines. `tail -n 5 file.txt`
-<!--SR:!2026-06-09,3,256-->
+<!--SR:!2026-06-18,9,256-->
 # Count Lines, Words, Characters 
 - Counting lines, words, characters. Output? ;; `wc file.txt` `27 97 581 file.txt` (lines, words, bytes)
 <!--SR:!2026-06-07,1,236-->
 - Only 1 line count ;; `wc -l file.txt`
 <!--SR:!2026-06-09,3,256-->
 - Finding commands. To tell location. Output? ;; `which ls` . `/usr/bin/ls`
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-10,1,216-->
 - What does a command do? Output? ;; `whatis ls` . `ls - list directory contents`
 <!--SR:!2026-06-07,1,236-->
 - Full documentation / complete manual ;; `man ls`
@@ -98,7 +98,7 @@ What does `4096` represent in `ls -l` output?;;Size in bytes
 - Text-based documentation browser. Think Wikipedia for installed linux commands inside your terminal ;; `info`
 <!--SR:!2026-06-07,1,236-->
 - where a command comes from. ;; `type ls`
-<!--SR:!2026-06-07,1,236-->
+<!--SR:!2026-06-10,1,216-->
 
 # Aliases 
 - Nickname for a command ;; Alias

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux - Simple Commands",
+      "path": "System Commands/Notes/Linux - Simple Commands.md"
+    },
+    {
+      "basename": "Command Line Environment",
+      "path": "System Commands/Notes/Command Line Environment.md"
+    },
+    {
       "basename": "Brain Signals",
       "path": "Neuro/notes/Brain Signals.md"
     },
@@ -37,20 +45,12 @@
       "path": "Neuro/flashcards/Behavioral Readout.md"
     },
     {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
-    },
-    {
       "basename": "Discrete and Combinatorial Mathematics by Ralph P Grimaldi",
       "path": "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf"
     },
     {
       "basename": "Discrete Mathematics and its Applications by Kenneth H Rosen",
       "path": "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf"
-    },
-    {
-      "basename": "Command Line Environment",
-      "path": "System Commands/Notes/Command Line Environment.md"
     },
     {
       "basename": "Command line editors",
