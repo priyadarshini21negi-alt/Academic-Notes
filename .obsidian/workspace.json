@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuro/notes/Psychophysics.md",
+                "file": "Neuro/notes/Brain Signals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychophysics"
+              "title": "Brain Signals"
+            }
+          },
+          {
+            "id": "5dc325d9d8038740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuro/flashcards/Brain Signals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brain Signals"
             }
           }
         ]
@@ -228,15 +242,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "fb269d2009dc0453",
   "lastOpenFiles": [
+    "Neuro/flashcards/Brain Signals.md",
+    "Neuro/notes/Brain Signals.md",
+    "Neuro/Attachments/naming conventions.png",
+    "Neuro/Attachments/Pasted image 20260609115858.png",
+    "Neuro/Attachments/Pasted image 20260609113731.png",
+    "Neuro/Attachments",
+    "Neuro/Attachments/naming conventions 2.png",
+    "Neuro/attachments/naming conventions 1.png",
+    "Neuro/notes/Neurons to Consciousness.md",
+    "Neuro/notes/Psychophysics.md",
     "ML/flashcards",
     "ML/notes/fundamental approaches to modeling data.md",
     "ML/notes/Soft Margin SVM.md",
     "ML/notes/Neural Networks.md",
-    "Neuro/notes/Psychophysics.md",
-    "Neuro/flashcards/Brain Signals.md",
-    "Neuro/notes/Brain Signals.md",
     "Neuro/flashcards/Psychophysics.md",
     "Neuro/flashcards/Neurons to Consciousness.md",
     "Neuro/flashcards/Behavioral Readout.md",
@@ -252,8 +273,6 @@
     "AI",
     "Computer Science/Python DSA",
     "Computer Science/Computer Networks",
-    "Computer Science/DBMS",
-    "Computer Science/Operating System",
     "ML/notes/Discriminative Models.md",
     "ML/notes/Generative Models.md",
     "ML/notes/Naive Bayes.md",
@@ -268,13 +287,7 @@
     "Neuro/flashcards/Neurotransmitters.md",
     "Neuro/flashcards/Stimulus Representation.md",
     "Neuro/notes/Behavioral Readout.md",
-    "Neuro/notes/Neurotransmitters.md",
     "System Commands/Attachments/Pasted image 20260601084431.png",
-    "System Commands/Attachments/Pasted image 20260601084100.png",
-    "System Commands/Attachments/Pasted image 20260601084749.png",
-    "System Commands/Attachments/Pasted image 20260601084515.png",
-    "System Commands/Attachments/Pasted image 20260601084323.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125959.png",
-    "Math/Calculus/1. Single Variable/Attachments/Pasted image 20260531125930.png"
+    "System Commands/Attachments/Pasted image 20260601084100.png"
   ]
 }

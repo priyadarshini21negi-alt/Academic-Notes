@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Psychophysics",
-      "path": "Neuro/notes/Psychophysics.md"
+      "basename": "Brain Signals",
+      "path": "Neuro/notes/Brain Signals.md"
     },
     {
       "basename": "Brain Signals",
       "path": "Neuro/flashcards/Brain Signals.md"
     },
     {
-      "basename": "Brain Signals",
-      "path": "Neuro/notes/Brain Signals.md"
+      "basename": "naming conventions",
+      "path": "Neuro/Attachments/naming conventions.png"
+    },
+    {
+      "basename": "naming conventions 2",
+      "path": "Neuro/Attachments/naming conventions 2.png"
+    },
+    {
+      "basename": "Neurons to Consciousness",
+      "path": "Neuro/notes/Neurons to Consciousness.md"
+    },
+    {
+      "basename": "Psychophysics",
+      "path": "Neuro/notes/Psychophysics.md"
     },
     {
       "basename": "Psychophysics",
@@ -67,10 +79,6 @@
     {
       "basename": "Stimulus Representation",
       "path": "Neuro/notes/Stimulus Representation.md"
-    },
-    {
-      "basename": "Neurons to Consciousness",
-      "path": "Neuro/notes/Neurons to Consciousness.md"
     },
     {
       "basename": "Pattern Matching",
