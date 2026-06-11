@@ -34,8 +34,37 @@
               "icon": "lucide-file",
               "title": "Brain Signals"
             }
+          },
+          {
+            "id": "ae1fb7cd3d73dcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/C & DSA/Number System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Number System"
+            }
+          },
+          {
+            "id": "473f65a0f8d9facc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/C & DSA/flashcards/Number System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Number System"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,19 +271,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac8e7fc67b0b9753",
+  "active": "473f65a0f8d9facc",
   "lastOpenFiles": [
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095907.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095848.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095753.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095733.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095708.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095642.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095622.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095555.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095527.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095344.png",
+    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095106.png",
+    "Computer Science/C & DSA/flashcards/Attachments",
+    "Computer Science/C & DSA/Number System.md",
+    "Computer Science/C & DSA/flashcards/Number System.md",
+    "Computer Science/C & DSA/flashcards",
+    "System Commands/flashcards/Linux commands.md",
     "System Commands/Notes/Command Line Environment.md",
     "System Commands/Notes/Linux - Simple Commands.md",
     "Neuro/flashcards/Brain Signals.md",
-    "System Commands/Attachments/Pasted image 20260601084749.png",
-    "System Commands/Attachments/Pasted image 20260601084515.png",
-    "System Commands/Attachments/Pasted image 20260601084431.png",
-    "System Commands/Attachments/Pasted image 20260601084100.png",
-    "System Commands/Attachments 1/Pasted image 20260605205652.png",
-    "System Commands/Attachments 1/Pasted image 20260605210535.png",
-    "System Commands/Attachments 1/Pasted image 20260605205811.png",
-    "System Commands/flashcards/Linux commands.md",
     "System Commands/flashcards/Networking commands and SSH.md",
     "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Combining commands & files.md",
@@ -263,9 +300,6 @@
     "System Commands/flashcards/Linux Processes Management.md",
     "System Commands/flashcards/Pattern Matching.md",
     "Neuro/notes/Brain Signals.md",
-    "Neuro/Attachments/naming conventions.png",
-    "Neuro/Attachments/Pasted image 20260609115858.png",
-    "Neuro/Attachments/Pasted image 20260609113731.png",
     "Neuro/Attachments",
     "Neuro/notes/Neurons to Consciousness.md",
     "Neuro/notes/Psychophysics.md",
@@ -282,12 +316,8 @@
     "Math/Discrete Math/books",
     "Computer Science",
     "AI",
-    "Computer Science/Python DSA",
-    "Computer Science/Computer Networks",
     "ML/notes/Discriminative Models.md",
     "ML/notes/Generative Models.md",
-    "ML/notes/Naive Bayes.md",
-    "ML/notes/Perceptron Learning Algorithm.md",
-    "ML/notes/Logistic Regression.md"
+    "ML/notes/Naive Bayes.md"
   ]
 }
