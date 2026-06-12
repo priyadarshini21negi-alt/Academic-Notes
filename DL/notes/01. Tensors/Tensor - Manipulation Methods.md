@@ -113,4 +113,47 @@ torch.arange(
     step=0.5
 )
 ```
-## 
+## Creating Tensors from Existing Tensors 
+#### zeros_like() 
+Creates tensor with:-
+- Same shape
+- all values = 0
+Eg, `y=torch.zeros_like(x)` 
+eg, 
+```python
+x = torch.rand(3,4)
+y = torch.zeros_like(x)
+``` 
+```output 
+3x4 tensor of zeros 
+```
+
+
+## Data Types 
+### Float32 
+```python
+torch.float32
+``` 
+Used for : Neural Networks, Continuous values, Gradient Calculations 
+```python
+torch.tensor(
+	[3.0, 6.0, 9.0]
+)
+
+#Default 
+torch.float32
+``` 
+### Int64 
+```python 
+torch.int64
+```
+Used for : Labels, Integer Indexing 
+```python
+#Example 
+torch.tensor(
+	[3, 6, 9]
+	dtype = torch.int64
+)
+```
+
+### Gradient Tracking 
