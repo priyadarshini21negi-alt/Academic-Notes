@@ -294,6 +294,9 @@ ls -l
 Create:
 
 ```bash
+# view 
+alias 
+
 # Creating an alias
 alias ll='ls -l'
 
@@ -304,44 +307,46 @@ unalias ll
 alias rm='rm -i'
 ```
 
-View:
 
-```bash
-alias
-```
-
-Remove:
-
-```bash
-unalias ll
-```
-
-Common safety alias:
-
-```bash
-alias rm='rm -i'
-```
 
 ---
 
 # Inodes
 
-Every file has an inode.
+An **inode** (index node) is a data structure used by Linux filesystems to store information **about a file**.
+Think of it as the file's **identity card**.
 
 Stores:
-
 - Permissions
-    
 - Ownership
-    
 - Timestamps
-    
 - Disk location
-    
+- Example:
+```bash
+file size = 500 
+bytesowner = priyadarshini
+permissions = rw-r--r--
+created = today
+```
+All this information is stored in the inode.
 
-View:
+##### What are not stored in Inodes?
+The filename is **not** stored in the inode. 
+Linux actually stores:
+```
+filename  → inode number
+```
+inside the directory.
+
+Example:
+```
+notes.txt → inode 1357
+```
+The inode then contains the metadata.
+
 
 ```bash
+# viewing inode 
 ls -i
 ls -li
 ```
@@ -349,28 +354,80 @@ ls -li
 ---
 
 # Hard Links
+A **hard link** is simply **another filename that points to the same inode**.
+Remember:
+```
+filename → inode → actual file data
+```
+Normally:
+```
+file1 → inode 1001
+```
+If you create a hard link:
+```
+ln file1 file2
+```
+you get:
+```
+file1 → inode 1001file2 → inode 1001
+```
+Both filenames point to the **same inode** and therefore the **same file**.
 
-Same inode:
-
-```text
-file1
-file3
+# Example
+Create a file:
+```
+touch file1
+```
+Check inode:
+```
+ls -li
+```
+Example:
+```
+12345 file1
+```
+Create hard link:
+```
+ln file1 file2
+```
+Check again:
+```
+ls -li
+```
+Output:
+```
+12345 file
+112345 file2
 ```
 
-Same actual file.
-
+Notice:
+- Same inode number
+- Same file
+- Same data
 ---
 
 # Hard Link Count
 
-In:
-
 ```bash
 ls -l
 ```
+Example:
+```
+-rw-r--r-- 2 user user 0 Jun 12 file1
+```
+The **2** means:
+```
+2 hard links point to this inode
+```
+# Hard Link vs Symbolic Link
 
-the number after permissions represents hard links.
-
+| Feature                             | Hard Link | Symbolic Link |
+| ----------------------------------- | --------- | ------------- |
+| Shares inode                        | Yes       | No            |
+| Separate file                       | No        | Yes           |
+| Acts like shortcut                  | No        | Yes           |
+| Survives original filename deletion | Yes       | No            |
+|Command|`ln`|`ln -s`|
 ---
 
 # Reading Files

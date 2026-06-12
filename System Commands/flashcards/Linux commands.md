@@ -79,6 +79,7 @@ What command renames a file? ;; mv _**oldname**_ _**newname**_
 What command removes a file? ;; rm _**file**_
 
 What command removes an empty directory? ;; rmdir _**directory**_
+<!--SR:!2026-06-14,2,246-->
 
 What command removes a directory recursively? ;; rm -r _**directory**_
 
@@ -153,10 +154,12 @@ What command shows disk usage in human-readable form? ;; du -h _**file**_
 What command shows overall filesystem disk space usage? ;; df -h
 
 What information does wc provide? ;; Number of lines, words and bytes
+<!--SR:!2026-06-13,1,230-->
 
 What does stat provide? ;; Detailed file metadata including size, permissions and timestamps
 
 What command prints the current logged-in username? ;; whoami
+<!--SR:!2026-06-13,1,226-->
 
 # ── FILE PERMISSIONS ────────────────────────────────────
 
@@ -187,6 +190,7 @@ What permission does 6 represent? ;; rw-
 What permission does 5 represent? ;; r-x
 
 What permission does 4 represent? ;; r--
+<!--SR:!2026-06-13,1,226-->
 
 What does permission 700 mean? ;; Full permissions for owner; none for group or others
 
@@ -219,6 +223,7 @@ What happens if the target of a symbolic link is deleted? ;; The symbolic link b
 What command creates a symbolic link? ;; ln -s _**source**_ _**link**_
 
 What command creates a hard link? ;; ln _**source**_ _**link**_
+<!--SR:!2026-06-13,1,226-->
 
 # ── LS -L OUTPUT FORMAT ─────────────────────────────────
 
@@ -271,6 +276,7 @@ What command shows kernel name, version and system architecture? ;; uname -a
 # ── GENERAL CONCEPTS ────────────────────────────────────
 
 What is a shell builtin? ;; A command implemented directly inside the shell
+<!--SR:!2026-06-13,1,230-->
 
 What is an executable command? ;; A command provided by a binary file
 
@@ -281,5 +287,6 @@ What is recursion in file operations? ;; Performing an operation on a directory 
 Why is recursive deletion dangerous? ;; It can delete entire directory trees
 
 What causes a Permission Denied error? ;; Lack of required permissions
+<!--SR:!2026-06-13,1,226-->
 
 Why is Linux considered relatively safe for beginners? ;; Permissions prevent accidental modification of most system files
