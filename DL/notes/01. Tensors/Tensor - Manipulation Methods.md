@@ -35,18 +35,19 @@ print(f"{torch.std(random_tensor).item():.6f}")
 ## Image Tensors 
 Images are stored as tensors. 
 `image_tensor = torch.rand(224,224,3)` 
-Interpretation : 
+Interpretation (HWC Format) : 
 - Height = 224
 - Width = 224
 - Channels = 3
-
+CHW Format(PyTorch model format): Channels x Height x Width.
+Why CWH?
+	Faster GPU computation, Efficient Memory Layout, Standard PyTorch Convention
 #### RGB channels 
 color images contain : Red, Green, Blue 
 therefore, channels = 3 
 #### Why 224 x 224? 
 Historical convention from ImageNet 
 Many CNN architectures use : 224 x 224 
-
 ### Tensor Shape 
 given,
 ```python 
@@ -77,5 +78,39 @@ Every tensor occupies memory
 #### Bytes Per Element
 Float32:
 `4 bytes` 
+#### Number of Elements 
+Formula : $Height$ x $Width$ x $Channels$ 
+#### Total Memory 
+$Memory$ = $Elements$×$Bytes Per Element$ 
+Example: $150,528×4=602,112$ $bytes$ $\approx 0.57 \text{ MB}$
 
-### Number of Eleme
+## Common Datasets 
+### MNIST : 
+Handwritten digits. Size = `28 x 28` 
+
+### CIFAR-10:
+color images. Size = `32 x 32 x 3` 
+
+### ImageNet 
+Large-scale image dataset. Common size = `224 × 224 × 3`
+
+
+
+## Generating Sequences 
+`torch.arrange()` - Creates a sequence of values 
+
+```python
+#Example :-
+torch.arrange(0,10)
+
+# Custom Step-Size 
+torch.arrange(0,10,2) 
+
+# Decimal Step-Size - used for Index generation, sampling, position values
+torch.arange(
+    start=0.5,
+    end=5,
+    step=0.5
+)
+```
+## 
