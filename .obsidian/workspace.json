@@ -175,16 +175,6 @@
             }
           },
           {
-            "id": "ac8e7fc67b0b9753",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "0eda34a365cff185",
             "type": "leaf",
             "state": {
@@ -195,17 +185,17 @@
             }
           },
           {
-            "id": "efcb3aab72c01941",
+            "id": "5ef821e9cf0ba5d2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -228,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb269d2009dc0453",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
-    "System Commands/Notes/Linux - Simple Commands.md",
     "System Commands/flashcards/Linux commands.md",
+    "System Commands/Notes/Linux - Simple Commands.md",
     "System Commands/flashcards/Attachments/Pasted image 20260612162907.png",
     "System Commands/flashcards/Attachments",
     "System Commands/Notes/Command Line Environment.md",

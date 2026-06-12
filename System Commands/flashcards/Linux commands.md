@@ -24,9 +24,6 @@ Does the order of options matter for the ls command? ;; No — ls accepts option
 What command changes to a directory? ;; cd _**directory**_
 <!--SR:!2026-06-15,3,266-->
 
-What command returns to the home directory? ;; cd
-<!--SR:!2026-06-15,3,266-->
-
 What command returns to the home directory using a shortcut? ;; cd ~
 <!--SR:!2026-06-15,3,266-->
 
@@ -42,16 +39,7 @@ What does . represent in Linux? ;; The current directory
 What does .. represent in Linux? ;; The parent directory
 <!--SR:!2026-06-15,3,266-->
 
-What does ~ represent in Linux? ;; The home directory
-<!--SR:!2026-06-15,3,266-->
-
-What does - represent when used with cd? ;; The previous working directory
-<!--SR:!2026-06-14,2,246-->
-
 What is the root directory in Linux? ;; /
-<!--SR:!2026-06-15,3,266-->
-
-What is the parent directory of the root? ;; The root directory itself
 <!--SR:!2026-06-15,3,266-->
 
 # ── DATE AND TIME ───────────────────────────────────────
@@ -62,7 +50,7 @@ What command displays the current date and time? ;; date
 What option makes date output in RFC 5322 format? ;; date -R
 <!--SR:!2026-06-15,3,266-->
 
-# ── CALENDAR ────────────────────────────────────────────
+# ── CALENDAR 
 
 What command displays the current month's calendar? ;; cal
 <!--SR:!2026-06-15,3,266-->
@@ -87,10 +75,10 @@ What command lists the groups a user belongs to? ;; groups
 What is swap memory? ;; Disk space used as overflow when RAM is full
 <!--SR:!2026-06-15,3,266-->
 
-Why is swap slower than RAM? ;; Disk access is much slower than physical memory
+Why is swap slower than RAM? ;; Swap is slower because it resides on disk storage, whose access speed is much lower than that of physical RAM.
 <!--SR:!2026-06-13,1,226-->
 
-# ── FILE AND DIRECTORY OPERATIONS ───────────────────────
+# ── FILE AND DIRECTORY OPERATIONS 
 
 What command creates a directory? ;; mkdir _**directory**_
 <!--SR:!2026-06-15,3,266-->
@@ -98,7 +86,7 @@ What command creates a directory? ;; mkdir _**directory**_
 What command creates an empty file? ;; touch _**file**_
 <!--SR:!2026-06-15,3,266-->
 
-What command copies a file? ;; cp _**source**_ _**destination**_
+What command copies a file? ;; cp _**source**_-**_destination_**
 <!--SR:!2026-06-15,3,266-->
 
 What command recursively copies a directory? ;; cp -r _**source**_ _**destination**_
@@ -392,9 +380,6 @@ What command shows kernel name, version and system architecture? ;; uname -a
 
 # ── GENERAL CONCEPTS ────────────────────────────────────
 
-What is a shell builtin? ;; A command implemented directly inside the shell
-<!--SR:!2026-06-13,1,230-->
-
 What is an executable command? ;; A command provided by a binary file
 <!--SR:!2026-06-13,1,226-->
 
@@ -410,10 +395,15 @@ Why is recursive deletion dangerous? ;; It can delete entire directory trees
 What causes a Permission Denied error? ;; Lack of required permissions
 <!--SR:!2026-06-13,1,226-->
 
-Why is Linux considered relatively safe for beginners? ;; Permissions prevent accidental modification of most system files
-<!--SR:!2026-06-13,1,226--> 
+A hypervisor is a software.
+A. Which is same as an operating system.
+B. Containing the source code of linux.
+C. That creates and runs virtual machines.
+D. That allows running multiple operating systems concurrently, while sharing hardware resources.
+?
+C. That creates and runs virtual machines.
+D. That allows running multiple operating systems concurrently, while sharing hardware resources.
+<!--SR:!2026-06-15,3,250-->
 
-
-![[Pasted image 20260612162907.png]] ? C. That creates and runs virtual machines D. That allows running multiple operating systems concurrently, while sharing hardware resources 
 
 
