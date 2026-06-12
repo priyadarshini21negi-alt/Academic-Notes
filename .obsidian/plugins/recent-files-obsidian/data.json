@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Tensor - Manipulation Methods",
-      "path": "DL/notes/01. Tensors/Tensor - Manipulation Methods.md"
-    },
-    {
-      "basename": "Tensor - Creation Methods",
-      "path": "DL/notes/01. Tensors/Tensor - Creation Methods.md"
-    },
-    {
-      "basename": "Tensor - Reshaping and Indexing methods",
-      "path": "DL/notes/01. Tensors/Tensor - Reshaping and Indexing methods.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/flashcards/Number System.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/Number System.md"
+      "basename": "Linux - Simple Commands",
+      "path": "System Commands/Notes/Linux - Simple Commands.md"
     },
     {
       "basename": "Linux commands",
@@ -29,12 +13,28 @@
       "path": "System Commands/Notes/Command Line Environment.md"
     },
     {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
-    },
-    {
       "basename": "Brain Signals",
       "path": "Neuro/flashcards/Brain Signals.md"
+    },
+    {
+      "basename": "Number System",
+      "path": "Computer Science/C & DSA/Number System.md"
+    },
+    {
+      "basename": "Number System",
+      "path": "Computer Science/C & DSA/flashcards/Number System.md"
+    },
+    {
+      "basename": "Tensor - Creation Methods",
+      "path": "DL/notes/01. Tensors/Tensor - Creation Methods.md"
+    },
+    {
+      "basename": "Tensor - Manipulation Methods",
+      "path": "DL/notes/01. Tensors/Tensor - Manipulation Methods.md"
+    },
+    {
+      "basename": "Tensor - Reshaping and Indexing methods",
+      "path": "DL/notes/01. Tensors/Tensor - Reshaping and Indexing methods.md"
     },
     {
       "basename": "Pasted image 20260601084749",

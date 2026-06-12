@@ -1,109 +1,77 @@
 
+---
 # Linux File System Basics
 
 Linux organizes everything in a hierarchical directory structure.
-
 The topmost directory is called the **root directory**:
-
 ```bash
 /
 ```
-
 Everything starts from here.
 
 ---
-
 # Important Directory Shortcuts
 
-| Symbol | Meaning |
-|----------|----------|
-| `.` | Current directory |
-| `..` | Parent directory |
-| `~` | Home directory |
-| `-` | Previous directory |
+| Symbol | Meaning            |
+| ------ | ------------------ |
+| `.`    | Current directory  |
+| `..`   | Parent directory   |
+| `~`    | Home directory     |
+| `-`    | Previous directory |
+
+Examples:
+```bash
+cd ..
+cd ~
+cd -
+cd
+```
 
 ---
-
-# Viewing Date and Time
+# Date and Time
 
 ```bash
+# Current Date and Time
 date
-```
-Example:
-```text
-Tue Jun 09 11:30:12 IST 2026
-```
 
----
-
-## RFC Format
-
-```bash
+# RFC 5322 email format. 
 date -R
 ```
 
-Displays date in RFC 5322 format (used in email systems).
-
 ---
-
-# Calendar Commands
-
-Show current month:
+# Calendar
 
 ```bash
+# Current month
 cal
-```
 
-Show a specific month:
-
-```bash
+# Specific month
 cal 8 1947
 cal August 1947
-```
 
----
-## Alternative Calendar Layout
-
-```bash
+# Vertical Calender 
 ncal
 ```
-
-Displays calendar vertically.
 
 ---
 
 # Memory Information
 
 ```bash
+# Memory statistics
 free
-```
 
-Shows memory statistics.
-
-Better format:
-
-```bash
+# Human readable output :-
 free -h
 ```
 
-Example:
-
-```text
-Total RAM : 31G
-Used RAM  : 1.2G
-Free RAM  : 26G
-```
-
 ---
-
 ## Swap Memory
 
-Swap is disk space used as backup memory when RAM is full.
-
 - RAM = Fast
-- Swap = Slow
-
-High swap usage generally indicates memory pressure.
+    
+- Swap = Slow (disk-based backup memory)
+    
 
 ---
 
@@ -113,43 +81,21 @@ High swap usage generally indicates memory pressure.
 groups
 ```
 
-Shows groups the current user belongs to.
-
-Example:
-
-```text
-student sudo docker
-```
-
-If you belong to `sudo`, you have administrator privileges.
+Displays groups of current user.
 
 ---
 
-# Directory Listings
-
-## Simple Listing
+# Directory Listing
 
 ```bash
+# Basic Listing
 ls
-```
 
----
-
-## Long Listing
-
-```bash
+# Long Listing 
 ls -l
 ```
-
-Example:
-
-```text
-drwxr-xr-x 2 user group 4096 Nov 25 Documents
-```
-
 ---
-
-# Understanding ls -l Output
+# Understanding ls -l
 
 Example:
 
@@ -157,29 +103,25 @@ Example:
 drwxr-xr-x
 ```
 
-### First Character = File Type
+### File Types
 
-| Symbol | Meaning |
-|----------|----------|
-| `-` | Regular file |
-| `d` | Directory |
-| `l` | Symbolic link |
-| `c` | Character device |
-| `b` | Block device |
-| `s` | Socket |
-| `p` | Named pipe |
+|Symbol|Meaning|
+|---|---|
+|`-`|Regular file|
+|`d`|Directory|
+|`l`|Symbolic link|
+|`c`|Character device|
+|`b`|Block device|
+|`s`|Socket|
+|`p`|Named pipe|
 
----
-
-### Remaining 9 Characters = Permissions
-
-Example:
+### Permissions
 
 ```text
 rwxr-xr-x
 ```
 
-Split into groups of three:
+Split into:
 
 ```text
 rwx | r-x | r-x
@@ -191,66 +133,46 @@ Owner | Group | Others
 
 # Permission Meaning
 
-| Symbol | Meaning |
-|----------|----------|
-| r | Read |
-| w | Write |
-| x | Execute |
+|Symbol|Meaning|
+|---|---|
+|r|Read|
+|w|Write|
+|x|Execute|
+
+---
+
+# Permission Categories
+
+## Owner
+
+User who owns the file.
+
+## Group
+
+Users belonging to the file's group.
+
+## Others
+
+Everyone else.
 
 ---
 
 # Numeric Permissions
 
-Permission values:
+|Permission|Number|
+|---|---|
+|rwx|7|
+|rw-|6|
+|r-x|5|
+|r--|4|
 
-| Permission | Value |
-|------------|--------|
-| r | 4 |
-| w | 2 |
-| x | 1 |
-
-Examples:
-
-| Permission | Number |
-| ---------- | ------ |
-| rwx        | 7      |
-| rw-        | 6      |
-| r-x        | 5      |
-| r--        | 4      |
-
----
-
-## Common Permission Modes
-
-### 700
+Common:
 
 ```text
-rwx------
+700 → rwx------
+755 → rwxr-xr-x
+644 → rw-r--r--
 ```
-
-Owner only.
-
----
-
-### 755
-
-```text
-rwxr-xr-x
-```
-
-Owner full access.
-
-Others can read and execute.
-
----
-
-### 644
-
-```text
-rw-r--r--
-```
-
-Typical file permission.
 
 ---
 
@@ -258,25 +180,12 @@ Typical file permission.
 
 ## Symbolic Mode
 
-Remove write permission from group:
-
 ```bash
 chmod g-w file
-```
-
-Remove execute permission:
-
-```bash
 chmod g-x file
-```
-
-Add read permission:
-
-```bash
+chmod o-x file
 chmod o+r file
 ```
-
----
 
 ## Numeric Mode
 
@@ -289,30 +198,20 @@ chmod 700 file
 # Creating Directories
 
 ```bash
-mkdir level1
+mkdir dir
 ```
-
-Creates directory.
 
 ---
 
 # Creating Files
 
 ```bash
-touch file1
+touch file
 ```
 
 Creates empty file.
 
----
-
-## Secondary Purpose
-
-```bash
-touch existing_file
-```
-
-Updates timestamp.
+Updates timestamp if file already exists.
 
 ---
 
@@ -322,45 +221,25 @@ Updates timestamp.
 cp file1 file2
 ```
 
-Creates a copy.
-
 ---
 
 # Moving Files
 
 ```bash
-mv file2 ..
+mv file ..
 ```
 
-Moves file to parent directory.
-
----
-
-# Renaming Files
+Move file.
 
 ```bash
 mv oldname newname
 ```
 
-Example:
-
-```bash
-mv file2 file2a
-```
+Rename file.
 
 ---
 
 # Filenames With Spaces
-
-Wrong:
-
-```bash
-mv file1 file one
-```
-
-Linux sees two separate arguments.
-
-Correct:
 
 ```bash
 mv file1 "file one"
@@ -371,24 +250,73 @@ mv file1 "file one"
 # Deleting Files
 
 ```bash
-rm file1
+rm file
 ```
 
-Deletes file.
-
----
-
-## Safer Removal
+Interactive mode:
 
 ```bash
-rm -i file1
+rm -i file
 ```
-
-Prompts before deleting.
 
 ---
 
-## Permanent Alias
+# Aliases
+An **alias** is simply a **shortcut name for another command**.
+Instead of typing a long command every time, you create a shorter nickname.
+
+# Example
+
+Suppose you frequently use:
+
+```
+ls -l
+```
+
+You can create an alias:
+
+```
+alias ll='ls -l'
+```
+
+Now typing:
+
+```
+ll
+```
+
+is exactly the same as typing:
+
+```
+ls -l
+```
+
+Create:
+
+```bash
+# Creating an alias
+alias ll='ls -l'
+
+# Removing an alias 
+unalias ll
+
+# Common safety alias
+alias rm='rm -i'
+```
+
+View:
+
+```bash
+alias
+```
+
+Remove:
+
+```bash
+unalias ll
+```
+
+Common safety alias:
 
 ```bash
 alias rm='rm -i'
@@ -400,30 +328,27 @@ alias rm='rm -i'
 
 Every file has an inode.
 
-An inode stores:
+Stores:
 
-- file metadata
-- permissions
-- ownership
-- location on disk
+- Permissions
+    
+- Ownership
+    
+- Timestamps
+    
+- Disk location
+    
 
-View inode numbers:
+View:
 
 ```bash
 ls -i
-```
-
-or
-
-```bash
 ls -li
 ```
 
 ---
 
 # Hard Links
-
-Multiple filenames can point to the same inode.
 
 Same inode:
 
@@ -436,40 +361,177 @@ Same actual file.
 
 ---
 
+# Hard Link Count
+
+In:
+
+```bash
+ls -l
+```
+
+the number after permissions represents hard links.
+
+---
+
 # Reading Files
+
+## less
 
 ```bash
 less file.txt
 ```
 
-Navigate file page-by-page.
+Best text viewer.
 
-Controls:
+Quit:
 
-- Space = next page
-- q = quit
+```text
+q
+```
 
 ---
 
-# Tab Completion
-
-Instead of typing:
+## cat
 
 ```bash
-alternatives.log
+cat file.txt
 ```
 
-Type:
-
-```bash
-alt<TAB>
-```
-
-Bash completes it.
+Prints entire file.
 
 ---
 
-# Determining File Type
+## more
+
+```bash
+more file.txt
+```
+
+Older pager.
+
+> less is more
+
+---
+
+## head
+
+```bash
+head file.txt
+head -n 5 file.txt
+```
+
+---
+
+## tail
+
+```bash
+tail file.txt
+tail -n 5 file.txt
+```
+
+---
+
+# Counting Content
+
+```bash
+wc file.txt
+```
+
+Shows:
+
+- Lines
+    
+- Words
+    
+- Bytes
+    
+
+Only lines:
+
+```bash
+wc -l file.txt
+```
+
+---
+
+# Finding Commands
+
+## Location
+
+```bash
+which command
+```
+
+---
+
+## Short Description
+
+```bash
+whatis command
+```
+
+---
+
+## Full Documentation
+
+```bash
+man command
+```
+
+---
+
+## Search Commands
+
+```bash
+apropos keyword
+```
+
+Equivalent:
+
+```bash
+man -k keyword
+```
+
+---
+
+# Bash Help
+
+```bash
+help
+```
+
+Help for shell built-ins.
+
+---
+
+# Info Browser
+
+```bash
+info
+```
+
+Interactive documentation browser.
+
+---
+
+# Command Types
+
+```bash
+type command
+```
+
+Shows whether command is:
+
+- Alias
+    
+- Built-in
+    
+- Executable
+    
+
+---
+
+# File Type Detection
 
 ```bash
 file filename
@@ -477,55 +539,31 @@ file filename
 
 Examples:
 
-```bash
-file script.sh
-```
-
-Output:
-
-```text
-ASCII text
-```
-
----
-
-```bash
-file zoom
-```
-
-Output:
-
-```text
-symbolic link
-```
+- ASCII text
+    
+- Binary executable
+    
+- Directory
+    
+- Symbolic link
+    
 
 ---
 
-```bash
-file zoom-launcher
-```
+# Text vs Binary Files
 
-Output:
+## Text
 
-```text
-ELF 64-bit executable
-```
-
----
-
-# ASCII vs Binary Files
-
-## ASCII
-
-Human-readable text.
+Human-readable.
 
 Examples:
 
 - Source code
+    
 - Shell scripts
-- Configuration files
-
----
+    
+- Config files
+    
 
 ## Binary
 
@@ -534,41 +572,40 @@ Machine-readable.
 Examples:
 
 - Chrome
+    
 - VS Code
+    
 - Zoom
-
-Opening them as text produces garbage.
-
----
-
-# Permission Denied Errors
-
-Occurs when:
-
-- You are not owner
-- No read permission
-- No write permission
-- No execute permission
-
-Linux protects system files this way.
+    
 
 ---
 
-# Advanced Linux Commands
+# Tab Completion
+
+```bash
+alt<TAB>
+```
+
+Auto-completes filenames.
+
+---
+
+# Current User
+
+```bash
+whoami
+```
+
+Displays current username.
 
 ---
 
 # Root Directory Facts
 
-Multiple slashes are treated the same:
+Multiple slashes are equivalent:
 
 ```bash
 /usr/bin
-```
-
-is equivalent to
-
-```bash
 ////usr////bin
 ```
 
@@ -581,7 +618,7 @@ cd /
 cd ..
 ```
 
-Still remains in:
+Still remains:
 
 ```bash
 /
@@ -589,314 +626,48 @@ Still remains in:
 
 ---
 
-# Advanced ls Usage
+# Advanced ls
 
----
-
-## View Contents of Another Directory
+Directory contents:
 
 ```bash
-ls -l level1
+ls -l dir
 ```
 
-Shows contents inside level1.
-
----
-
-## View Directory Itself
+Directory itself:
 
 ```bash
-ls -ld level1
+ls -ld dir
 ```
 
-Shows information about level1 without entering it.
-
 ---
 
-## Display Inode Number
+# Combining Options
 
 ```bash
-ls -li
+ls -ldi
+```
+
+Equivalent to:
+
+```bash
+ls -l -d -i
 ```
 
 ---
 
 # Long Options
 
-Many commands have readable forms.
-
 Examples:
 
 ```bash
 ls --inode
-```
-
-```bash
 ls --directory
 ```
 
-Equivalent to:
-
-```bash
-ls -i
-```
-
-```bash
-ls -d
-```
-
 ---
 
-# Reading Text Files
-
----
-
-## less
-
-```bash
-less file.txt
-```
-
-Best text viewer.
-
-Supports scrolling.
-
----
-
-## cat
-
-```bash
-cat file.txt
-```
-
-Prints entire file immediately.
-
-Good for small files.
-
----
-
-## more
-
-```bash
-more file.txt
-```
-
-Older pager.
-
-Less powerful than `less`.
-
----
-
-## head
-
-First 10 lines:
-
-```bash
-head file.txt
-```
-
-Custom:
-
-```bash
-head -n 5 file.txt
-```
-
----
-
-## tail
-
-Last 10 lines:
-
-```bash
-tail file.txt
-```
-
-Custom:
-
-```bash
-tail -n 5 file.txt
-```
-
----
-
-# Counting Lines, Words and Bytes
-
-```bash
-wc file.txt
-```
-
-Output:
-
-```text
-27 97 581 file.txt
-```
-
-Meaning:
-
-- 27 lines
-- 97 words
-- 581 bytes
-
----
-
-## Only Count Lines
-
-```bash
-wc -l file.txt
-```
-
----
-
-# Finding Commands
-
----
-
-## Where Is A Command?
-
-```bash
-which ls
-```
-
-Output:
-
-```text
-/usr/bin/ls
-```
-
----
-
-## What Does A Command Do?
-
-```bash
-whatis ls
-```
-
-Output:
-
-```text
-ls - list directory contents
-```
-
----
-
-## Full Documentation
-
-```bash
-man ls
-```
-
----
-
-# Discovering New Commands
-
-Search descriptions:
-
-```bash
-apropos keyword
-```
-
-Example:
-
-```bash
-apropos who
-```
-
----
-
-Equivalent:
-
-```bash
-man -k who
-```
-
----
-
-# Bash Help
-
-```bash
-help
-```
-
-Lists shell built-in commands.
-
----
-
-# Info System
-
-```bash
-info
-```
-
-Interactive documentation browser.
-
-Navigation:
-
-- Enter = open
-- Left Arrow = back
-
----
-
-# Understanding type
-
-Shows command origin.
-
-```bash
-type ls
-```
-
-Possible results:
-
-```text
-ls is aliased to ...
-```
-
-or
-
-```text
-ls is /usr/bin/ls
-```
-
-or
-
-```text
-type is a shell builtin
-```
-
----
-
-# Aliases
-
-Create:
-
-```bash
-alias ll='ls -l'
-```
-
-Use:
-
-```bash
-ll
-```
-
----
-
-## View Aliases
-
-```bash
-alias
-```
-
----
-
-## Remove Alias
-
-```bash
-unalias ll
-```
-
----
-
-# Arguments vs Options
+# Options vs Arguments
 
 Option:
 
@@ -904,17 +675,11 @@ Option:
 ls -l
 ```
 
-`-l` is an option.
-
----
-
 Argument:
 
 ```bash
 ls file.txt
 ```
-
-`file.txt` is an argument.
 
 ---
 
@@ -924,13 +689,9 @@ ls file.txt
 touch file1 file2 file3
 ```
 
-Creates all files at once.
-
 ---
 
 # Recursive Operations
-
----
 
 ## Copy Directory
 
@@ -938,23 +699,35 @@ Creates all files at once.
 cp -r dir1 dir2
 ```
 
-Copies entire directory tree.
-
----
-
 ## Delete Directory
 
 ```bash
 rm -r dir1
 ```
 
-Deletes directory and everything inside.
+---
+
+# mv vs cp
+
+## mv
+
+Works on directories automatically.
+
+```bash
+mv dir1 dir2
+```
+
+## cp
+
+Requires recursion.
+
+```bash
+cp -r dir1 dir2
+```
 
 ---
 
-# Hard Links vs Symbolic Links
-
----
+# Links
 
 ## Symbolic Link
 
@@ -976,62 +749,52 @@ ln file1 file3
 
 Same inode.
 
-Same actual file.
+---
+
+# Hard Link vs Symbolic Link
+
+|Feature|Hard Link|Symbolic Link|
+|---|---|---|
+|Shares inode|Yes|No|
+|Separate file|No|Yes|
+|Survives original deletion|Yes|No|
+|Command|`ln`|`ln -s`|
 
 ---
 
 # File Information
 
----
-
 ## stat
 
 ```bash
-stat file.txt
+stat file
 ```
 
 Shows:
 
-- size
-- permissions
-- timestamps
-- inode
+- Size
+    
+- Inode
+    
+- Permissions
+    
+- Timestamps
+    
 
 ---
 
 ## du
 
-Disk usage:
-
 ```bash
-du file.txt
+du file
+du -h file
 ```
 
-Human readable:
-
-```bash
-du -h file.txt
-```
+Disk usage.
 
 ---
 
-# Why File Size Differs
-
-Example:
-
-Actual size:
-
-```text
-4553 bytes
-```
-
-Disk usage:
-
-```text
-8 KB
-```
-
-Reason:
+# File Size vs Disk Usage
 
 Files occupy blocks.
 
@@ -1041,53 +804,65 @@ Typical block:
 4096 bytes
 ```
 
-A file larger than 4096 bytes requires two blocks.
+Disk usage may be larger than actual file size.
 
 ---
 
-# /proc Filesystem
+# Virtual Filesystems
 
-```bash
-cd /proc
-```
+## /proc
 
-Virtual filesystem generated by the kernel.
+Kernel-generated information.
 
 Not stored on disk.
 
+Examples:
+
+```bash
+/proc/cpuinfo
+/proc/meminfo
+/proc/version
+/proc/partitions
+```
+
 ---
 
-## CPU Information
+## Process IDs
+
+Inside `/proc`:
+
+```text
+/proc/1
+/proc/245
+/proc/1834
+```
+
+Directories named with Process IDs (PIDs).
+
+---
+
+## System Information
+
+CPU:
 
 ```bash
 cat /proc/cpuinfo
 ```
 
----
-
-## Memory Information
+Memory:
 
 ```bash
 cat /proc/meminfo
 ```
 
----
-
-## Kernel Information
+Kernel:
 
 ```bash
 cat /proc/version
-```
-
-or
-
-```bash
 uname -a
 ```
 
----
-
-## Partition Information
+Partitions:
 
 ```bash
 cat /proc/partitions
@@ -1095,108 +870,58 @@ cat /proc/partitions
 
 ---
 
-## Disk Usage
+# Disk Usage
 
 ```bash
+df
 df -h
 ```
 
 Shows:
 
-- partition size
-- used space
-- free space
-- mount points
+- Filesystems
+    
+- Used space
+    
+- Free space
+    
+- Mount points
+    
 
 ---
 
 # /sys Filesystem
 
-```bash
-cd /sys
-```
-
-Provides hardware and device information.
+Modern hardware information interface.
 
 Examples:
 
-USB devices, drivers, buses, CPUs.
+```bash
+/sys/bus/usb/devices
+```
 
----
+Contains device information.
 
-## USB Device Information
-
-Manufacturer:
+Examples:
 
 ```bash
 cat manufacturer
-```
-
-Product:
-
-```bash
 cat product
 ```
 
-Useful for identifying connected hardware.
-
 ---
 
-# Most Important Commands To Remember
+# Permission Denied
 
-```bash
-pwd
-cd
-ls
-ls -l
-mkdir
-touch
-cp
-cp -r
-mv
-rm
-rm -r
-chmod
-less
-cat
-head
-tail
-wc
-which
-whatis
-man
-apropos
-type
-alias
-ln
-ln -s
-stat
-du -h
-df -h
-free -h
-groups
-file
-uname -a
-```
+Occurs when:
 
----
+- No read permission
+    
+- No write permission
+    
+- No execute permission
+    
+- User is not owner
+    
 
-# Most Important Concepts
-
-1. Linux file hierarchy starts at `/`
-2. `.` = current directory
-3. `..` = parent directory
-4. `~` = home directory
-5. Permissions (`rwx`)
-6. Ownership (user/group)
-7. `chmod`
-8. Files vs directories
-9. Hard links vs symbolic links
-10. Options vs arguments
-11. Recursive operations (`-r`)
-12. Aliases
-13. Using `man`, `whatis`, `apropos`
-14. Virtual filesystems (`/proc`, `/sys`)
-15. Basic file manipulation (`touch`, `cp`, `mv`, `rm`) 
-
-#review 
+Linux uses permissions to protect system files.
