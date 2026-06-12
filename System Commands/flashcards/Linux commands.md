@@ -407,9 +407,17 @@ D. That allows running multiple operating systems concurrently, while sharing ha
 
 
 
-![[Pasted image 20260612164908.png]] ;; `mv *.txt level1` 
+![[Pasted image 20260612164908.png]] ;; `mv *.txt level1`
+<!--SR:!2026-06-15,3,250-->
 
 ![[Pasted image 20260612165201.png]] ;; `file *`
+<!--SR:!2026-06-13,1,230-->
 
-![[Pasted image 20260612165848.png]] ;; `chmod 712 systemcommands.txt` 
+![[Pasted image 20260612165848.png]] ;; `chmod 712 systemcommands.txt`
+<!--SR:!2026-06-13,1,230-->
 
+![[Pasted image 20260612170444.png]] ;; `touch 152.digits`
+<!--SR:!2026-06-13,1,230-->
+
+![[Pasted image 20260612170957.png]] ;;![[Pasted image 20260612171009.png]]
+<!--SR:!2026-06-15,3,250-->
