@@ -31,6 +31,7 @@ What command returns to the home directory using a shortcut? ;; cd ~
 <!--SR:!2026-06-15,3,266-->
 
 What command goes to the previous working directory? ;; cd -
+<!--SR:!2026-06-15,3,266-->
 
 What command goes up one level? ;; cd ..
 <!--SR:!2026-06-15,3,266-->
@@ -51,6 +52,7 @@ What is the root directory in Linux? ;; /
 <!--SR:!2026-06-15,3,266-->
 
 What is the parent directory of the root? ;; The root directory itself
+<!--SR:!2026-06-15,3,266-->
 
 # ── DATE AND TIME ───────────────────────────────────────
 
@@ -63,6 +65,7 @@ What option makes date output in RFC 5322 format? ;; date -R
 # ── CALENDAR ────────────────────────────────────────────
 
 What command displays the current month's calendar? ;; cal
+<!--SR:!2026-06-15,3,266-->
 
 What command displays a specific month and year calendar? ;; cal _**month**_ _**year**_
 <!--SR:!2026-06-15,3,266-->
@@ -102,6 +105,7 @@ What command recursively copies a directory? ;; cp -r _**source**_ _**destinatio
 <!--SR:!2026-06-14,2,246-->
 
 What command moves a file? ;; mv _**source**_ _**destination**_
+<!--SR:!2026-06-15,3,266-->
 
 What command renames a file? ;; mv _**oldname**_ _**newname**_
 <!--SR:!2026-06-13,1,226-->
@@ -136,6 +140,7 @@ What command also displays a file page-by-page? ;; more _**file**_
 <!--SR:!2026-06-13,1,226-->
 
 What is the practical difference between more and less? ;; less supports backward navigation and is more feature-rich
+<!--SR:!2026-06-13,1,226-->
 
 What command displays the first 10 lines of a file? ;; head _**file**_
 <!--SR:!2026-06-15,3,266-->
@@ -236,6 +241,7 @@ What command removes execute permission from the group? ;; chmod g-x _**file**_
 <!--SR:!2026-06-13,1,226-->
 
 What command removes execute permission from others? ;; chmod o-x _**file**_
+<!--SR:!2026-06-13,1,226-->
 
 What command adds read permission to others? ;; chmod o+r _**file**_
 <!--SR:!2026-06-14,2,246-->
@@ -285,6 +291,7 @@ Does an inode store the filename? ;; No
 <!--SR:!2026-06-15,3,266-->
 
 What information does an inode store? ;; Permissions, ownership, timestamps and disk block locations
+<!--SR:!2026-06-14,2,246-->
 
 How can two filenames be identified as hard links to each other? ;; They share the same inode number
 <!--SR:!2026-06-13,1,226-->
@@ -328,6 +335,7 @@ What does l at the start of ls -l output indicate? ;; A symbolic link
 <!--SR:!2026-06-13,1,226-->
 
 What does c at the start of ls -l output indicate? ;; A character device
+<!--SR:!2026-06-13,1,226-->
 
 What does b at the start of ls -l output indicate? ;; A block device
 <!--SR:!2026-06-13,1,226-->
@@ -365,6 +373,7 @@ What is the /sys filesystem? ;; A virtual filesystem exposing hardware and devic
 <!--SR:!2026-06-13,1,226-->
 
 Why are /proc and /sys called virtual filesystems? ;; They expose runtime kernel information rather than storing files on disk
+<!--SR:!2026-06-13,1,226-->
 
 What information can be found in /proc/cpuinfo? ;; CPU details
 <!--SR:!2026-06-14,2,246-->
@@ -402,4 +411,9 @@ What causes a Permission Denied error? ;; Lack of required permissions
 <!--SR:!2026-06-13,1,226-->
 
 Why is Linux considered relatively safe for beginners? ;; Permissions prevent accidental modification of most system files
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-13,1,226--> 
+
+
+![[Pasted image 20260612162907.png]] ? C. That creates and runs virtual machines D. That allows running multiple operating systems concurrently, while sharing hardware resources 
+
+

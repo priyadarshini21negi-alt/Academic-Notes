@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Commands/Notes/Linux - Simple Commands.md",
+                "file": "System Commands/flashcards/Linux commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux - Simple Commands"
+              "title": "Linux commands"
             }
           }
         ]
@@ -230,8 +230,10 @@
   },
   "active": "fb269d2009dc0453",
   "lastOpenFiles": [
-    "System Commands/flashcards/Linux commands.md",
     "System Commands/Notes/Linux - Simple Commands.md",
+    "System Commands/flashcards/Linux commands.md",
+    "System Commands/flashcards/Attachments/Pasted image 20260612162907.png",
+    "System Commands/flashcards/Attachments",
     "System Commands/Notes/Command Line Environment.md",
     "Neuro/flashcards/Brain Signals.md",
     "Computer Science/C & DSA/Number System.md",
@@ -252,7 +254,6 @@
     "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095622.png",
     "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095555.png",
     "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095527.png",
-    "Computer Science/C & DSA/flashcards/Attachments/Pasted image 20260611095344.png",
     "Computer Science/C & DSA/flashcards/Attachments",
     "Computer Science/C & DSA/flashcards",
     "System Commands/flashcards/Networking commands and SSH.md",
@@ -273,7 +274,6 @@
     "Neuro/flashcards/Psychophysics.md",
     "System Commands/Attachments 1",
     "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf",
-    "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf",
-    "Math/Discrete Math/books"
+    "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf"
   ]
 }
