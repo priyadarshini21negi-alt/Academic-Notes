@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Tensor - Manipulation Methods",
+      "path": "DL/notes/01. Tensors/Tensor - Manipulation Methods.md"
+    },
+    {
       "basename": "Tensor - Creation Methods",
-      "path": "DL/notes/Tensor - Creation Methods.md"
+      "path": "DL/notes/01. Tensors/Tensor - Creation Methods.md"
+    },
+    {
+      "basename": "Tensor - Reshaping and Indexing methods",
+      "path": "DL/notes/01. Tensors/Tensor - Reshaping and Indexing methods.md"
     },
     {
       "basename": "Number System",
