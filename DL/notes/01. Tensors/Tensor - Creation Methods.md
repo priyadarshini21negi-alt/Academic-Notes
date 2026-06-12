@@ -1,5 +1,15 @@
 #review
 Simplest way to create tensors is from - Python Data Structure 
+# Why Are We Learning Tensors?
+Deep Learning models operate entirely on tensors.
+Everything in a neural network is represented as a tensor:
+- Input data
+- Weights
+- Biases
+- Activations
+- Gradients
+Therefore:
+> Deep Learning = Tensor Operations + Matrix Multiplication + Gradient Computation
 
 ## Creating types of Tensors 
 ### Scalar (0-dimension)
