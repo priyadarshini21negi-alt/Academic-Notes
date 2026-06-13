@@ -14,7 +14,7 @@ It measures Voltage Difference
 POSTSYNAPTIC POTENTIALS :
 - Excited PSP
 - Inhibitory PSP
-<!--SR:!2026-06-12,3,250-->
+<!--SR:!2026-06-15,2,230-->
 
 
 What are Postsynaptic Potentials?
@@ -24,16 +24,16 @@ that occur when neurotransmitters bind to receptors after being released by a pr
 <!--SR:!2026-06-10,1,230-->
 
 2 major sources of Postsynaptic Potentials ;; Excited PSP (EPSPs) & Inhibitory PSP (IPSPs)
-<!--SR:!2026-06-12,3,250-->
+<!--SR:!2026-06-15,2,230-->
 
 Why doesn't EEG come from Action Potentials? ;; because Action Potentials are very brief, of a few milliseconds, and too small individually. A single neuron contributes nothing to EEG
-<!--SR:!2026-06-12,3,250-->
+<!--SR:!2026-06-20,7,250-->
 
 what systems do they use to set up electrode location ;; 10-20 system. i.e, Electrodes are placed at position that are 10% or 20% of skull distances
 <!--SR:!2026-06-12,3,250-->
 
 Alpha Waves ;; strongest and easiest EEG rhythms to observe
-<!--SR:!2026-06-12,3,250-->
+<!--SR:!2026-06-21,8,250-->
 
 frequency of alpha waves ;; 8-13 Hz
 <!--SR:!2026-06-10,1,230-->
