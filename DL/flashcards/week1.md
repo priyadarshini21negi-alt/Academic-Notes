@@ -42,5 +42,10 @@ What are the minimum and maximum possible values of derivative of sigmoid(x)? ;;
 
 ![[Pasted image 20260613201030.png]] ;; ytd 
 
+![[Pasted image 20260613201235.png]] ;; ytd 
+
+![[Pasted image 20260613201301.png]] ;; ytd 
+
+
 
 
