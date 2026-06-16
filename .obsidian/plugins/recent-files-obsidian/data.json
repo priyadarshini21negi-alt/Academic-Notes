@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Signed & Unsigned numbers in memory",
+      "path": "Computer Science/C & DSA/notes/Signed & Unsigned numbers in memory.md"
+    },
+    {
+      "basename": "Number System",
+      "path": "Computer Science/C & DSA/notes/Number System.md"
+    },
+    {
+      "basename": "Number System",
+      "path": "Computer Science/C & DSA/flashcards/Number System.md"
+    },
+    {
+      "basename": "GATE CSE 2007 Sign extension ques",
+      "path": "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png"
+    },
+    {
       "basename": "Linearly Dependent and Independent Vectors",
       "path": "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md"
     },
@@ -27,14 +43,6 @@
     {
       "basename": "Brain Signals",
       "path": "Neuro/flashcards/Brain Signals.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/Number System.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/flashcards/Number System.md"
     },
     {
       "basename": "Tensor - Creation Methods",

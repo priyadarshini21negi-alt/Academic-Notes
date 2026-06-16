@@ -13,3 +13,11 @@
 <!--SR:!2026-06-12,1,228-->
 ![[Pasted image 20260611095848.png]] ;; ![[Pasted image 20260611095907.png]]
 
+Sign extension is a step in :-
+A. Floating point multiplication
+B. Signed 16 bit Integer addition
+C. Arithmetic left shift 
+D. Converting a signed integer from one size to another 
+? 
+D.
+
