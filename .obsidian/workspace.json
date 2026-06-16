@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md",
+                "file": "Neuro/notes/Psychophysics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signed & Unsigned Numbers-Extension, Truncation & Integer promotion"
+              "title": "Psychophysics"
+            }
+          },
+          {
+            "id": "2a339c6150300c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuro/Python Refresher/LIF NEURON I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LIF NEURON I"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -276,10 +289,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c4a8c998c05d6d06",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
-    "Computer Science/C & DSA/notes/Number System.md",
+    "Neuro/notes/Psychophysics.md",
+    "Neuro/Python Refresher/LIF NEURON I.md",
     "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md",
+    "Neuro/Python Refresher",
+    "Computer Science/C & DSA/notes/Number System.md",
     "Computer Science/C & DSA/flashcards/Number System.md",
     "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png",
     "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md",
@@ -312,7 +328,6 @@
     "Computer Science/C & DSA/flashcards/Untitled.md",
     "Computer Science/C & DSA/flashcards/Untitled 1.md",
     "DL/notes",
-    "Computer Science/C & DSA/Attachments",
     "System Commands/flashcards/Networking commands and SSH.md",
     "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Combining commands & files.md",
@@ -321,8 +336,6 @@
     "System Commands/flashcards/Linux Processes Management.md",
     "System Commands/flashcards/Pattern Matching.md",
     "Neuro/notes/Brain Signals.md",
-    "Neuro/notes/Neurons to Consciousness.md",
-    "Neuro/notes/Psychophysics.md",
-    "ML/notes/fundamental approaches to modeling data.md"
+    "Neuro/notes/Neurons to Consciousness.md"
   ]
 }

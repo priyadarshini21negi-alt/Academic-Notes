@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LIF NEURON I",
+      "path": "Neuro/Python Refresher/LIF NEURON I.md"
+    },
+    {
+      "basename": "Psychophysics",
+      "path": "Neuro/notes/Psychophysics.md"
+    },
+    {
       "basename": "Signed & Unsigned Numbers-Extension, Truncation & Integer promotion",
       "path": "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Neurons to Consciousness",
       "path": "Neuro/notes/Neurons to Consciousness.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Neuro/notes/Psychophysics.md"
     },
     {
       "basename": "Psychophysics",
