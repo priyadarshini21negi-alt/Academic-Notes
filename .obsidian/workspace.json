@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/C & DSA/notes/Signed & Unsigned numbers in memory.md",
-                "mode": "source",
+                "file": "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signed & Unsigned numbers in memory"
+              "title": "Signed & Unsigned Numbers-Extension, Truncation & Integer promotion"
             }
           }
         ],
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -278,7 +279,7 @@
   "active": "c4a8c998c05d6d06",
   "lastOpenFiles": [
     "Computer Science/C & DSA/notes/Number System.md",
-    "Computer Science/C & DSA/notes/Signed & Unsigned numbers in memory.md",
+    "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md",
     "Computer Science/C & DSA/flashcards/Number System.md",
     "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png",
     "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md",
