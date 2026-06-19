@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Intro",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md"
+    },
+    {
+      "basename": "Bonus-Decoding and Encoding",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Bonus-Decoding and Encoding.md"
+    },
+    {
+      "basename": "3. Building and Evaluating Normative Encoding Models",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/3. Building and Evaluating Normative Encoding Models.md"
+    },
+    {
+      "basename": "2. Convolutional Neural Networks",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md"
+    },
+    {
+      "basename": "1. Decoding Neural Responses",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
+    },
+    {
       "basename": "Gaussian naive Bayes",
       "path": "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Estimating the parameters",
       "path": "ML/MLT/01. Unsupervised Learning/Estimating the parameters.md"
-    },
-    {
-      "basename": "Convex functions and Jensen's inequality",
-      "path": "ML/MLT/01. Unsupervised Learning/Convex functions and Jensen's inequality.md"
-    },
-    {
-      "basename": "LIF NEURON I",
-      "path": "Computational Neuroscience/0. Pre-Req/2. Python/LIF NEURON I.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Psychophysics.md"
-    },
-    {
-      "basename": "Signed & Unsigned Numbers-Extension, Truncation & Integer promotion",
-      "path": "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/flashcards/Number System.md"
     }
   ],
   "omittedPaths": [],

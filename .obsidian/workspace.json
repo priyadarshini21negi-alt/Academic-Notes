@@ -11,10 +11,14 @@
             "id": "e31575ae23e13f3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -216,6 +221,16 @@
   },
   "active": "e31575ae23e13f3e",
   "lastOpenFiles": [
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Bonus-Decoding and Encoding.md",
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/3. Building and Evaluating Normative Encoding Models.md",
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md",
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md",
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md",
+    "Computational Neuroscience/2. Machine Learning/5. Autoencoders (Bonus)",
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning",
+    "Computational Neuroscience/2. Machine Learning/3. Dimensionality Reduction",
+    "Computational Neuroscience/2. Machine Learning/2. Generalized Linear Models",
+    "Computational Neuroscience/2. Machine Learning/1. Model Fitting",
     "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md",
     "ML/MLT/03. Discriminative models/Perceptron Learning Algorithm.md",
     "ML/MLT/03. Discriminative models/Sigmoid function.md",
@@ -241,17 +256,7 @@
     "ML/MLT/02. Supervised Learning/Probabilistic view of Linear Regression.md",
     "ML/MLT/02. Supervised Learning/Ridge Regression.md",
     "ML/MLT/02. Supervised Learning/Relation between solution of Linear Regression and Ridge Regression.md",
-    "ML/MLT/02. Supervised Learning/Relation between solution of Lasso Regression and Linear Regression.md",
-    "ML/MLT/02. Supervised Learning/Lasso Regression.md",
-    "ML/MLT/02. Supervised Learning/Binary Classification.md",
-    "ML/MLT/02. Supervised Learning/K-nearest Neighbours.md",
-    "ML/MLT/02. Supervised Learning/Decision Trees.md",
     "ML/MLT/02. Supervised Learning",
-    "ML/MLT/01. Unsupervised Learning",
-    "ML/MLT",
-    "ML/MLP/notes",
-    "Computational Neuroscience/5. Stochastic Processes",
-    "Computational Neuroscience/4. Dynamical Systems",
     "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png",
     "Math/Linear Algebra/Attachments/WhatsApp Image 2026-06-06 at 8.05.02 PM.jpeg",
     "DL/flashcards/Attachments/Pasted image 20260613201301.png",

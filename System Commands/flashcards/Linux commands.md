@@ -7,7 +7,7 @@ What command lists files with detailed info (permissions, owner, size, date)? ;;
 <!--SR:!2026-06-14,2,246-->
 
 What command shows inode numbers alongside filenames? ;; ls -i
-<!--SR:!2026-06-14,2,246-->
+<!--SR:!2026-06-20,1,226-->
 
 What command shows the directory entry itself rather than its contents? ;; ls -d _**directory**_
 <!--SR:!2026-06-13,1,226-->
@@ -25,7 +25,7 @@ What command changes to a directory? ;; cd _**directory**_
 <!--SR:!2026-06-15,3,266-->
 
 What command returns to the home directory using a shortcut? ;; cd ~
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-06-29,10,286-->
 
 What command goes to the previous working directory? ;; cd -
 <!--SR:!2026-06-15,3,266-->
@@ -48,7 +48,7 @@ What command displays the current date and time? ;; date
 <!--SR:!2026-06-15,3,266-->
 
 What option makes date output in RFC 5322 format? ;; date -R
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-06-30,11,286-->
 
 # ── CALENDAR 
 
@@ -76,7 +76,7 @@ What is swap memory? ;; Disk space used as overflow when RAM is full
 <!--SR:!2026-06-15,3,266-->
 
 Why is swap slower than RAM? ;; Swap is slower because it resides on disk storage, whose access speed is much lower than that of physical RAM.
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-21,2,226-->
 
 # ── FILE AND DIRECTORY OPERATIONS 
 
@@ -143,7 +143,7 @@ What command displays the last N lines of a file? ;; tail -n _**N**_ _**file**_
 <!--SR:!2026-06-30,11,286-->
 
 What command counts lines, words and bytes in a file? ;; wc _**file**_
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 What command counts only lines in a file? ;; wc -l _**file**_
 <!--SR:!2026-06-13,1,226-->
@@ -194,7 +194,7 @@ Why do many users alias rm to rm -i? ;; To avoid accidental deletion
 # ── FILE INFORMATION ────────────────────────────────────
 
 What command displays the type of a file? ;; file _**file**_
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 What command displays detailed file metadata? ;; stat _**file**_
 <!--SR:!2026-06-13,1,226-->
@@ -235,7 +235,7 @@ What command adds read permission to others? ;; chmod o+r _**file**_
 <!--SR:!2026-06-14,2,246-->
 
 What are the three categories of Linux permissions? ;; Owner, Group, Others
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 What are the three basic Linux permissions? ;; Read, Write, Execute
 <!--SR:!2026-06-15,3,266-->
@@ -288,7 +288,7 @@ What is a hard link? ;; A directory entry pointing to the same inode as another 
 <!--SR:!2026-06-14,2,246-->
 
 What is a symbolic link? ;; A file that stores the path to another file or directory
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 Do hard links share inode numbers? ;; Yes
 <!--SR:!2026-06-20,1,206-->
@@ -417,7 +417,7 @@ D. That allows running multiple operating systems concurrently, while sharing ha
 <!--SR:!2026-06-13,1,230-->
 
 ![[Pasted image 20260612170444.png]] ;; `touch 152.digits`
-<!--SR:!2026-06-13,1,230-->
+<!--SR:!2026-06-20,1,210-->
 
 ![[Pasted image 20260612170957.png]] ;;![[Pasted image 20260612171009.png]]
 <!--SR:!2026-06-15,3,250-->
