@@ -5,24 +5,24 @@
       "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
     },
     {
-      "basename": "Feed-Forward Network",
-      "path": "DL/notes/Feed-Forward Network.md"
-    },
-    {
-      "basename": "Fundamental Tricks",
-      "path": "DL/notes/Fundamental Tricks.md"
-    },
-    {
-      "basename": "Neuron-Biology to Mathematics",
-      "path": "DL/notes/Neuron-Biology to Mathematics.md"
+      "basename": "Tensor",
+      "path": "DL/notes/Tensor.md"
     },
     {
       "basename": "PyTorch",
       "path": "DL/notes/PyTorch.md"
     },
     {
-      "basename": "Tensor",
-      "path": "DL/notes/Tensor.md"
+      "basename": "Neuron-Biology to Mathematics",
+      "path": "DL/notes/Neuron-Biology to Mathematics.md"
+    },
+    {
+      "basename": "Fundamental Tricks",
+      "path": "DL/notes/Fundamental Tricks.md"
+    },
+    {
+      "basename": "Feed-Forward Network",
+      "path": "DL/notes/Feed-Forward Network.md"
     },
     {
       "basename": "week1",
