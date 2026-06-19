@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Decoding Neural Responses",
+      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
+    },
+    {
+      "basename": "Feed-Forward Network",
+      "path": "DL/notes/Feed-Forward Network.md"
+    },
+    {
+      "basename": "Fundamental Tricks",
+      "path": "DL/notes/Fundamental Tricks.md"
+    },
+    {
+      "basename": "Neuron-Biology to Mathematics",
+      "path": "DL/notes/Neuron-Biology to Mathematics.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "DL/notes/PyTorch.md"
+    },
+    {
+      "basename": "Tensor",
+      "path": "DL/notes/Tensor.md"
+    },
+    {
+      "basename": "week1",
+      "path": "DL/flashcards/week1.md"
+    },
+    {
       "basename": "Intro",
       "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "2. Convolutional Neural Networks",
       "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md"
-    },
-    {
-      "basename": "1. Decoding Neural Responses",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
     },
     {
       "basename": "Gaussian naive Bayes",
@@ -145,10 +169,6 @@
       "path": "System Commands/flashcards/Linux commands.md"
     },
     {
-      "basename": "week1",
-      "path": "DL/flashcards/week1.md"
-    },
-    {
       "basename": "Linearly Dependent and Independent Vectors",
       "path": "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Clustering",
       "path": "ML/MLT/01. Unsupervised Learning/Clustering.md"
-    },
-    {
-      "basename": "K-means (Lloyd's algorithm)",
-      "path": "ML/MLT/01. Unsupervised Learning/K-means (Lloyd's algorithm).md"
-    },
-    {
-      "basename": "K-means ++",
-      "path": "ML/MLT/01. Unsupervised Learning/K-means ++.md"
-    },
-    {
-      "basename": "Estimation",
-      "path": "ML/MLT/01. Unsupervised Learning/Estimation.md"
-    },
-    {
-      "basename": "Gaussian Mixture Models",
-      "path": "ML/MLT/01. Unsupervised Learning/Gaussian Mixture Models.md"
-    },
-    {
-      "basename": "Estimating the parameters",
-      "path": "ML/MLT/01. Unsupervised Learning/Estimating the parameters.md"
     }
   ],
   "omittedPaths": [],
