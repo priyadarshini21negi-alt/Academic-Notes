@@ -62,9 +62,135 @@
               "icon": "lucide-file",
               "title": "Number System"
             }
+          },
+          {
+            "id": "737ec241a66ac6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "c096792515b5711d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Representation Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Representation Learning"
+            }
+          },
+          {
+            "id": "3a4b792ad89d78cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Principal Component Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principal Component Analysis"
+            }
+          },
+          {
+            "id": "8aa2c507bb69521f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Kernel Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel Functions"
+            }
+          },
+          {
+            "id": "44a61490eb7a50e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Kernel PCA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel PCA"
+            }
+          },
+          {
+            "id": "d8bef5db2f808c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Clustering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clustering"
+            }
+          },
+          {
+            "id": "0ffd35b4f4942c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/K-means (Lloyd's algorithm).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-means (Lloyd's algorithm)"
+            }
+          },
+          {
+            "id": "4020fbf482801e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/K-means ++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-means ++"
+            }
+          },
+          {
+            "id": "8ca5968755fea0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/Unsupervised Learning/Estimation Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estimation Intro"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -261,19 +387,32 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "8ca5968755fea0b6",
   "lastOpenFiles": [
+    "ML/MLT/Unsupervised Learning/Bayesian Estimation.md",
+    "ML/MLT/Unsupervised Learning/Maximum Likelihood Estimation.md",
+    "ML/MLT/Unsupervised Learning/Untitled 1.md",
+    "ML/MLT/Unsupervised Learning/Gaussian Mixture Models.md",
+    "ML/MLT/Unsupervised Learning/Estimation Intro.md",
+    "ML/MLT/Unsupervised Learning/K-means ++.md",
+    "ML/MLT/Unsupervised Learning/K-means (Lloyd's algorithm).md",
+    "ML/MLT/Unsupervised Learning/Clustering.md",
+    "ML/MLT/Unsupervised Learning/Kernel PCA.md",
+    "ML/MLT/Unsupervised Learning/Kernel Functions.md",
+    "ML/MLT/Unsupervised Learning/Principal Component Analysis.md",
+    "ML/MLT/Unsupervised Learning/Representation Learning.md",
+    "ML/MLT/Unsupervised Learning/Intro.md",
     "Computer Science/C & DSA/notes/Number System.md",
+    "ML/MLT/Supervised Learning",
+    "ML/MLT/Unsupervised Learning",
+    "ML/MLT",
+    "ML/MLP/notes",
     "Computational Neuroscience/5. Stochastic Processes",
     "Computational Neuroscience/4. Dynamical Systems",
     "Computational Neuroscience/2. Machine Learning",
     "Computational Neuroscience/1. Intro to Modeling",
     "Computational Neuroscience/0. Pre-Req/5. Statistics",
     "Computational Neuroscience/0. Pre-Req/4. Calculus",
-    "Computational Neuroscience/0. Pre-Req/3. Linear Algebra",
-    "Computational Neuroscience/0. Pre-Req/2. Python",
-    "Computational Neuroscience/0. Pre-Req",
-    "Computational Neuroscience",
     "Computational Neuroscience/0. Pre-Req/2. Python/LIF NEURON I.md",
     "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Psychophysics.md",
     "Computer Science/C & DSA/notes/Signed & Unsigned Numbers-Extension, Truncation & Integer promotion.md",
@@ -294,19 +433,6 @@
     "System Commands/flashcards/Linux commands.md",
     "System Commands/Notes/Linux - Simple Commands.md",
     "System Commands/Notes/Command Line Environment.md",
-    "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Brain Signals.md",
-    "DL/notes/01. Tensors/Tensor - Creation Methods.md",
-    "DL/notes/01. Tensors/Tensor - Manipulation Methods.md",
-    "DL/notes/01. Tensors/Tensor - Reshaping and Indexing methods.md",
-    "Computer Science/C & DSA/flashcards/Untitled.md",
-    "Computer Science/C & DSA/flashcards/Untitled 1.md",
-    "System Commands/flashcards/Networking commands and SSH.md",
-    "System Commands/flashcards/Command line editors.md",
-    "System Commands/flashcards/Combining commands & files.md",
-    "System Commands/flashcards/Redirections.md",
-    "System Commands/flashcards/Software Management.md",
-    "System Commands/flashcards/Linux Processes Management.md",
-    "System Commands/flashcards/Pattern Matching.md",
-    "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Brain Signals.md"
+    "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Brain Signals.md"
   ]
 }

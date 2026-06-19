@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Estimation Intro",
+      "path": "ML/MLT/Unsupervised Learning/Estimation Intro.md"
+    },
+    {
+      "basename": "K-means ++",
+      "path": "ML/MLT/Unsupervised Learning/K-means ++.md"
+    },
+    {
+      "basename": "K-means (Lloyd's algorithm)",
+      "path": "ML/MLT/Unsupervised Learning/K-means (Lloyd's algorithm).md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "ML/MLT/Unsupervised Learning/Clustering.md"
+    },
+    {
+      "basename": "Kernel PCA",
+      "path": "ML/MLT/Unsupervised Learning/Kernel PCA.md"
+    },
+    {
+      "basename": "Kernel Functions",
+      "path": "ML/MLT/Unsupervised Learning/Kernel Functions.md"
+    },
+    {
+      "basename": "Principal Component Analysis",
+      "path": "ML/MLT/Unsupervised Learning/Principal Component Analysis.md"
+    },
+    {
+      "basename": "Representation Learning",
+      "path": "ML/MLT/Unsupervised Learning/Representation Learning.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "ML/MLT/Unsupervised Learning/Intro.md"
+    },
+    {
       "basename": "Number System",
       "path": "Computer Science/C & DSA/notes/Number System.md"
     },
