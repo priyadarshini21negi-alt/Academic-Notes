@@ -1,44 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "Estimation Intro",
-      "path": "ML/MLT/Unsupervised Learning/Estimation Intro.md"
+      "basename": "Logistic Regression",
+      "path": "ML/MLT/03. Discriminative models/Logistic Regression.md"
     },
     {
-      "basename": "K-means ++",
-      "path": "ML/MLT/Unsupervised Learning/K-means ++.md"
+      "basename": "Sigmoid function",
+      "path": "ML/MLT/03. Discriminative models/Sigmoid function.md"
     },
     {
-      "basename": "K-means (Lloyd's algorithm)",
-      "path": "ML/MLT/Unsupervised Learning/K-means (Lloyd's algorithm).md"
+      "basename": "Perceptron Learning Algorithm",
+      "path": "ML/MLT/03. Discriminative models/Perceptron Learning Algorithm.md"
     },
     {
-      "basename": "Clustering",
-      "path": "ML/MLT/Unsupervised Learning/Clustering.md"
+      "basename": "Gaussian naive Bayes",
+      "path": "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md"
     },
     {
-      "basename": "Kernel PCA",
-      "path": "ML/MLT/Unsupervised Learning/Kernel PCA.md"
+      "basename": "Supervised Learning intro",
+      "path": "ML/MLT/02. Supervised Learning/Supervised Learning intro.md"
     },
     {
-      "basename": "Kernel Functions",
-      "path": "ML/MLT/Unsupervised Learning/Kernel Functions.md"
+      "basename": "Linear Regression",
+      "path": "ML/MLT/02. Supervised Learning/Linear Regression.md"
     },
     {
-      "basename": "Principal Component Analysis",
-      "path": "ML/MLT/Unsupervised Learning/Principal Component Analysis.md"
+      "basename": "Gradient Descent",
+      "path": "ML/MLT/02. Supervised Learning/Gradient Descent.md"
     },
     {
-      "basename": "Representation Learning",
-      "path": "ML/MLT/Unsupervised Learning/Representation Learning.md"
+      "basename": "Kernel Regression",
+      "path": "ML/MLT/02. Supervised Learning/Kernel Regression.md"
     },
     {
-      "basename": "Intro",
-      "path": "ML/MLT/Unsupervised Learning/Intro.md"
+      "basename": "Probabilistic view of Linear Regression",
+      "path": "ML/MLT/02. Supervised Learning/Probabilistic view of Linear Regression.md"
+    },
+    {
+      "basename": "Ridge Regression",
+      "path": "ML/MLT/02. Supervised Learning/Ridge Regression.md"
+    },
+    {
+      "basename": "Relation between solution of Linear Regression and Ridge Regression",
+      "path": "ML/MLT/02. Supervised Learning/Relation between solution of Linear Regression and Ridge Regression.md"
+    },
+    {
+      "basename": "Relation between solution of Lasso Regression and Linear Regression",
+      "path": "ML/MLT/02. Supervised Learning/Relation between solution of Lasso Regression and Linear Regression.md"
+    },
+    {
+      "basename": "Lasso Regression",
+      "path": "ML/MLT/02. Supervised Learning/Lasso Regression.md"
+    },
+    {
+      "basename": "Binary Classification",
+      "path": "ML/MLT/02. Supervised Learning/Binary Classification.md"
+    },
+    {
+      "basename": "K-nearest Neighbours",
+      "path": "ML/MLT/02. Supervised Learning/K-nearest Neighbours.md"
+    },
+    {
+      "basename": "Decision Trees",
+      "path": "ML/MLT/02. Supervised Learning/Decision Trees.md"
+    },
+    {
+      "basename": "Generative and Discriminative Models",
+      "path": "ML/MLT/02. Supervised Learning/Generative and Discriminative Models.md"
+    },
+    {
+      "basename": "Generative model-based algorithm",
+      "path": "ML/MLT/02. Supervised Learning/Generative model-based algorithm.md"
+    },
+    {
+      "basename": "Naive Bayes algorithm",
+      "path": "ML/MLT/02. Supervised Learning/Naive Bayes algorithm.md"
+    },
+    {
+      "basename": "EM algorithm",
+      "path": "ML/MLT/01. Unsupervised Learning/EM algorithm.md"
+    },
+    {
+      "basename": "Linux commands",
+      "path": "System Commands/flashcards/Linux commands.md"
+    },
+    {
+      "basename": "week1",
+      "path": "DL/flashcards/week1.md"
+    },
+    {
+      "basename": "Linearly Dependent and Independent Vectors",
+      "path": "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md"
     },
     {
       "basename": "Number System",
       "path": "Computer Science/C & DSA/notes/Number System.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "ML/MLT/01. Unsupervised Learning/Intro.md"
+    },
+    {
+      "basename": "Representation Learning",
+      "path": "ML/MLT/01. Unsupervised Learning/Representation Learning.md"
+    },
+    {
+      "basename": "Principal Component Analysis",
+      "path": "ML/MLT/01. Unsupervised Learning/Principal Component Analysis.md"
+    },
+    {
+      "basename": "Kernel Functions",
+      "path": "ML/MLT/01. Unsupervised Learning/Kernel Functions.md"
+    },
+    {
+      "basename": "Kernel PCA",
+      "path": "ML/MLT/01. Unsupervised Learning/Kernel PCA.md"
+    },
+    {
+      "basename": "Clustering",
+      "path": "ML/MLT/01. Unsupervised Learning/Clustering.md"
+    },
+    {
+      "basename": "K-means (Lloyd's algorithm)",
+      "path": "ML/MLT/01. Unsupervised Learning/K-means (Lloyd's algorithm).md"
+    },
+    {
+      "basename": "K-means ++",
+      "path": "ML/MLT/01. Unsupervised Learning/K-means ++.md"
+    },
+    {
+      "basename": "Estimation",
+      "path": "ML/MLT/01. Unsupervised Learning/Estimation.md"
+    },
+    {
+      "basename": "Gaussian Mixture Models",
+      "path": "ML/MLT/01. Unsupervised Learning/Gaussian Mixture Models.md"
+    },
+    {
+      "basename": "Estimating the parameters",
+      "path": "ML/MLT/01. Unsupervised Learning/Estimating the parameters.md"
+    },
+    {
+      "basename": "Convex functions and Jensen's inequality",
+      "path": "ML/MLT/01. Unsupervised Learning/Convex functions and Jensen's inequality.md"
     },
     {
       "basename": "LIF NEURON I",
@@ -62,19 +166,7 @@
     },
     {
       "basename": "Linearly Dependent and Independent Vectors",
-      "path": "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md"
-    },
-    {
-      "basename": "Linearly Dependent and Independent Vectors",
       "path": "Math/Linear Algebra/flashcards/Linearly Dependent and Independent Vectors.md"
-    },
-    {
-      "basename": "week1",
-      "path": "DL/flashcards/week1.md"
-    },
-    {
-      "basename": "Linux commands",
-      "path": "System Commands/flashcards/Linux commands.md"
     },
     {
       "basename": "Linux - Simple Commands",
@@ -107,82 +199,6 @@
     {
       "basename": "Pasted image 20260601084515",
       "path": "System Commands/Attachments/Pasted image 20260601084515.png"
-    },
-    {
-      "basename": "Pasted image 20260601084431",
-      "path": "System Commands/Attachments/Pasted image 20260601084431.png"
-    },
-    {
-      "basename": "Pasted image 20260601084100",
-      "path": "System Commands/Attachments/Pasted image 20260601084100.png"
-    },
-    {
-      "basename": "Brain Signals",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Brain Signals.md"
-    },
-    {
-      "basename": "naming conventions",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/Attachments/naming conventions.png"
-    },
-    {
-      "basename": "naming conventions 2",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/Attachments/naming conventions 2.png"
-    },
-    {
-      "basename": "Neurons to Consciousness",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Neurons to Consciousness.md"
-    },
-    {
-      "basename": "Psychophysics",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Psychophysics.md"
-    },
-    {
-      "basename": "Neurons to Consciousness",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Neurons to Consciousness.md"
-    },
-    {
-      "basename": "Behavioral Readout",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Behavioral Readout.md"
-    },
-    {
-      "basename": "Discrete and Combinatorial Mathematics by Ralph P Grimaldi",
-      "path": "Math/Discrete Math/books/Discrete and Combinatorial Mathematics by Ralph P Grimaldi.pdf"
-    },
-    {
-      "basename": "Discrete Mathematics and its Applications by Kenneth H Rosen",
-      "path": "Math/Discrete Math/books/Discrete Mathematics and its Applications by Kenneth H Rosen.pdf"
-    },
-    {
-      "basename": "Neurotransmitters",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Neurotransmitters.md"
-    },
-    {
-      "basename": "Stimulus Representation",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Stimulus Representation.md"
-    },
-    {
-      "basename": "Behavioral Readout",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Behavioral Readout.md"
-    },
-    {
-      "basename": "Neurotransmitters",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Neurotransmitters.md"
-    },
-    {
-      "basename": "Stimulus Representation",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/notes/Stimulus Representation.md"
-    },
-    {
-      "basename": "Limits",
-      "path": "Math/Calculus/1. Single Variable/Limits.md"
-    },
-    {
-      "basename": "Geometric Interpretation aka Intro",
-      "path": "Math/Calculus/1. Single Variable/Geometric Interpretation aka Intro.md"
-    },
-    {
-      "basename": "joint probability distribution",
-      "path": "Math/Probability/joint probability distribution.md"
     }
   ],
   "omittedPaths": [],

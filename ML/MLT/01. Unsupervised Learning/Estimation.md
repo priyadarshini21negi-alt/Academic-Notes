@@ -2,4 +2,3 @@
 
 ## Bayesian Estimation 
 
-## 
