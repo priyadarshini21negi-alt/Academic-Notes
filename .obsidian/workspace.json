@@ -62,9 +62,149 @@
               "icon": "lucide-file",
               "title": "Logistic Regression"
             }
+          },
+          {
+            "id": "89102a58679b3a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/03. Discriminative models/Perceptron and Margin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perceptron and Margin"
+            }
+          },
+          {
+            "id": "d653b6a7ee199fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/03. Discriminative models/Constrained optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constrained optimization"
+            }
+          },
+          {
+            "id": "82e34981578da29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/03. Discriminative models/Dual Problem formulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dual Problem formulation"
+            }
+          },
+          {
+            "id": "c12148ed3405c153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/03. Discriminative models/Support Vector Machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Support Vector Machines"
+            }
+          },
+          {
+            "id": "004721b640a28d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/03. Discriminative models/Overfitting and Underfitting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overfitting and Underfitting"
+            }
+          },
+          {
+            "id": "7a8a6f7bc86bbff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/04. Ensemble methods/Bagging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bagging"
+            }
+          },
+          {
+            "id": "0108aff297a5fba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/04. Ensemble methods/Boosting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boosting"
+            }
+          },
+          {
+            "id": "7f79ba2b2a6d2157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/05. Loss functions/Classifications Loss functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classifications Loss functions"
+            }
+          },
+          {
+            "id": "14b131a0890c9e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/05. Loss functions/SVM and Logistic Loss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SVM and Logistic Loss"
+            }
+          },
+          {
+            "id": "f53e2d2e1ea392f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLT/05. Loss functions/Perceptron and Boosting Loss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perceptron and Boosting Loss"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -261,13 +401,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d33edad9dcbd51c7",
+  "active": "f53e2d2e1ea392f1",
   "lastOpenFiles": [
-    "Untitled",
+    "ML/MLT/05. Loss functions/SVM and Logistic Loss.md",
+    "ML/MLT/05. Loss functions/Perceptron and Boosting Loss.md",
+    "ML/MLT/05. Loss functions/Classifications Loss functions.md",
+    "ML/MLT/04. Ensemble methods/Boosting.md",
+    "ML/MLT/05. Loss functions",
+    "ML/MLT/04. Ensemble methods/Bagging.md",
+    "ML/MLT/03. Discriminative models/Overfitting and Underfitting.md",
+    "ML/MLT/03. Discriminative models/Support Vector Machines.md",
+    "ML/MLT/03. Discriminative models/Dual Problem formulation.md",
+    "ML/MLT/03. Discriminative models/Constrained optimization.md",
+    "ML/MLT/03. Discriminative models/Perceptron and Margin.md",
+    "ML/MLT/03. Discriminative models/Logistic Regression.md",
+    "ML/MLT/04. Ensemble methods",
     "ML/MLT/04. Support Vector Machine",
     "ML/MLT/03. Discriminative models",
     "ML/MLT/03. Discriminative models/Sigmoid function.md",
-    "ML/MLT/03. Discriminative models/Logistic Regression.md",
     "ML/MLT/03. Discriminative models/Perceptron Learning Algorithm.md",
     "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md",
     "ML/MLT/02. Supervised Learning/Supervised Learning intro.md",
@@ -282,23 +433,12 @@
     "ML/MLT/02. Supervised Learning/Binary Classification.md",
     "ML/MLT/02. Supervised Learning/K-nearest Neighbours.md",
     "ML/MLT/02. Supervised Learning/Decision Trees.md",
-    "ML/MLT/02. Supervised Learning/Generative and Discriminative Models.md",
-    "ML/MLT/02. Supervised Learning/Generative model-based algorithm.md",
-    "ML/MLT/02. Supervised Learning/Naive Bayes algorithm.md",
-    "ML/MLT/01. Unsupervised Learning/EM algorithm.md",
-    "System Commands/flashcards/Linux commands.md",
-    "DL/flashcards/week1.md",
-    "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md",
-    "Computer Science/C & DSA/notes/Number System.md",
-    "ML/MLT/01. Unsupervised Learning/Intro.md",
     "ML/MLT/02. Supervised Learning",
     "ML/MLT/01. Unsupervised Learning",
     "ML/MLT",
     "ML/MLP/notes",
     "Computational Neuroscience/5. Stochastic Processes",
     "Computational Neuroscience/4. Dynamical Systems",
-    "Computational Neuroscience/2. Machine Learning",
-    "Computational Neuroscience/1. Intro to Modeling",
     "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png",
     "Math/Linear Algebra/Attachments/WhatsApp Image 2026-06-06 at 8.05.02 PM.jpeg",
     "DL/flashcards/Attachments/Pasted image 20260613201301.png",

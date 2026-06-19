@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Perceptron and Boosting Loss",
+      "path": "ML/MLT/05. Loss functions/Perceptron and Boosting Loss.md"
+    },
+    {
+      "basename": "SVM and Logistic Loss",
+      "path": "ML/MLT/05. Loss functions/SVM and Logistic Loss.md"
+    },
+    {
+      "basename": "Classifications Loss functions",
+      "path": "ML/MLT/05. Loss functions/Classifications Loss functions.md"
+    },
+    {
+      "basename": "Boosting",
+      "path": "ML/MLT/04. Ensemble methods/Boosting.md"
+    },
+    {
+      "basename": "Bagging",
+      "path": "ML/MLT/04. Ensemble methods/Bagging.md"
+    },
+    {
+      "basename": "Overfitting and Underfitting",
+      "path": "ML/MLT/03. Discriminative models/Overfitting and Underfitting.md"
+    },
+    {
+      "basename": "Support Vector Machines",
+      "path": "ML/MLT/03. Discriminative models/Support Vector Machines.md"
+    },
+    {
+      "basename": "Dual Problem formulation",
+      "path": "ML/MLT/03. Discriminative models/Dual Problem formulation.md"
+    },
+    {
+      "basename": "Constrained optimization",
+      "path": "ML/MLT/03. Discriminative models/Constrained optimization.md"
+    },
+    {
+      "basename": "Perceptron and Margin",
+      "path": "ML/MLT/03. Discriminative models/Perceptron and Margin.md"
+    },
+    {
       "basename": "Logistic Regression",
       "path": "ML/MLT/03. Discriminative models/Logistic Regression.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Number System",
       "path": "Computer Science/C & DSA/flashcards/Number System.md"
-    },
-    {
-      "basename": "GATE CSE 2007 Sign extension ques",
-      "path": "Computer Science/C & DSA/Attachments/GATE CSE 2007 Sign extension ques.png"
-    },
-    {
-      "basename": "Linearly Dependent and Independent Vectors",
-      "path": "Math/Linear Algebra/flashcards/Linearly Dependent and Independent Vectors.md"
-    },
-    {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
-    },
-    {
-      "basename": "Command Line Environment",
-      "path": "System Commands/Notes/Command Line Environment.md"
-    },
-    {
-      "basename": "Brain Signals",
-      "path": "Computational Neuroscience/0. Pre-Req/1. Neuro/flashcards/Brain Signals.md"
-    },
-    {
-      "basename": "Tensor - Creation Methods",
-      "path": "DL/notes/01. Tensors/Tensor - Creation Methods.md"
-    },
-    {
-      "basename": "Tensor - Manipulation Methods",
-      "path": "DL/notes/01. Tensors/Tensor - Manipulation Methods.md"
-    },
-    {
-      "basename": "Tensor - Reshaping and Indexing methods",
-      "path": "DL/notes/01. Tensors/Tensor - Reshaping and Indexing methods.md"
-    },
-    {
-      "basename": "Pasted image 20260601084749",
-      "path": "System Commands/Attachments/Pasted image 20260601084749.png"
-    },
-    {
-      "basename": "Pasted image 20260601084515",
-      "path": "System Commands/Attachments/Pasted image 20260601084515.png"
     }
   ],
   "omittedPaths": [],
