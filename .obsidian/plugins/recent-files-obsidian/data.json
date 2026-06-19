@@ -1,60 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Perceptron and Boosting Loss",
-      "path": "ML/MLT/05. Loss functions/Perceptron and Boosting Loss.md"
-    },
-    {
-      "basename": "SVM and Logistic Loss",
-      "path": "ML/MLT/05. Loss functions/SVM and Logistic Loss.md"
-    },
-    {
-      "basename": "Classifications Loss functions",
-      "path": "ML/MLT/05. Loss functions/Classifications Loss functions.md"
-    },
-    {
-      "basename": "Boosting",
-      "path": "ML/MLT/04. Ensemble methods/Boosting.md"
-    },
-    {
-      "basename": "Bagging",
-      "path": "ML/MLT/04. Ensemble methods/Bagging.md"
-    },
-    {
-      "basename": "Overfitting and Underfitting",
-      "path": "ML/MLT/03. Discriminative models/Overfitting and Underfitting.md"
-    },
-    {
-      "basename": "Support Vector Machines",
-      "path": "ML/MLT/03. Discriminative models/Support Vector Machines.md"
-    },
-    {
-      "basename": "Dual Problem formulation",
-      "path": "ML/MLT/03. Discriminative models/Dual Problem formulation.md"
-    },
-    {
-      "basename": "Constrained optimization",
-      "path": "ML/MLT/03. Discriminative models/Constrained optimization.md"
-    },
-    {
-      "basename": "Perceptron and Margin",
-      "path": "ML/MLT/03. Discriminative models/Perceptron and Margin.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "ML/MLT/03. Discriminative models/Logistic Regression.md"
-    },
-    {
-      "basename": "Sigmoid function",
-      "path": "ML/MLT/03. Discriminative models/Sigmoid function.md"
+      "basename": "Gaussian naive Bayes",
+      "path": "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md"
     },
     {
       "basename": "Perceptron Learning Algorithm",
       "path": "ML/MLT/03. Discriminative models/Perceptron Learning Algorithm.md"
     },
     {
-      "basename": "Gaussian naive Bayes",
-      "path": "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md"
+      "basename": "Sigmoid function",
+      "path": "ML/MLT/03. Discriminative models/Sigmoid function.md"
+    },
+    {
+      "basename": "Logistic Regression",
+      "path": "ML/MLT/03. Discriminative models/Logistic Regression.md"
+    },
+    {
+      "basename": "Perceptron and Margin",
+      "path": "ML/MLT/03. Discriminative models/Perceptron and Margin.md"
+    },
+    {
+      "basename": "Constrained optimization",
+      "path": "ML/MLT/03. Discriminative models/Constrained optimization.md"
+    },
+    {
+      "basename": "Dual Problem formulation",
+      "path": "ML/MLT/03. Discriminative models/Dual Problem formulation.md"
+    },
+    {
+      "basename": "Support Vector Machines",
+      "path": "ML/MLT/03. Discriminative models/Support Vector Machines.md"
+    },
+    {
+      "basename": "Overfitting and Underfitting",
+      "path": "ML/MLT/03. Discriminative models/Overfitting and Underfitting.md"
+    },
+    {
+      "basename": "Bagging",
+      "path": "ML/MLT/04. Ensemble methods/Bagging.md"
+    },
+    {
+      "basename": "Boosting",
+      "path": "ML/MLT/04. Ensemble methods/Boosting.md"
+    },
+    {
+      "basename": "Classifications Loss functions",
+      "path": "ML/MLT/05. Loss functions/Classifications Loss functions.md"
+    },
+    {
+      "basename": "Perceptron and Boosting Loss",
+      "path": "ML/MLT/05. Loss functions/Perceptron and Boosting Loss.md"
+    },
+    {
+      "basename": "SVM and Logistic Loss",
+      "path": "ML/MLT/05. Loss functions/SVM and Logistic Loss.md"
     },
     {
       "basename": "Supervised Learning intro",

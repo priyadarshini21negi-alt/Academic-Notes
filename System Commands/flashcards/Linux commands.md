@@ -108,7 +108,7 @@ What command removes a directory recursively? ;; rm -r _**directory**_
 <!--SR:!2026-06-15,3,266-->
 
 What command removes a file with a confirmation prompt? ;; rm -i _**file**_
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-07-01,12,286-->
 
 Why does mv not need a -r flag to move a directory, but cp does? ;; mv just moves the directory entry; cp must copy all contents recursively
 <!--SR:!2026-06-13,1,226-->
@@ -140,7 +140,7 @@ What command displays the last 10 lines of a file? ;; tail _**file**_
 <!--SR:!2026-06-15,3,266-->
 
 What command displays the last N lines of a file? ;; tail -n _**N**_ _**file**_
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-06-30,11,286-->
 
 What command counts lines, words and bytes in a file? ;; wc _**file**_
 <!--SR:!2026-06-13,1,226-->
@@ -154,10 +154,10 @@ What command locates the executable path of a command? ;; which _**command**_
 <!--SR:!2026-06-13,1,226-->
 
 What command gives a one-line description of a command? ;; whatis _**command**_
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-06-29,10,286-->
 
 What command opens the manual page of a command? ;; man _**command**_
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-22,3,246-->
 
 What command searches for commands by keyword? ;; apropos _**keyword**_
 <!--SR:!2026-06-13,1,226-->
@@ -223,7 +223,7 @@ What command changes file permissions? ;; chmod _**permissions**_ _**file**_
 <!--SR:!2026-06-14,2,246-->
 
 What command removes write permission from the group? ;; chmod g-w _**file**_
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 What command removes execute permission from the group? ;; chmod g-x _**file**_
 <!--SR:!2026-06-13,1,226-->
@@ -291,7 +291,7 @@ What is a symbolic link? ;; A file that stores the path to another file or direc
 <!--SR:!2026-06-13,1,226-->
 
 Do hard links share inode numbers? ;; Yes
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-06-20,1,206-->
 
 Do symbolic links share inode numbers with the original file? ;; No
 <!--SR:!2026-06-13,1,226-->
