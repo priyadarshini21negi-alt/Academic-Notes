@@ -101,25 +101,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "154b73036fe0c79d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00_Dashboard/Weekly Planner.md.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Weekly Planner.md"
-            }
-          },
-          {
             "id": "d96f7a85a3a006d9",
             "type": "leaf",
             "state": {
@@ -197,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
