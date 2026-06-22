@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
+      "basename": "Command Line Editors",
+      "path": "System Commands/Notes/Command Line Editors.md"
     },
     {
       "basename": "Command Line Environment",
       "path": "System Commands/Notes/Command Line Environment.md"
+    },
+    {
+      "basename": "Linux - Simple Commands",
+      "path": "System Commands/Notes/Linux - Simple Commands.md"
     },
     {
       "basename": "1. Decoding Neural Responses",
@@ -195,10 +199,6 @@
     {
       "basename": "Principal Component Analysis",
       "path": "ML/MLT/01. Unsupervised Learning/Principal Component Analysis.md"
-    },
-    {
-      "basename": "Kernel Functions",
-      "path": "ML/MLT/01. Unsupervised Learning/Kernel Functions.md"
     }
   ],
   "omittedPaths": [],
