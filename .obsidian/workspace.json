@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md",
+                "file": "System Commands/Notes/Command Line Environment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Decoding Neural Responses"
+              "title": "Command Line Environment"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -203,6 +202,7 @@
   },
   "active": "bbca84a92da584b7",
   "lastOpenFiles": [
+    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191558.png",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191553.png",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191359.png",
@@ -211,7 +211,6 @@
     "DL/notes/PyTorch.md",
     "DL/notes/Neuron-Biology to Mathematics.md",
     "DL/notes/Fundamental Tricks.md",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md",
     "DL/notes/Feed-Forward Network.md",
     "DL/notes/Tensor - Reshaping and Indexing methods.md",
     "DL/notes/Tensor - Manipulation Methods.md",
@@ -247,7 +246,6 @@
     "DL/flashcards/Attachments/Pasted image 20260613201235.png",
     "DL/flashcards/Attachments/Pasted image 20260613201030.png",
     "DL/flashcards/Attachments/Pasted image 20260613201004.png",
-    "DL/flashcards/Attachments/Pasted image 20260613200939.png",
-    "DL/flashcards/Attachments/Pasted image 20260613200921.png"
+    "DL/flashcards/Attachments/Pasted image 20260613200939.png"
   ]
 }
