@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Universal Approximation Theorem",
+      "path": "DL/notes/Universal Approximation Theorem.md"
+    },
+    {
+      "basename": "Fundamental Tricks",
+      "path": "DL/notes/Fundamental Tricks.md"
+    },
+    {
+      "basename": "Feed-Forward Network",
+      "path": "DL/notes/Feed-Forward Network.md"
+    },
+    {
+      "basename": "Neuron-Biology to Mathematics",
+      "path": "DL/notes/Neuron-Biology to Mathematics.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "DL/notes/PyTorch.md"
+    },
+    {
+      "basename": "Tensor",
+      "path": "DL/notes/Tensor.md"
+    },
+    {
       "basename": "Command Line Editors",
       "path": "System Commands/Notes/Command Line Editors.md"
     },
@@ -15,26 +39,6 @@
     {
       "basename": "1. Decoding Neural Responses",
       "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
-    },
-    {
-      "basename": "Tensor",
-      "path": "DL/notes/Tensor.md"
-    },
-    {
-      "basename": "PyTorch",
-      "path": "DL/notes/PyTorch.md"
-    },
-    {
-      "basename": "Neuron-Biology to Mathematics",
-      "path": "DL/notes/Neuron-Biology to Mathematics.md"
-    },
-    {
-      "basename": "Fundamental Tricks",
-      "path": "DL/notes/Fundamental Tricks.md"
-    },
-    {
-      "basename": "Feed-Forward Network",
-      "path": "DL/notes/Feed-Forward Network.md"
     },
     {
       "basename": "week1",
@@ -195,10 +199,6 @@
     {
       "basename": "Representation Learning",
       "path": "ML/MLT/01. Unsupervised Learning/Representation Learning.md"
-    },
-    {
-      "basename": "Principal Component Analysis",
-      "path": "ML/MLT/01. Unsupervised Learning/Principal Component Analysis.md"
     }
   ],
   "omittedPaths": [],
