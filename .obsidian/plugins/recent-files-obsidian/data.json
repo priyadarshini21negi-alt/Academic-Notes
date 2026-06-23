@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Universal Approximation Theorem",
-      "path": "DL/notes/Universal Approximation Theorem.md"
+      "basename": "Gradient Descent",
+      "path": "DL/notes/Gradient Descent.md"
     },
     {
-      "basename": "Fundamental Tricks",
-      "path": "DL/notes/Fundamental Tricks.md"
+      "basename": "Fashion MNIST",
+      "path": "DL/notes/Fashion MNIST.md"
     },
     {
-      "basename": "Feed-Forward Network",
-      "path": "DL/notes/Feed-Forward Network.md"
+      "basename": "XOR",
+      "path": "DL/notes/XOR.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "DL/notes/Backpropagation.md"
+    },
+    {
+      "basename": "Customer Churn",
+      "path": "DL/notes/Customer Churn.md"
     },
     {
       "basename": "Neuron-Biology to Mathematics",
       "path": "DL/notes/Neuron-Biology to Mathematics.md"
     },
     {
-      "basename": "PyTorch",
-      "path": "DL/notes/PyTorch.md"
+      "basename": "week1",
+      "path": "DL/flashcards/week1.md"
     },
     {
       "basename": "Tensor",
       "path": "DL/notes/Tensor.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "DL/notes/PyTorch.md"
+    },
+    {
+      "basename": "Feed-Forward Network",
+      "path": "DL/notes/Feed-Forward Network.md"
+    },
+    {
+      "basename": "Fundamental Tricks",
+      "path": "DL/notes/Fundamental Tricks.md"
+    },
+    {
+      "basename": "Universal Approximation Theorem",
+      "path": "DL/notes/Universal Approximation Theorem.md"
+    },
+    {
+      "basename": "Forward Pass and Loss Functions",
+      "path": "DL/notes/Forward Pass and Loss Functions.md"
     },
     {
       "basename": "Command Line Editors",
@@ -39,10 +67,6 @@
     {
       "basename": "1. Decoding Neural Responses",
       "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
-    },
-    {
-      "basename": "week1",
-      "path": "DL/flashcards/week1.md"
     },
     {
       "basename": "Intro",
@@ -175,30 +199,6 @@
     {
       "basename": "Naive Bayes algorithm",
       "path": "ML/MLT/02. Supervised Learning/Naive Bayes algorithm.md"
-    },
-    {
-      "basename": "EM algorithm",
-      "path": "ML/MLT/01. Unsupervised Learning/EM algorithm.md"
-    },
-    {
-      "basename": "Linux commands",
-      "path": "System Commands/flashcards/Linux commands.md"
-    },
-    {
-      "basename": "Linearly Dependent and Independent Vectors",
-      "path": "Math/Linear Algebra/notes/Linearly Dependent and Independent Vectors.md"
-    },
-    {
-      "basename": "Number System",
-      "path": "Computer Science/C & DSA/notes/Number System.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "ML/MLT/01. Unsupervised Learning/Intro.md"
-    },
-    {
-      "basename": "Representation Learning",
-      "path": "ML/MLT/01. Unsupervised Learning/Representation Learning.md"
     }
   ],
   "omittedPaths": [],
