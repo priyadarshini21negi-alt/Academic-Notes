@@ -43,17 +43,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Commands/Notes/Networking commands and SSH.md",
+                "file": "System Commands/flashcards/Linux commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Networking commands and SSH"
+              "title": "Linux commands"
+            }
+          },
+          {
+            "id": "905ea3a302e90959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Commands/flashcards/Command line editors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Command line editors"
+            }
+          },
+          {
+            "id": "d6ce646f9d4a8e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Commands/flashcards/Networking fundamentals and SSH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking fundamentals and SSH"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,12 +261,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "711a30ada3e5533c",
+  "active": "d6ce646f9d4a8e29",
   "lastOpenFiles": [
+    "System Commands/flashcards/Attachments/Pasted image 20260628104810.png",
+    "System Commands/flashcards/Attachments/Pasted image 20260628104702.png",
+    "System Commands/flashcards/Attachments/Pasted image 20260628104230.png",
+    "System Commands/flashcards/Attachments/Pasted image 20260628103816.png",
+    "System Commands/flashcards/Attachments/Pasted image 20260628103725.png",
+    "System Commands/flashcards/Command line editors.md",
+    "System Commands/flashcards/Networking fundamentals and SSH.md",
+    "System Commands/flashcards/Linux commands.md",
+    "System Commands/Notes/Networking commands and SSH.md",
     "System Commands/Notes/Attachments/Pasted image 20260628094354.png",
     "System Commands/Notes/Attachments/Pasted image 20260628093612.png",
     "System Commands/Notes/Command Line Editors.md",
-    "System Commands/Notes/Networking commands and SSH.md",
     "System Commands/Notes/Attachments/Pasted image 20260628091957.png",
     "System Commands/Notes/Attachments/Pasted image 20260628091919.png",
     "DL/notes/Gradient Descent.md",
@@ -255,28 +293,20 @@
     "DL/Attachments/Pasted image 20260623095511.png",
     "DL/Attachments/Pasted image 20260623093902.png",
     "DL/Attachments",
-    "System Commands/Notes/Attachments/Pasted image 20260622080320.png",
     "System Commands/Notes/Attachments",
     "System Commands/Notes/Command Line Environment.md",
     "System Commands/Notes/Linux - Simple Commands.md",
-    "System Commands/Attachments/Pasted image 20260622073028.png",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191558.png",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191553.png",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments/Pasted image 20260619191359.png",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments",
     "DL/notes/Tensor - Reshaping and Indexing methods.md",
     "DL/notes/Tensor - Manipulation Methods.md",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Bonus-Decoding and Encoding.md",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/3. Building and Evaluating Normative Encoding Models.md",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md",
     "Computational Neuroscience/2. Machine Learning/5. Autoencoders (Bonus)",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning",
     "Computational Neuroscience/2. Machine Learning/3. Dimensionality Reduction",
     "Computational Neuroscience/2. Machine Learning/2. Generalized Linear Models",
     "Computational Neuroscience/2. Machine Learning/1. Model Fitting",
-    "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md",
     "ML/MLT/05. Loss functions",
     "ML/MLT/04. Ensemble methods"
   ]

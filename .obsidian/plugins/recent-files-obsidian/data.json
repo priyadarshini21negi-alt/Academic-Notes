@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Networking fundamentals and SSH",
+      "path": "System Commands/flashcards/Networking fundamentals and SSH.md"
+    },
+    {
+      "basename": "Command line editors",
+      "path": "System Commands/flashcards/Command line editors.md"
+    },
+    {
+      "basename": "Linux commands",
+      "path": "System Commands/flashcards/Linux commands.md"
+    },
+    {
       "basename": "Networking commands and SSH",
       "path": "System Commands/Notes/Networking commands and SSH.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "K-nearest Neighbours",
       "path": "ML/MLT/02. Supervised Learning/K-nearest Neighbours.md"
-    },
-    {
-      "basename": "Decision Trees",
-      "path": "ML/MLT/02. Supervised Learning/Decision Trees.md"
-    },
-    {
-      "basename": "Generative and Discriminative Models",
-      "path": "ML/MLT/02. Supervised Learning/Generative and Discriminative Models.md"
-    },
-    {
-      "basename": "Generative model-based algorithm",
-      "path": "ML/MLT/02. Supervised Learning/Generative model-based algorithm.md"
     }
   ],
   "omittedPaths": [],
