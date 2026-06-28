@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Commands/flashcards/Command line editors.md",
+                "file": "System Commands/flashcards/Networking fundamentals and SSH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Command line editors"
+              "title": "Networking fundamentals and SSH"
             }
           }
         ],
@@ -263,6 +263,9 @@
   },
   "active": "d6ce646f9d4a8e29",
   "lastOpenFiles": [
+    "System Commands/flashcards/Attachments/Pasted image 20260628134905.png",
+    "System Commands/flashcards/Attachments/Pasted image 20260628134550.png",
+    "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Attachments/Pasted image 20260628110135.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628105914.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628105830.png",
@@ -273,11 +276,8 @@
     "System Commands/flashcards/Attachments/Pasted image 20260628104702.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628104230.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628103816.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628103725.png",
-    "System Commands/flashcards/Command line editors.md",
     "System Commands/flashcards/Linux commands.md",
     "System Commands/Notes/Networking commands and SSH.md",
-    "System Commands/Notes/Attachments/Pasted image 20260628094354.png",
     "System Commands/Notes/Command Line Editors.md",
     "DL/notes/Gradient Descent.md",
     "DL/notes/Fashion MNIST.md",

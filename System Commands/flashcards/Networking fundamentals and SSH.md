@@ -7,3 +7,8 @@
 
 ![[Pasted image 20260628104810.png]] ;; ![[Pasted image 20260628105114.png]] 
 
+
+![[Pasted image 20260628134550.png]];; A, C, D 
+
+![[Pasted image 20260628134905.png]] ;; B 
+
