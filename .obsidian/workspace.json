@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/notes/Gradient Descent.md",
+                "file": "System Commands/Notes/Command Line Editors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent"
+              "title": "Command Line Editors"
             }
           }
         ],
@@ -216,7 +216,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "993688297c3ee3df",
   "lastOpenFiles": [
     "DL/notes/Gradient Descent.md",
     "DL/notes/Fashion MNIST.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Command Line Editors",
+      "path": "System Commands/Notes/Command Line Editors.md"
+    },
+    {
       "basename": "Gradient Descent",
       "path": "DL/notes/Gradient Descent.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Forward Pass and Loss Functions",
       "path": "DL/notes/Forward Pass and Loss Functions.md"
-    },
-    {
-      "basename": "Command Line Editors",
-      "path": "System Commands/Notes/Command Line Editors.md"
     },
     {
       "basename": "Command Line Environment",
