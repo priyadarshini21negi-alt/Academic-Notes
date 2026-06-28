@@ -4,4 +4,6 @@
 
 ![[Pasted image 20260628104702.png]] ;; look up DNS records (converts domain names to IP addresses & vice-versa) 
 
-![[Pasted image 20260628104810.png]] ;; 
+
+![[Pasted image 20260628104810.png]] ;; ![[Pasted image 20260628105114.png]] 
+
