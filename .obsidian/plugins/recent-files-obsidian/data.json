@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Networking commands and SSH",
+      "path": "System Commands/Notes/Networking commands and SSH.md"
+    },
+    {
       "basename": "Command Line Editors",
       "path": "System Commands/Notes/Command Line Editors.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Generative model-based algorithm",
       "path": "ML/MLT/02. Supervised Learning/Generative model-based algorithm.md"
-    },
-    {
-      "basename": "Naive Bayes algorithm",
-      "path": "ML/MLT/02. Supervised Learning/Naive Bayes algorithm.md"
     }
   ],
   "omittedPaths": [],
