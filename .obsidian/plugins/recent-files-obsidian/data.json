@@ -13,12 +13,16 @@
       "path": "System Commands/flashcards/Linux commands.md"
     },
     {
-      "basename": "Networking commands and SSH",
-      "path": "System Commands/Notes/Networking commands and SSH.md"
-    },
-    {
       "basename": "Command Line Editors",
       "path": "System Commands/Notes/Command Line Editors.md"
+    },
+    {
+      "basename": "XOR",
+      "path": "DL/notes/XOR.md"
+    },
+    {
+      "basename": "Networking commands and SSH",
+      "path": "System Commands/Notes/Networking commands and SSH.md"
     },
     {
       "basename": "Gradient Descent",
@@ -27,10 +31,6 @@
     {
       "basename": "Fashion MNIST",
       "path": "DL/notes/Fashion MNIST.md"
-    },
-    {
-      "basename": "XOR",
-      "path": "DL/notes/XOR.md"
     },
     {
       "basename": "Backpropagation",
