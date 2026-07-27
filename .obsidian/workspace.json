@@ -291,8 +291,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
+    "NPTEL Domain Scholar/5. Algorithms in Comp Bio & Sequence Analysis",
+    "NPTEL Domain Scholar/4. Bioinformatics-Algorithms & Applications",
+    "NPTEL Domain Scholar/3. Python DSA",
+    "NPTEL Domain Scholar/2. Computational Neuroscience",
+    "NPTEL Domain Scholar/1. Advances in Omics",
+    "NPTEL Domain Scholar",
     "System Commands/Notes/pattern matching.md",
     "System Commands/Notes/find.md",
     "System Commands/Notes/linux process management.md",
@@ -331,13 +337,7 @@
     "DL/Attachments",
     "System Commands/Notes/Attachments",
     "System Commands/Notes/Command Line Environment.md",
-    "System Commands/Notes/Linux - Simple Commands.md",
     "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Attachments",
-    "Computational Neuroscience/2. Machine Learning/5. Autoencoders (Bonus)",
-    "Computational Neuroscience/2. Machine Learning/4. Deep Learning",
-    "Computational Neuroscience/2. Machine Learning/3. Dimensionality Reduction",
-    "Computational Neuroscience/2. Machine Learning/2. Generalized Linear Models",
-    "Computational Neuroscience/2. Machine Learning/1. Model Fitting",
-    "ML/MLT/05. Loss functions"
+    "Computational Neuroscience/2. Machine Learning/5. Autoencoders (Bonus)"
   ]
 }
