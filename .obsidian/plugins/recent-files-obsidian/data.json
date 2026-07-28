@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Networking commands and SSH",
+      "path": "System Commands/Notes/Networking commands and SSH.md"
+    },
+    {
       "basename": "1. Gradient Descent and AutoGrad",
       "path": "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Combining commands and files",
       "path": "System Commands/Notes/Combining commands and files.md"
-    },
-    {
-      "basename": "Networking commands and SSH",
-      "path": "System Commands/Notes/Networking commands and SSH.md"
     },
     {
       "basename": "Command Line Editors",

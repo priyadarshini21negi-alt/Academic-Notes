@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c68ee9a06bfef4",
+        "id": "9d31bdcb6cb53d33",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd3d1611bbfa228",
+            "id": "6291a50d76ffbb31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Commands/Notes/Networking commands and SSH.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Networking commands and SSH"
+              "title": "New tab"
             }
           }
         ]
@@ -200,8 +195,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d33edad9dcbd51c7",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
+    "System Commands/Notes/Networking commands and SSH.md",
     "NMA DL/1. Basics Module/11. Basics & PyTorch/1. PyTorch.md",
     "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md",
     "System Commands/Notes/pattern matching.md",
@@ -220,7 +216,6 @@
     "System Commands/Notes/software management.md",
     "System Commands/Notes/redirections.md",
     "System Commands/Notes/Combining commands and files.md",
-    "System Commands/Notes/Networking commands and SSH.md",
     "System Commands/Notes/Command Line Editors.md",
     "System Commands/flashcards/Networking fundamentals and SSH.md",
     "System Commands/flashcards/Command line editors.md",
