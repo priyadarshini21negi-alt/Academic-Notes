@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Week 2/Untitled.md"
+    },
+    {
+      "basename": "Pyrosequencing",
+      "path": "Week 2/Pyrosequencing.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Untitled.md"
+    },
+    {
+      "basename": "Genome Assembly",
+      "path": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Genome Assembly.md"
+    },
+    {
+      "basename": "Advent of NGS",
+      "path": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Advent of NGS.md"
+    },
+    {
+      "basename": "Intro to Genomics",
+      "path": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Intro to Genomics.md"
+    },
+    {
       "basename": "1. Neuron Structure",
       "path": "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/1. Neuron Structure.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Gaussian naive Bayes",
       "path": "ML/MLT/02. Supervised Learning/Gaussian naive Bayes.md"
-    },
-    {
-      "basename": "Perceptron Learning Algorithm",
-      "path": "ML/MLT/03. Discriminative models/Perceptron Learning Algorithm.md"
-    },
-    {
-      "basename": "Sigmoid function",
-      "path": "ML/MLT/03. Discriminative models/Sigmoid function.md"
-    },
-    {
-      "basename": "Logistic Regression",
-      "path": "ML/MLT/03. Discriminative models/Logistic Regression.md"
-    },
-    {
-      "basename": "Perceptron and Margin",
-      "path": "ML/MLT/03. Discriminative models/Perceptron and Margin.md"
-    },
-    {
-      "basename": "Constrained optimization",
-      "path": "ML/MLT/03. Discriminative models/Constrained optimization.md"
-    },
-    {
-      "basename": "Dual Problem formulation",
-      "path": "ML/MLT/03. Discriminative models/Dual Problem formulation.md"
     }
   ],
   "omittedPaths": [],

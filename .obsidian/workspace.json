@@ -11,13 +11,79 @@
             "id": "89210734e61d83c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Intro to Genomics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro to Genomics"
+            }
+          },
+          {
+            "id": "81407eff16090d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Advent of NGS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Advent of NGS"
+            }
+          },
+          {
+            "id": "dc5a2995ee7735fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Genome Assembly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Genome Assembly"
+            }
+          },
+          {
+            "id": "f976f3fc4af079ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Pyrosequencing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pyrosequencing"
+            }
+          },
+          {
+            "id": "a478b745c6f7a71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,8 +261,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "89210734e61d83c4",
+  "active": "a478b745c6f7a71b",
   "lastOpenFiles": [
+    "Week 2/Pyrosequencing.md",
+    "Week 2/Untitled.md",
+    "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Untitled.md",
+    "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Genome Assembly.md",
+    "Week 2",
+    "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Advent of NGS.md",
+    "NPTEL Domain Scholar/1. Advances in Omics/Week 1/Intro to Genomics.md",
+    "NPTEL Domain Scholar/1. Advances in Omics/Week 1",
     "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/1. Neuron Structure.md",
     "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/2. Networks on Neurons and Synapses.md",
     "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/4. Systems of neural processing.md",
@@ -219,18 +293,12 @@
     "NMA DL/3. ConvNets & Generative Models",
     "NMA DL/2. Fine Tuning",
     "NMA DL/1. Basics Module",
-    "NMA DL/1. Basics Module/13. Multi Layer Perceptrons",
-    "NMA DL/1. Basics Module/12. Linear Deep Learning",
     "System Commands/Notes/find.md",
     "System Commands/Notes/linux process management.md",
     "System Commands/Notes/software management.md",
     "System Commands/Notes/redirections.md",
     "System Commands/Notes/Combining commands and files.md",
     "System Commands/Notes/Command Line Editors.md",
-    "System Commands/flashcards/Networking fundamentals and SSH.md",
-    "System Commands/flashcards/Command line editors.md",
-    "System Commands/flashcards/Linux commands.md",
-    "DL/notes/XOR.md",
     "System Commands/flashcards/Attachments/Pasted image 20260628134905.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628134550.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628110135.png",
@@ -240,8 +308,6 @@
     "System Commands/flashcards/Attachments/Pasted image 20260628105114.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628104810.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628104702.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628104230.png",
-    "DL/notes/Gradient Descent.md",
-    "DL/notes/Fashion MNIST.md"
+    "System Commands/flashcards/Attachments/Pasted image 20260628104230.png"
   ]
 }
