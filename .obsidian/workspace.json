@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d31bdcb6cb53d33",
+        "id": "a011d2e5cebdab28",
         "type": "tabs",
         "children": [
           {
-            "id": "6291a50d76ffbb31",
+            "id": "89210734e61d83c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 351.5
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -195,8 +195,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "89210734e61d83c4",
   "lastOpenFiles": [
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/1. Neuron Structure.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/2. Networks on Neurons and Synapses.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/4. Systems of neural processing.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/3. Basic Structures in the Brain.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2/8. Ion channels.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2/7. Patch Clamp Measurements.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2/10. Single Neuron Activity.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2/9. Current injection- Synapses.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1/5. Methods of Recording Neural Activity.md",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 2",
+    "NPTEL Domain Scholar/2. Computational Neuroscience/Week 1",
     "System Commands/Notes/Networking commands and SSH.md",
     "NMA DL/1. Basics Module/11. Basics & PyTorch/1. PyTorch.md",
     "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md",
@@ -209,8 +221,6 @@
     "NMA DL/1. Basics Module",
     "NMA DL/1. Basics Module/13. Multi Layer Perceptrons",
     "NMA DL/1. Basics Module/12. Linear Deep Learning",
-    "NMA DL/1. Basics Module/11. Basics & PyTorch",
-    "NMA DL/00. Pre-req",
     "System Commands/Notes/find.md",
     "System Commands/Notes/linux process management.md",
     "System Commands/Notes/software management.md",
@@ -232,16 +242,6 @@
     "System Commands/flashcards/Attachments/Pasted image 20260628104702.png",
     "System Commands/flashcards/Attachments/Pasted image 20260628104230.png",
     "DL/notes/Gradient Descent.md",
-    "DL/notes/Fashion MNIST.md",
-    "DL/notes/Backpropagation.md",
-    "DL/notes/Customer Churn.md",
-    "DL/notes/Neuron-Biology to Mathematics.md",
-    "DL/flashcards/week1.md",
-    "DL/notes/Tensor.md",
-    "DL/notes/PyTorch.md",
-    "DL/notes/Feed-Forward Network.md",
-    "DL/notes/Fundamental Tricks.md",
-    "DL/notes/Universal Approximation Theorem.md",
-    "DL/notes/Forward Pass and Loss Functions.md"
+    "DL/notes/Fashion MNIST.md"
   ]
 }
