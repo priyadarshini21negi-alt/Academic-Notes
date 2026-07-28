@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Gradient Descent and AutoGrad",
+      "path": "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md"
+    },
+    {
+      "basename": "1. PyTorch",
+      "path": "NMA DL/1. Basics Module/11. Basics & PyTorch/1. PyTorch.md"
+    },
+    {
       "basename": "pattern matching",
       "path": "System Commands/Notes/pattern matching.md"
     },
@@ -106,23 +114,23 @@
     },
     {
       "basename": "1. Decoding Neural Responses",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
+      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
     },
     {
       "basename": "Intro",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Intro.md"
+      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/Intro.md"
     },
     {
       "basename": "Bonus-Decoding and Encoding",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/Bonus-Decoding and Encoding.md"
+      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/Bonus-Decoding and Encoding.md"
     },
     {
       "basename": "3. Building and Evaluating Normative Encoding Models",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/3. Building and Evaluating Normative Encoding Models.md"
+      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/3. Building and Evaluating Normative Encoding Models.md"
     },
     {
       "basename": "2. Convolutional Neural Networks",
-      "path": "Computational Neuroscience/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md"
+      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/2. Convolutional Neural Networks.md"
     },
     {
       "basename": "Gaussian naive Bayes",
@@ -191,14 +199,6 @@
     {
       "basename": "Gradient Descent",
       "path": "ML/MLT/02. Supervised Learning/Gradient Descent.md"
-    },
-    {
-      "basename": "Kernel Regression",
-      "path": "ML/MLT/02. Supervised Learning/Kernel Regression.md"
-    },
-    {
-      "basename": "Probabilistic view of Linear Regression",
-      "path": "ML/MLT/02. Supervised Learning/Probabilistic view of Linear Regression.md"
     }
   ],
   "omittedPaths": [],
