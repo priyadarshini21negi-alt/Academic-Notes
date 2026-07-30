@@ -81,14 +81,6 @@
       "path": "System Commands/Notes/Networking commands and SSH.md"
     },
     {
-      "basename": "1. Gradient Descent and AutoGrad",
-      "path": "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md"
-    },
-    {
-      "basename": "1. PyTorch",
-      "path": "NMA DL/1. Basics Module/11. Basics & PyTorch/1. PyTorch.md"
-    },
-    {
       "basename": "pattern matching",
       "path": "System Commands/Notes/pattern matching.md"
     },
@@ -126,75 +118,15 @@
     },
     {
       "basename": "Linux commands",
-      "path": "System Commands/flashcards/Linux commands.md"
-    },
-    {
-      "basename": "XOR",
-      "path": "DL/notes/XOR.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "DL/notes/Gradient Descent.md"
-    },
-    {
-      "basename": "Fashion MNIST",
-      "path": "DL/notes/Fashion MNIST.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "DL/notes/Backpropagation.md"
-    },
-    {
-      "basename": "Customer Churn",
-      "path": "DL/notes/Customer Churn.md"
-    },
-    {
-      "basename": "Neuron-Biology to Mathematics",
-      "path": "DL/notes/Neuron-Biology to Mathematics.md"
-    },
-    {
-      "basename": "week1",
-      "path": "DL/flashcards/week1.md"
-    },
-    {
-      "basename": "Tensor",
-      "path": "DL/notes/Tensor.md"
-    },
-    {
-      "basename": "PyTorch",
-      "path": "DL/notes/PyTorch.md"
-    },
-    {
-      "basename": "Feed-Forward Network",
-      "path": "DL/notes/Feed-Forward Network.md"
-    },
-    {
-      "basename": "Fundamental Tricks",
-      "path": "DL/notes/Fundamental Tricks.md"
-    },
-    {
-      "basename": "Universal Approximation Theorem",
-      "path": "DL/notes/Universal Approximation Theorem.md"
-    },
-    {
-      "basename": "Forward Pass and Loss Functions",
-      "path": "DL/notes/Forward Pass and Loss Functions.md"
+      "path": "System Commands/flashcards/week 1/Linux commands.md"
     },
     {
       "basename": "Command Line Environment",
-      "path": "System Commands/Notes/Command Line Environment.md"
+      "path": "System Commands/Notes/week 1/Command Line Environment.md"
     },
     {
       "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/Linux - Simple Commands.md"
-    },
-    {
-      "basename": "1. Decoding Neural Responses",
-      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/1. Decoding Neural Responses.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "NMA Comp Neuro/2. Machine Learning/4. Deep Learning/Intro.md"
+      "path": "System Commands/Notes/week 1/Linux - Simple Commands.md"
     }
   ],
   "omittedPaths": [],

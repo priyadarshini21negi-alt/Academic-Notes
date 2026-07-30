@@ -1,2 +1,0 @@
-
-## Likelihood of GMM

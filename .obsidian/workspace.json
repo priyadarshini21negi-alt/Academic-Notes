@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 325.5
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -195,8 +195,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
+    "Untitled",
+    "System Commands/flashcards/week 1",
+    "System Commands/Notes/week 1",
+    "IITM Course",
+    "Deep Learning",
+    "NMA DL/3. ConvNets & Generative Models/23. Generative Models and Deep Learning Discussion",
+    "NMA DL/3. ConvNets & Generative Models/22. Convnets",
+    "NMA DL/2. Fine Tuning/21. Regularization",
+    "NMA DL/2. Fine Tuning/14. Optimization",
     "NPTEL/1. Advances in Omics/Week 2/sequencing by ligation (Complete Genomics).md",
     "NPTEL/1. Advances in Omics/Week 1/Untitled.md",
     "NPTEL/1. Advances in Omics/Week 2/Untitled.md",
@@ -219,29 +228,20 @@
     "NPTEL/2. Computational Neuroscience/Week 2/10. Single Neuron Activity.md",
     "NPTEL/2. Computational Neuroscience/Week 2/9. Current injection- Synapses.md",
     "NPTEL/2. Computational Neuroscience/Week 1/5. Methods of Recording Neural Activity.md",
-    "NPTEL/2. Computational Neuroscience/Week 2",
-    "NPTEL/2. Computational Neuroscience/Week 1",
     "System Commands/Notes/Networking commands and SSH.md",
     "NMA DL/1. Basics Module/11. Basics & PyTorch/1. PyTorch.md",
     "NMA DL/1. Basics Module/12. Linear Deep Learning/1. Gradient Descent and AutoGrad.md",
     "System Commands/Notes/pattern matching.md",
-    "NMA DL/6. Deploy Models on the Web",
-    "NMA DL/5. Unsupervised & Reinforcement Learning",
-    "Untitled 1",
-    "NMA DL/3. ConvNets & Generative Models",
-    "NMA DL/2. Fine Tuning",
-    "NMA DL/1. Basics Module",
     "System Commands/Notes/find.md",
-    "System Commands/Notes/linux process management.md",
-    "System Commands/flashcards/Attachments/Pasted image 20260628134905.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628134550.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628110135.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628105914.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628105830.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628105325.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628105114.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628104810.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628104702.png",
-    "System Commands/flashcards/Attachments/Pasted image 20260628104230.png"
+    "System Commands/Attachments/Pasted image 20260628134905.png",
+    "System Commands/Attachments/Pasted image 20260628134550.png",
+    "System Commands/Attachments/Pasted image 20260628110135.png",
+    "System Commands/Attachments/Pasted image 20260628105914.png",
+    "System Commands/Attachments/Pasted image 20260628105830.png",
+    "System Commands/Attachments/Pasted image 20260628105325.png",
+    "System Commands/Attachments/Pasted image 20260628105114.png",
+    "System Commands/Attachments/Pasted image 20260628104810.png",
+    "System Commands/Attachments/Pasted image 20260628104702.png",
+    "System Commands/Attachments/Pasted image 20260628104230.png"
   ]
 }
