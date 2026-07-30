@@ -5,8 +5,32 @@
       "path": "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md"
     },
     {
-      "basename": "multiclass",
-      "path": "ML/MLP/notes/week 7/multiclass.md"
+      "basename": "naive bayes classifier",
+      "path": "ML/MLP/notes/week 4 & 5/naive bayes classifier.md"
+    },
+    {
+      "basename": "multi learning classification",
+      "path": "ML/MLP/notes/week 4 & 5/multi learning classification.md"
+    },
+    {
+      "basename": "Hyper parameter tuning",
+      "path": "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "ML/MLP/notes/week 4 & 5/Regularization.md"
+    },
+    {
+      "basename": "Polynomial Regression",
+      "path": "ML/MLP/notes/week 4 & 5/Polynomial Regression.md"
+    },
+    {
+      "basename": "Model Evaluation",
+      "path": "ML/MLP/notes/week 4 & 5/Model Evaluation.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "ML/MLP/notes/week 4 & 5/Linear Regression.md"
     },
     {
       "basename": "recall",
@@ -33,20 +57,12 @@
       "path": "ML/MLP/notes/week 7/large scale ML.md"
     },
     {
-      "basename": "binary class image classification with perceptron",
-      "path": "ML/MLP/notes/week 6/binary class image classification with perceptron.md"
-    },
-    {
       "basename": "evaluating classifiers",
       "path": "ML/MLP/notes/week 6/evaluating classifiers.md"
     },
     {
       "basename": "classification functions in scikit learn",
       "path": "ML/MLP/notes/week 6/classification functions in scikit learn.md"
-    },
-    {
-      "basename": "neural networks - multi-layer perceptrons",
-      "path": "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md"
     },
     {
       "basename": "boosting - adaboost, gradientboost",
@@ -77,32 +93,16 @@
       "path": "ML/MLP/notes/week 4 & 5/k-nn.md"
     },
     {
-      "basename": "naive bayes classifier",
-      "path": "ML/MLP/notes/week 4 & 5/naive bayes classifier.md"
+      "basename": "multiclass",
+      "path": "ML/MLP/notes/week 7/multiclass.md"
     },
     {
-      "basename": "multi learning classification",
-      "path": "ML/MLP/notes/week 4 & 5/multi learning classification.md"
+      "basename": "binary class image classification with perceptron",
+      "path": "ML/MLP/notes/week 6/binary class image classification with perceptron.md"
     },
     {
-      "basename": "Hyper parameter tuning",
-      "path": "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "ML/MLP/notes/week 4 & 5/Regularization.md"
-    },
-    {
-      "basename": "Polynomial Regression",
-      "path": "ML/MLP/notes/week 4 & 5/Polynomial Regression.md"
-    },
-    {
-      "basename": "Model Evaluation",
-      "path": "ML/MLP/notes/week 4 & 5/Model Evaluation.md"
-    },
-    {
-      "basename": "Linear Regression",
-      "path": "ML/MLP/notes/week 4 & 5/Linear Regression.md"
+      "basename": "neural networks - multi-layer perceptrons",
+      "path": "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md"
     },
     {
       "basename": "Categorical Transformers",
