@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "ML/MLP/notes/week 2/Untitled.md"
+    },
+    {
+      "basename": "Data Preprocessing",
+      "path": "ML/MLP/notes/week 2/Data Preprocessing.md"
+    },
+    {
+      "basename": "sklearn dataset API",
+      "path": "ML/MLP/notes/week 2/sklearn dataset API.md"
+    },
+    {
+      "basename": "Data Loading",
+      "path": "ML/MLP/notes/week 2/Data Loading.md"
+    },
+    {
+      "basename": "intro to scikit-learn",
+      "path": "ML/MLP/notes/week 2/intro to scikit-learn.md"
+    },
+    {
+      "basename": "pandas",
+      "path": "ML/MLP/notes/week 1/pandas.md"
+    },
+    {
       "basename": "Intro to ANN",
       "path": "DLGENAI/notes/week 1/Intro to ANN.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Linux commands",
       "path": "System Commands/flashcards/week 1/Linux commands.md"
-    },
-    {
-      "basename": "bash scripts",
-      "path": "System Commands/Notes/week 7/bash scripts.md"
-    },
-    {
-      "basename": "overview of shell scripts",
-      "path": "System Commands/Notes/week 6/overview of shell scripts.md"
-    },
-    {
-      "basename": "command line utilities",
-      "path": "System Commands/Notes/week 6/command line utilities.md"
-    },
-    {
-      "basename": "Shell variables",
-      "path": "System Commands/Notes/week 5/Shell variables.md"
-    },
-    {
-      "basename": "find",
-      "path": "System Commands/Notes/week 4/find.md"
-    },
-    {
-      "basename": "pattern matching",
-      "path": "System Commands/Notes/week 4/pattern matching.md"
     }
   ],
   "omittedPaths": [],

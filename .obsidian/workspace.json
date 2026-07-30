@@ -11,13 +11,79 @@
             "id": "ab85ee84d8a157b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 2/intro to scikit-learn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "intro to scikit-learn"
+            }
+          },
+          {
+            "id": "41a4d58646adf585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 2/Data Loading.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Loading"
+            }
+          },
+          {
+            "id": "21da39cb5cd48e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 2/sklearn dataset API.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "sklearn dataset API"
+            }
+          },
+          {
+            "id": "edaec03a2de4b0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 2/Data Preprocessing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Preprocessing"
+            }
+          },
+          {
+            "id": "3a830d06d4738ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 2/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,9 +261,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d33edad9dcbd51c7",
+  "active": "3a830d06d4738ca2",
   "lastOpenFiles": [
-    "ML/MLP",
+    "ML/MLP/notes/week 2/Data Preprocessing.md",
+    "ML/MLP/notes/week 2/Untitled.md",
+    "ML/MLP/notes/week 2/sklearn dataset API.md",
+    "ML/MLP/notes/week 2/Data Loading.md",
+    "ML/MLP/notes/week 2/intro to scikit-learn.md",
+    "ML/MLP/notes/week 1/pandas.md",
+    "ML/MLP/notes/week 12",
+    "ML/MLP/notes/week 11",
+    "ML/MLP/notes/week 10",
+    "ML/MLP/notes/week 9",
+    "ML/MLP/notes/week 8",
+    "ML/MLP/notes/week 7",
+    "ML/MLP/notes/week 6",
+    "ML/MLP/notes/week 5",
+    "ML/MLP/notes/week 4",
+    "ML/MLP/notes/week 3",
     "DLGENAI/notes/week 1/Intro to ANN.md",
     "DLGENAI/notes/week 1/Tensor - Creation, Manipulation, Reshaping and Indexing.md",
     "DLGENAI/notes/week 1/PyTorch and Numpy integration.md",
@@ -218,21 +299,6 @@
     "DLGENAI/notes/week 3/Filters, Feature Maps and Receptive Field.md",
     "DLGENAI/notes/week 3/CNN.md",
     "DLGENAI/notes/week 3/Convolution from scratch.md",
-    "DLGENAI/notes/week 3/Pooling from Scratch.md",
-    "DLGENAI/notes/week 3/Convolution in PyTorch.md",
-    "DLGENAI/notes/week 3/Pooling in PyTorch.md",
-    "DLGENAI/notes/week 4/Famous CNN Architectures.md",
-    "DLGENAI/notes/week 4/Transfer Learning.md",
-    "DLGENAI/notes/week 7",
-    "DLGENAI/notes/week 6",
-    "DLGENAI/notes/week 5",
-    "DLGENAI/notes/week 4",
-    "DLGENAI/notes/week 3",
-    "DLGENAI/notes/week 2",
-    "DLGENAI/flashcards/week 1",
-    "DLGENAI/notes/week 1/Untitled",
-    "DLGENAI/notes/week 1",
-    "DLGENAI/flashcards",
     "System Commands/Attachments/Pasted image 20260628134905.png",
     "System Commands/Attachments/Pasted image 20260628134550.png",
     "System Commands/Attachments/Pasted image 20260628110135.png",
