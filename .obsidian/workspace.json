@@ -4,86 +4,371 @@
     "type": "split",
     "children": [
       {
-        "id": "9d76564e088f3102",
+        "id": "c809096cd67c1b60",
         "type": "tabs",
         "children": [
           {
-            "id": "ab85ee84d8a157b2",
+            "id": "d01749e382663b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLP/notes/week 2/intro to scikit-learn.md",
+                "file": "ML/MLP/notes/week 4 & 5/Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "intro to scikit-learn"
+              "title": "Linear Regression"
             }
           },
           {
-            "id": "41a4d58646adf585",
+            "id": "390cd87c0c803978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLP/notes/week 2/Data Loading.md",
+                "file": "ML/MLP/notes/week 4 & 5/Model Evaluation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data Loading"
+              "title": "Model Evaluation"
             }
           },
           {
-            "id": "21da39cb5cd48e58",
+            "id": "51bd1c00aaeedf23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLP/notes/week 2/sklearn dataset API.md",
+                "file": "ML/MLP/notes/week 4 & 5/Polynomial Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sklearn dataset API"
+              "title": "Polynomial Regression"
             }
           },
           {
-            "id": "edaec03a2de4b0cc",
+            "id": "6f335660d0db2e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLP/notes/week 2/Data Preprocessing.md",
+                "file": "ML/MLP/notes/week 4 & 5/Regularization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data Preprocessing"
+              "title": "Regularization"
             }
           },
           {
-            "id": "3a830d06d4738ca2",
+            "id": "d2fe2970170e0795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLP/notes/week 2/Untitled.md",
+                "file": "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Hyper parameter tuning"
+            }
+          },
+          {
+            "id": "b23cc37f7f8f41f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/multi learning classification.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "multi learning classification"
+            }
+          },
+          {
+            "id": "b6826003690a5188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/naive bayes classifier.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "naive bayes classifier"
+            }
+          },
+          {
+            "id": "aa6d289a73825d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/k-nn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "k-nn"
+            }
+          },
+          {
+            "id": "8acc9c648276a85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/svm in scikit-learn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "svm in scikit-learn"
+            }
+          },
+          {
+            "id": "8bd0238820382d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/decision trees.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "decision trees"
+            }
+          },
+          {
+            "id": "bdcee78b408e8e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/voting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "voting"
+            }
+          },
+          {
+            "id": "d488c7e15057c96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/voting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "voting"
+            }
+          },
+          {
+            "id": "6a632010a2590295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/bagging.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "bagging"
+            }
+          },
+          {
+            "id": "9ecda9a86e8c5fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/random forest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "random forest"
+            }
+          },
+          {
+            "id": "95838b1d90240f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 4 & 5/boosting - adaboost, gradientboost.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "boosting - adaboost, gradientboost"
+            }
+          },
+          {
+            "id": "f9fda9eabe48b08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 6/classification functions in scikit learn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "classification functions in scikit learn"
+            }
+          },
+          {
+            "id": "1c1864453717093b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 6/evaluating classifiers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "evaluating classifiers"
+            }
+          },
+          {
+            "id": "b1c0661386167b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/large scale ML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "large scale ML"
+            }
+          },
+          {
+            "id": "5e98495fa1105ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/confusion matrix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "confusion matrix"
+            }
+          },
+          {
+            "id": "636b4ea141acc806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/accuracy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "accuracy"
+            }
+          },
+          {
+            "id": "1665b295108671d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/precision.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "precision"
+            }
+          },
+          {
+            "id": "74dd4212736e60df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/f1 score.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "f1 score"
+            }
+          },
+          {
+            "id": "9ec3f5fcf1bbc756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/MLP/notes/week 7/recall.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "recall"
+            }
+          },
+          {
+            "id": "aa57f467df3d9dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Neuron Structure"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -150,7 +435,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -261,14 +547,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3a830d06d4738ca2",
+  "active": "aa57f467df3d9dc4",
   "lastOpenFiles": [
-    "ML/MLP/notes/week 2/Data Preprocessing.md",
-    "ML/MLP/notes/week 2/Untitled.md",
-    "ML/MLP/notes/week 2/sklearn dataset API.md",
-    "ML/MLP/notes/week 2/Data Loading.md",
-    "ML/MLP/notes/week 2/intro to scikit-learn.md",
-    "ML/MLP/notes/week 1/pandas.md",
+    "NPTEL/2. Computational Neuroscience/flashcards/week 1",
+    "NPTEL/2. Computational Neuroscience/flashcards",
+    "ML/MLP/notes/week 7/multiclass.md",
+    "ML/MLP/notes/week 7/recall.md",
+    "ML/MLP/notes/week 7/f1 score.md",
+    "ML/MLP/notes/week 7/precision.md",
+    "ML/MLP/notes/week 7/accuracy.md",
+    "ML/MLP/notes/week 7/confusion matrix.md",
+    "ML/MLP/notes/week 7/large scale ML.md",
+    "ML/MLP/notes/week 6/binary class image classification with perceptron.md",
+    "ML/MLP/notes/week 6/evaluating classifiers.md",
+    "ML/MLP/notes/week 6/classification functions in scikit learn.md",
+    "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md",
+    "ML/MLP/notes/week 4 & 5/boosting - adaboost, gradientboost.md",
+    "ML/MLP/notes/week 4 & 5/random forest.md",
+    "ML/MLP/notes/week 4 & 5/bagging.md",
+    "ML/MLP/notes/week 4 & 5/voting.md",
+    "ML/MLP/notes/week 4/boosting.md",
+    "ML/MLP/notes/week 4 & 5/decision trees.md",
+    "ML/MLP/notes/week 4 & 5/svm in scikit-learn.md",
+    "ML/MLP/notes/week 4 & 5/k-nn.md",
+    "ML/MLP/notes/week 4 & 5/naive bayes classifier.md",
+    "ML/MLP/notes/week 4 & 5/multi learning classification.md",
+    "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md",
+    "ML/MLP/notes/week 4 & 5/Regularization.md",
+    "ML/MLP/notes/week 4 & 5/Polynomial Regression.md",
+    "ML/MLP/notes/week 4 & 5/Model Evaluation.md",
+    "ML/MLP/notes/week 4/Untitled",
     "ML/MLP/notes/week 12",
     "ML/MLP/notes/week 11",
     "ML/MLP/notes/week 10",
@@ -277,28 +585,6 @@
     "ML/MLP/notes/week 7",
     "ML/MLP/notes/week 6",
     "ML/MLP/notes/week 5",
-    "ML/MLP/notes/week 4",
-    "ML/MLP/notes/week 3",
-    "DLGENAI/notes/week 1/Intro to ANN.md",
-    "DLGENAI/notes/week 1/Tensor - Creation, Manipulation, Reshaping and Indexing.md",
-    "DLGENAI/notes/week 1/PyTorch and Numpy integration.md",
-    "DLGENAI/notes/week 1/Reproducibility, Hardware Acceleration and common errors in PyTorch.md",
-    "DLGENAI/notes/week 1/Linear Regression in PyTorch.md",
-    "DLGENAI/notes/week 1/Model Serialization in PyTorch.md",
-    "DLGENAI/notes/week 1/Neuron - Biology to Mathematics.md",
-    "DLGENAI/notes/week 1/Fundamental tricks in Deep Learning.md",
-    "DLGENAI/notes/week 1/Feedforward Network Architecture.md",
-    "DLGENAI/notes/week 2/Universal Approximation Theorem.md",
-    "DLGENAI/notes/week 2/Forward Pass and Loss Functions.md",
-    "DLGENAI/notes/week 2/Gradient Descent.md",
-    "DLGENAI/notes/week 2/Customer Churn.md",
-    "DLGENAI/notes/week 2/Backpropagation.md",
-    "DLGENAI/notes/week 2/XOR problem.md",
-    "DLGENAI/notes/week 3/Vision Modelling intro.md",
-    "DLGENAI/notes/week 3/from MLP to Convolution.md",
-    "DLGENAI/notes/week 3/Filters, Feature Maps and Receptive Field.md",
-    "DLGENAI/notes/week 3/CNN.md",
-    "DLGENAI/notes/week 3/Convolution from scratch.md",
     "System Commands/Attachments/Pasted image 20260628134905.png",
     "System Commands/Attachments/Pasted image 20260628134550.png",
     "System Commands/Attachments/Pasted image 20260628110135.png",

@@ -1,24 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "ML/MLP/notes/week 2/Untitled.md"
+      "basename": "1. Neuron Structure",
+      "path": "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md"
+    },
+    {
+      "basename": "multiclass",
+      "path": "ML/MLP/notes/week 7/multiclass.md"
+    },
+    {
+      "basename": "recall",
+      "path": "ML/MLP/notes/week 7/recall.md"
+    },
+    {
+      "basename": "f1 score",
+      "path": "ML/MLP/notes/week 7/f1 score.md"
+    },
+    {
+      "basename": "precision",
+      "path": "ML/MLP/notes/week 7/precision.md"
+    },
+    {
+      "basename": "accuracy",
+      "path": "ML/MLP/notes/week 7/accuracy.md"
+    },
+    {
+      "basename": "confusion matrix",
+      "path": "ML/MLP/notes/week 7/confusion matrix.md"
+    },
+    {
+      "basename": "large scale ML",
+      "path": "ML/MLP/notes/week 7/large scale ML.md"
+    },
+    {
+      "basename": "binary class image classification with perceptron",
+      "path": "ML/MLP/notes/week 6/binary class image classification with perceptron.md"
+    },
+    {
+      "basename": "evaluating classifiers",
+      "path": "ML/MLP/notes/week 6/evaluating classifiers.md"
+    },
+    {
+      "basename": "classification functions in scikit learn",
+      "path": "ML/MLP/notes/week 6/classification functions in scikit learn.md"
+    },
+    {
+      "basename": "neural networks - multi-layer perceptrons",
+      "path": "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md"
+    },
+    {
+      "basename": "boosting - adaboost, gradientboost",
+      "path": "ML/MLP/notes/week 4 & 5/boosting - adaboost, gradientboost.md"
+    },
+    {
+      "basename": "random forest",
+      "path": "ML/MLP/notes/week 4 & 5/random forest.md"
+    },
+    {
+      "basename": "bagging",
+      "path": "ML/MLP/notes/week 4 & 5/bagging.md"
+    },
+    {
+      "basename": "voting",
+      "path": "ML/MLP/notes/week 4 & 5/voting.md"
+    },
+    {
+      "basename": "decision trees",
+      "path": "ML/MLP/notes/week 4 & 5/decision trees.md"
+    },
+    {
+      "basename": "svm in scikit-learn",
+      "path": "ML/MLP/notes/week 4 & 5/svm in scikit-learn.md"
+    },
+    {
+      "basename": "k-nn",
+      "path": "ML/MLP/notes/week 4 & 5/k-nn.md"
+    },
+    {
+      "basename": "naive bayes classifier",
+      "path": "ML/MLP/notes/week 4 & 5/naive bayes classifier.md"
+    },
+    {
+      "basename": "multi learning classification",
+      "path": "ML/MLP/notes/week 4 & 5/multi learning classification.md"
+    },
+    {
+      "basename": "Hyper parameter tuning",
+      "path": "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md"
+    },
+    {
+      "basename": "Regularization",
+      "path": "ML/MLP/notes/week 4 & 5/Regularization.md"
+    },
+    {
+      "basename": "Polynomial Regression",
+      "path": "ML/MLP/notes/week 4 & 5/Polynomial Regression.md"
+    },
+    {
+      "basename": "Model Evaluation",
+      "path": "ML/MLP/notes/week 4 & 5/Model Evaluation.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "ML/MLP/notes/week 4 & 5/Linear Regression.md"
+    },
+    {
+      "basename": "Categorical Transformers",
+      "path": "ML/MLP/notes/week 2 & 3/Categorical Transformers.md"
+    },
+    {
+      "basename": "Handling Missing Data",
+      "path": "ML/MLP/notes/week 2 & 3/Handling Missing Data.md"
     },
     {
       "basename": "Data Preprocessing",
-      "path": "ML/MLP/notes/week 2/Data Preprocessing.md"
+      "path": "ML/MLP/notes/week 2 & 3/Data Preprocessing.md"
     },
     {
       "basename": "sklearn dataset API",
-      "path": "ML/MLP/notes/week 2/sklearn dataset API.md"
+      "path": "ML/MLP/notes/week 2 & 3/sklearn dataset API.md"
     },
     {
       "basename": "Data Loading",
-      "path": "ML/MLP/notes/week 2/Data Loading.md"
+      "path": "ML/MLP/notes/week 2 & 3/Data Loading.md"
     },
     {
       "basename": "intro to scikit-learn",
-      "path": "ML/MLP/notes/week 2/intro to scikit-learn.md"
+      "path": "ML/MLP/notes/week 2 & 3/intro to scikit-learn.md"
+    },
+    {
+      "basename": "Heterogenous Feature Transformations",
+      "path": "ML/MLP/notes/week 2 & 3/Heterogenous Feature Transformations.md"
+    },
+    {
+      "basename": "Wrapper Based Feature Selection",
+      "path": "ML/MLP/notes/week 2 & 3/Wrapper Based Feature Selection.md"
+    },
+    {
+      "basename": "Filter Based Feature Selection",
+      "path": "ML/MLP/notes/week 2 & 3/Filter Based Feature Selection.md"
+    },
+    {
+      "basename": "Outliers",
+      "path": "ML/MLP/notes/week 2 & 3/Outliers.md"
+    },
+    {
+      "basename": "Feature Scaling",
+      "path": "ML/MLP/notes/week 2 & 3/Feature Scaling.md"
+    },
+    {
+      "basename": "Numeric Transformers",
+      "path": "ML/MLP/notes/week 2 & 3/Numeric Transformers.md"
+    },
+    {
+      "basename": "Dimensionality Reduction by PCA",
+      "path": "ML/MLP/notes/week 2 & 3/Dimensionality Reduction by PCA.md"
     },
     {
       "basename": "pandas",
@@ -63,142 +199,6 @@
     {
       "basename": "Universal Approximation Theorem",
       "path": "DLGENAI/notes/week 2/Universal Approximation Theorem.md"
-    },
-    {
-      "basename": "Forward Pass and Loss Functions",
-      "path": "DLGENAI/notes/week 2/Forward Pass and Loss Functions.md"
-    },
-    {
-      "basename": "Gradient Descent",
-      "path": "DLGENAI/notes/week 2/Gradient Descent.md"
-    },
-    {
-      "basename": "Customer Churn",
-      "path": "DLGENAI/notes/week 2/Customer Churn.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "DLGENAI/notes/week 2/Backpropagation.md"
-    },
-    {
-      "basename": "XOR problem",
-      "path": "DLGENAI/notes/week 2/XOR problem.md"
-    },
-    {
-      "basename": "Vision Modelling intro",
-      "path": "DLGENAI/notes/week 3/Vision Modelling intro.md"
-    },
-    {
-      "basename": "from MLP to Convolution",
-      "path": "DLGENAI/notes/week 3/from MLP to Convolution.md"
-    },
-    {
-      "basename": "Filters, Feature Maps and Receptive Field",
-      "path": "DLGENAI/notes/week 3/Filters, Feature Maps and Receptive Field.md"
-    },
-    {
-      "basename": "CNN",
-      "path": "DLGENAI/notes/week 3/CNN.md"
-    },
-    {
-      "basename": "Convolution from scratch",
-      "path": "DLGENAI/notes/week 3/Convolution from scratch.md"
-    },
-    {
-      "basename": "Pooling from Scratch",
-      "path": "DLGENAI/notes/week 3/Pooling from Scratch.md"
-    },
-    {
-      "basename": "Convolution in PyTorch",
-      "path": "DLGENAI/notes/week 3/Convolution in PyTorch.md"
-    },
-    {
-      "basename": "Pooling in PyTorch",
-      "path": "DLGENAI/notes/week 3/Pooling in PyTorch.md"
-    },
-    {
-      "basename": "Famous CNN Architectures",
-      "path": "DLGENAI/notes/week 4/Famous CNN Architectures.md"
-    },
-    {
-      "basename": "Transfer Learning",
-      "path": "DLGENAI/notes/week 4/Transfer Learning.md"
-    },
-    {
-      "basename": "Image classification with Transfer Learning",
-      "path": "DLGENAI/notes/week 4/Image classification with Transfer Learning.md"
-    },
-    {
-      "basename": "Optimization in DL - challenges",
-      "path": "DLGENAI/notes/week 5/Optimization in DL - challenges.md"
-    },
-    {
-      "basename": "Convex Optimization",
-      "path": "DLGENAI/notes/week 5/Convex Optimization.md"
-    },
-    {
-      "basename": "Gradient Descent Algorithm",
-      "path": "DLGENAI/notes/week 5/Gradient Descent Algorithm.md"
-    },
-    {
-      "basename": "Accelerating Gradient Descent",
-      "path": "DLGENAI/notes/week 5/Accelerating Gradient Descent.md"
-    },
-    {
-      "basename": "Intro to Generative Models",
-      "path": "DLGENAI/notes/week 6/Intro to Generative Models.md"
-    },
-    {
-      "basename": "Intro to Latent Space",
-      "path": "DLGENAI/notes/week 6/Intro to Latent Space.md"
-    },
-    {
-      "basename": "Intro to Generative Adversarial Networks",
-      "path": "DLGENAI/notes/week 6/Intro to Generative Adversarial Networks.md"
-    },
-    {
-      "basename": "Intro to Sequence Modelling",
-      "path": "DLGENAI/notes/week 7/Intro to Sequence Modelling.md"
-    },
-    {
-      "basename": "Language Modelling",
-      "path": "DLGENAI/notes/week 7/Language Modelling.md"
-    },
-    {
-      "basename": "Recurrent Neural Networks",
-      "path": "DLGENAI/notes/week 7/Recurrent Neural Networks.md"
-    },
-    {
-      "basename": "Vanilla RNN - Python demo",
-      "path": "DLGENAI/notes/week 7/Vanilla RNN - Python demo.md"
-    },
-    {
-      "basename": "Fashion MNIST Generation using GAN",
-      "path": "DLGENAI/notes/week 6/Fashion MNIST Generation using GAN.md"
-    },
-    {
-      "basename": "Gradient Descent DemoX",
-      "path": "DLGENAI/notes/week 5/Gradient Descent DemoX.md"
-    },
-    {
-      "basename": "Image Segmentation",
-      "path": "DLGENAI/notes/week 4/Image Segmentation.md"
-    },
-    {
-      "basename": "CNN Image Classification",
-      "path": "DLGENAI/notes/week 3/CNN Image Classification.md"
-    },
-    {
-      "basename": "Fashion MNIST",
-      "path": "DLGENAI/notes/week 2/Fashion MNIST.md"
-    },
-    {
-      "basename": "Activation Function",
-      "path": "DLGENAI/notes/week 1/Activation Function.md"
-    },
-    {
-      "basename": "Linux commands",
-      "path": "System Commands/flashcards/week 1/Linux commands.md"
     }
   ],
   "omittedPaths": [],
