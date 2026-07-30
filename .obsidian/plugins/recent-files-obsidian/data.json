@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "DLGENAI/notes/week 2/Untitled.md"
+    },
+    {
+      "basename": "Universal Approximation Theorem",
+      "path": "DLGENAI/notes/week 2/Universal Approximation Theorem.md"
+    },
+    {
+      "basename": "Activation Function",
+      "path": "DLGENAI/notes/week 1/Activation Function.md"
+    },
+    {
+      "basename": "Feedforward Network Architecture",
+      "path": "DLGENAI/notes/week 1/Feedforward Network Architecture.md"
+    },
+    {
+      "basename": "Fundamental tricks in Deep Learning",
+      "path": "DLGENAI/notes/week 1/Fundamental tricks in Deep Learning.md"
+    },
+    {
+      "basename": "Neuron - Biology to Mathematics",
+      "path": "DLGENAI/notes/week 1/Neuron - Biology to Mathematics.md"
+    },
+    {
+      "basename": "Model Serialization in PyTorch",
+      "path": "DLGENAI/notes/week 1/Model Serialization in PyTorch.md"
+    },
+    {
+      "basename": "Linear Regression in PyTorch",
+      "path": "DLGENAI/notes/week 1/Linear Regression in PyTorch.md"
+    },
+    {
+      "basename": "Reproducibility, Hardware Acceleration and common errors in PyTorch",
+      "path": "DLGENAI/notes/week 1/Reproducibility, Hardware Acceleration and common errors in PyTorch.md"
+    },
+    {
+      "basename": "PyTorch and Numpy integration",
+      "path": "DLGENAI/notes/week 1/PyTorch and Numpy integration.md"
+    },
+    {
+      "basename": "Tensor - Creation, Manipulation, Reshaping and Indexing",
+      "path": "DLGENAI/notes/week 1/Tensor - Creation, Manipulation, Reshaping and Indexing.md"
+    },
+    {
+      "basename": "Intro to ANN",
+      "path": "DLGENAI/notes/week 1/Intro to ANN.md"
+    },
+    {
+      "basename": "Linux commands",
+      "path": "System Commands/flashcards/week 1/Linux commands.md"
+    },
+    {
+      "basename": "bash scripts",
+      "path": "System Commands/Notes/week 7/bash scripts.md"
+    },
+    {
+      "basename": "overview of shell scripts",
+      "path": "System Commands/Notes/week 6/overview of shell scripts.md"
+    },
+    {
+      "basename": "command line utilities",
+      "path": "System Commands/Notes/week 6/command line utilities.md"
+    },
+    {
+      "basename": "Shell variables",
+      "path": "System Commands/Notes/week 5/Shell variables.md"
+    },
+    {
+      "basename": "find",
+      "path": "System Commands/Notes/week 4/find.md"
+    },
+    {
+      "basename": "pattern matching",
+      "path": "System Commands/Notes/week 4/pattern matching.md"
+    },
+    {
       "basename": "sequencing by ligation (Complete Genomics)",
       "path": "NPTEL/1. Advances in Omics/Week 2/sequencing by ligation (Complete Genomics).md"
     },
@@ -78,47 +154,35 @@
     },
     {
       "basename": "Networking commands and SSH",
-      "path": "System Commands/Notes/Networking commands and SSH.md"
-    },
-    {
-      "basename": "pattern matching",
-      "path": "System Commands/Notes/pattern matching.md"
-    },
-    {
-      "basename": "find",
-      "path": "System Commands/Notes/find.md"
+      "path": "System Commands/Notes/week 2/Networking commands and SSH.md"
     },
     {
       "basename": "linux process management",
-      "path": "System Commands/Notes/linux process management.md"
+      "path": "System Commands/Notes/week 3/linux process management.md"
     },
     {
       "basename": "software management",
-      "path": "System Commands/Notes/software management.md"
+      "path": "System Commands/Notes/week 3/software management.md"
     },
     {
       "basename": "redirections",
-      "path": "System Commands/Notes/redirections.md"
+      "path": "System Commands/Notes/week 3/redirections.md"
     },
     {
       "basename": "Combining commands and files",
-      "path": "System Commands/Notes/Combining commands and files.md"
+      "path": "System Commands/Notes/week 3/Combining commands and files.md"
     },
     {
       "basename": "Command Line Editors",
-      "path": "System Commands/Notes/Command Line Editors.md"
+      "path": "System Commands/Notes/week 2/Command Line Editors.md"
     },
     {
       "basename": "Networking fundamentals and SSH",
-      "path": "System Commands/flashcards/Networking fundamentals and SSH.md"
+      "path": "System Commands/flashcards/week 2/Networking fundamentals and SSH.md"
     },
     {
       "basename": "Command line editors",
-      "path": "System Commands/flashcards/Command line editors.md"
-    },
-    {
-      "basename": "Linux commands",
-      "path": "System Commands/flashcards/week 1/Linux commands.md"
+      "path": "System Commands/flashcards/week 2/Command line editors.md"
     },
     {
       "basename": "Command Line Environment",

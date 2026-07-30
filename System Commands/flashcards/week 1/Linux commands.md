@@ -1,10 +1,5 @@
 # ── NAVIGATION ──────────────────────────────────────────
 
-What command lists files in the current directory? ;; ls
-<!--SR:!2026-06-14,2,246-->
-
-What command lists files with detailed info (permissions, owner, size, date)? ;; ls -l
-<!--SR:!2026-06-14,2,246-->
 
 What command shows inode numbers alongside filenames? ;; ls -i
 <!--SR:!2026-06-20,1,226-->
@@ -12,48 +7,19 @@ What command shows inode numbers alongside filenames? ;; ls -i
 What command shows the directory entry itself rather than its contents? ;; ls -d _**directory**_
 <!--SR:!2026-06-13,1,226-->
 
-What is the long form of the ls -i option? ;; --inode
-<!--SR:!2026-06-13,1,226-->
-
-What is the long form of the ls -d option? ;; --directory
-<!--SR:!2026-06-15,3,266-->
-
 Does the order of options matter for the ls command? ;; No — ls accepts options in any order
 <!--SR:!2026-06-14,2,246-->
 
-What command changes to a directory? ;; cd _**directory**_
-<!--SR:!2026-06-15,3,266-->
-
-What command returns to the home directory using a shortcut? ;; cd ~
-<!--SR:!2026-06-29,10,286-->
-
-What command goes to the previous working directory? ;; cd -
-<!--SR:!2026-06-15,3,266-->
-
-What command goes up one level? ;; cd ..
-<!--SR:!2026-06-15,3,266-->
-
-What does . represent in Linux? ;; The current directory
-<!--SR:!2026-06-15,3,266-->
-
-What does .. represent in Linux? ;; The parent directory
-<!--SR:!2026-06-15,3,266-->
 
 What is the root directory in Linux? ;; /
 <!--SR:!2026-06-15,3,266-->
 
 # ── DATE AND TIME ───────────────────────────────────────
 
-What command displays the current date and time? ;; date
-<!--SR:!2026-06-15,3,266-->
-
 What option makes date output in RFC 5322 format? ;; date -R
 <!--SR:!2026-06-30,11,286-->
 
 # ── CALENDAR 
-
-What command displays the current month's calendar? ;; cal
-<!--SR:!2026-06-15,3,266-->
 
 What command displays a specific month and year calendar? ;; cal _**month**_ _**year**_
 <!--SR:!2026-06-15,3,266-->
@@ -80,12 +46,6 @@ Why is swap slower than RAM? ;; Swap is slower because it resides on disk storag
 
 # ── FILE AND DIRECTORY OPERATIONS 
 
-What command creates a directory? ;; mkdir _**directory**_
-<!--SR:!2026-06-15,3,266-->
-
-What command creates an empty file? ;; touch _**file**_
-<!--SR:!2026-06-15,3,266-->
-
 What command copies a file? ;; cp _**source**_-**_destination_**
 <!--SR:!2026-06-15,3,266-->
 
@@ -101,9 +61,6 @@ What command renames a file? ;; mv _**oldname**_ _**newname**_
 What command removes a file? ;; rm _**file**_
 <!--SR:!2026-06-15,3,266-->
 
-What command removes an empty directory? ;; rmdir _**directory**_
-<!--SR:!2026-06-14,2,246-->
-
 What command removes a directory recursively? ;; rm -r _**directory**_
 <!--SR:!2026-06-15,3,266-->
 
@@ -112,9 +69,6 @@ What command removes a file with a confirmation prompt? ;; rm -i _**file**_
 
 Why does mv not need a -r flag to move a directory, but cp does? ;; mv just moves the directory entry; cp must copy all contents recursively
 <!--SR:!2026-06-13,1,226-->
-
-What command creates multiple empty files at once? ;; touch _**file1**_ _**file2**_ _**file3**_
-<!--SR:!2026-06-14,2,246-->
 
 # ── VIEWING FILE CONTENTS ───────────────────────────────
 
