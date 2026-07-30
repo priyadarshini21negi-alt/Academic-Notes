@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15b9298a3b64e0af",
+        "id": "3090fe5459af2a68",
         "type": "tabs",
         "children": [
           {
-            "id": "22e98d5b5b496f95",
+            "id": "bd9ec945ca304ae8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "22e98d5b5b496f95",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
     "NPTEL/1. Advances in Omics/Week 2/sequencing by ligation (Complete Genomics).md",
     "NPTEL/1. Advances in Omics/Week 1/Untitled.md",
