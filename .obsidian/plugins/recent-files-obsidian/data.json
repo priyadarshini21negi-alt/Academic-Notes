@@ -1,52 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "DLGENAI/notes/week 2/Untitled.md"
-    },
-    {
-      "basename": "Universal Approximation Theorem",
-      "path": "DLGENAI/notes/week 2/Universal Approximation Theorem.md"
-    },
-    {
-      "basename": "Activation Function",
-      "path": "DLGENAI/notes/week 1/Activation Function.md"
-    },
-    {
-      "basename": "Feedforward Network Architecture",
-      "path": "DLGENAI/notes/week 1/Feedforward Network Architecture.md"
-    },
-    {
-      "basename": "Fundamental tricks in Deep Learning",
-      "path": "DLGENAI/notes/week 1/Fundamental tricks in Deep Learning.md"
-    },
-    {
-      "basename": "Neuron - Biology to Mathematics",
-      "path": "DLGENAI/notes/week 1/Neuron - Biology to Mathematics.md"
-    },
-    {
-      "basename": "Model Serialization in PyTorch",
-      "path": "DLGENAI/notes/week 1/Model Serialization in PyTorch.md"
-    },
-    {
-      "basename": "Linear Regression in PyTorch",
-      "path": "DLGENAI/notes/week 1/Linear Regression in PyTorch.md"
-    },
-    {
-      "basename": "Reproducibility, Hardware Acceleration and common errors in PyTorch",
-      "path": "DLGENAI/notes/week 1/Reproducibility, Hardware Acceleration and common errors in PyTorch.md"
-    },
-    {
-      "basename": "PyTorch and Numpy integration",
-      "path": "DLGENAI/notes/week 1/PyTorch and Numpy integration.md"
+      "basename": "Intro to ANN",
+      "path": "DLGENAI/notes/week 1/Intro to ANN.md"
     },
     {
       "basename": "Tensor - Creation, Manipulation, Reshaping and Indexing",
       "path": "DLGENAI/notes/week 1/Tensor - Creation, Manipulation, Reshaping and Indexing.md"
     },
     {
-      "basename": "Intro to ANN",
-      "path": "DLGENAI/notes/week 1/Intro to ANN.md"
+      "basename": "PyTorch and Numpy integration",
+      "path": "DLGENAI/notes/week 1/PyTorch and Numpy integration.md"
+    },
+    {
+      "basename": "Reproducibility, Hardware Acceleration and common errors in PyTorch",
+      "path": "DLGENAI/notes/week 1/Reproducibility, Hardware Acceleration and common errors in PyTorch.md"
+    },
+    {
+      "basename": "Linear Regression in PyTorch",
+      "path": "DLGENAI/notes/week 1/Linear Regression in PyTorch.md"
+    },
+    {
+      "basename": "Model Serialization in PyTorch",
+      "path": "DLGENAI/notes/week 1/Model Serialization in PyTorch.md"
+    },
+    {
+      "basename": "Neuron - Biology to Mathematics",
+      "path": "DLGENAI/notes/week 1/Neuron - Biology to Mathematics.md"
+    },
+    {
+      "basename": "Fundamental tricks in Deep Learning",
+      "path": "DLGENAI/notes/week 1/Fundamental tricks in Deep Learning.md"
+    },
+    {
+      "basename": "Feedforward Network Architecture",
+      "path": "DLGENAI/notes/week 1/Feedforward Network Architecture.md"
+    },
+    {
+      "basename": "Universal Approximation Theorem",
+      "path": "DLGENAI/notes/week 2/Universal Approximation Theorem.md"
+    },
+    {
+      "basename": "Forward Pass and Loss Functions",
+      "path": "DLGENAI/notes/week 2/Forward Pass and Loss Functions.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "DLGENAI/notes/week 2/Gradient Descent.md"
+    },
+    {
+      "basename": "Customer Churn",
+      "path": "DLGENAI/notes/week 2/Customer Churn.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "DLGENAI/notes/week 2/Backpropagation.md"
+    },
+    {
+      "basename": "XOR problem",
+      "path": "DLGENAI/notes/week 2/XOR problem.md"
+    },
+    {
+      "basename": "Vision Modelling intro",
+      "path": "DLGENAI/notes/week 3/Vision Modelling intro.md"
+    },
+    {
+      "basename": "from MLP to Convolution",
+      "path": "DLGENAI/notes/week 3/from MLP to Convolution.md"
+    },
+    {
+      "basename": "Filters, Feature Maps and Receptive Field",
+      "path": "DLGENAI/notes/week 3/Filters, Feature Maps and Receptive Field.md"
+    },
+    {
+      "basename": "CNN",
+      "path": "DLGENAI/notes/week 3/CNN.md"
+    },
+    {
+      "basename": "Convolution from scratch",
+      "path": "DLGENAI/notes/week 3/Convolution from scratch.md"
+    },
+    {
+      "basename": "Pooling from Scratch",
+      "path": "DLGENAI/notes/week 3/Pooling from Scratch.md"
+    },
+    {
+      "basename": "Convolution in PyTorch",
+      "path": "DLGENAI/notes/week 3/Convolution in PyTorch.md"
+    },
+    {
+      "basename": "Pooling in PyTorch",
+      "path": "DLGENAI/notes/week 3/Pooling in PyTorch.md"
+    },
+    {
+      "basename": "Famous CNN Architectures",
+      "path": "DLGENAI/notes/week 4/Famous CNN Architectures.md"
+    },
+    {
+      "basename": "Transfer Learning",
+      "path": "DLGENAI/notes/week 4/Transfer Learning.md"
+    },
+    {
+      "basename": "Image classification with Transfer Learning",
+      "path": "DLGENAI/notes/week 4/Image classification with Transfer Learning.md"
+    },
+    {
+      "basename": "Optimization in DL - challenges",
+      "path": "DLGENAI/notes/week 5/Optimization in DL - challenges.md"
+    },
+    {
+      "basename": "Convex Optimization",
+      "path": "DLGENAI/notes/week 5/Convex Optimization.md"
+    },
+    {
+      "basename": "Gradient Descent Algorithm",
+      "path": "DLGENAI/notes/week 5/Gradient Descent Algorithm.md"
+    },
+    {
+      "basename": "Accelerating Gradient Descent",
+      "path": "DLGENAI/notes/week 5/Accelerating Gradient Descent.md"
+    },
+    {
+      "basename": "Intro to Generative Models",
+      "path": "DLGENAI/notes/week 6/Intro to Generative Models.md"
+    },
+    {
+      "basename": "Intro to Latent Space",
+      "path": "DLGENAI/notes/week 6/Intro to Latent Space.md"
+    },
+    {
+      "basename": "Intro to Generative Adversarial Networks",
+      "path": "DLGENAI/notes/week 6/Intro to Generative Adversarial Networks.md"
+    },
+    {
+      "basename": "Intro to Sequence Modelling",
+      "path": "DLGENAI/notes/week 7/Intro to Sequence Modelling.md"
+    },
+    {
+      "basename": "Language Modelling",
+      "path": "DLGENAI/notes/week 7/Language Modelling.md"
+    },
+    {
+      "basename": "Recurrent Neural Networks",
+      "path": "DLGENAI/notes/week 7/Recurrent Neural Networks.md"
+    },
+    {
+      "basename": "Vanilla RNN - Python demo",
+      "path": "DLGENAI/notes/week 7/Vanilla RNN - Python demo.md"
+    },
+    {
+      "basename": "Fashion MNIST Generation using GAN",
+      "path": "DLGENAI/notes/week 6/Fashion MNIST Generation using GAN.md"
+    },
+    {
+      "basename": "Gradient Descent DemoX",
+      "path": "DLGENAI/notes/week 5/Gradient Descent DemoX.md"
+    },
+    {
+      "basename": "Image Segmentation",
+      "path": "DLGENAI/notes/week 4/Image Segmentation.md"
+    },
+    {
+      "basename": "CNN Image Classification",
+      "path": "DLGENAI/notes/week 3/CNN Image Classification.md"
+    },
+    {
+      "basename": "Fashion MNIST",
+      "path": "DLGENAI/notes/week 2/Fashion MNIST.md"
+    },
+    {
+      "basename": "Activation Function",
+      "path": "DLGENAI/notes/week 1/Activation Function.md"
     },
     {
       "basename": "Linux commands",
@@ -75,122 +199,6 @@
     {
       "basename": "pattern matching",
       "path": "System Commands/Notes/week 4/pattern matching.md"
-    },
-    {
-      "basename": "sequencing by ligation (Complete Genomics)",
-      "path": "NPTEL/1. Advances in Omics/Week 2/sequencing by ligation (Complete Genomics).md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "NPTEL/1. Advances in Omics/Week 2/Untitled.md"
-    },
-    {
-      "basename": "sequencing by ligation (Solid)",
-      "path": "NPTEL/1. Advances in Omics/Week 2/sequencing by ligation (Solid).md"
-    },
-    {
-      "basename": "Ph sequencing",
-      "path": "NPTEL/1. Advances in Omics/Week 2/Ph sequencing.md"
-    },
-    {
-      "basename": "Reversible Chain Termination Based Sequencing",
-      "path": "NPTEL/1. Advances in Omics/Week 2/Reversible Chain Termination Based Sequencing.md"
-    },
-    {
-      "basename": "Pyrosequencing",
-      "path": "NPTEL/1. Advances in Omics/Week 2/Pyrosequencing.md"
-    },
-    {
-      "basename": "Genome Assembly",
-      "path": "NPTEL/1. Advances in Omics/Week 1/Genome Assembly.md"
-    },
-    {
-      "basename": "Advent of NGS",
-      "path": "NPTEL/1. Advances in Omics/Week 1/Advent of NGS.md"
-    },
-    {
-      "basename": "Intro to Genomics",
-      "path": "NPTEL/1. Advances in Omics/Week 1/Intro to Genomics.md"
-    },
-    {
-      "basename": "1. Neuron Structure",
-      "path": "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md"
-    },
-    {
-      "basename": "2. Networks on Neurons and Synapses",
-      "path": "NPTEL/2. Computational Neuroscience/Week 1/2. Networks on Neurons and Synapses.md"
-    },
-    {
-      "basename": "4. Systems of neural processing",
-      "path": "NPTEL/2. Computational Neuroscience/Week 1/4. Systems of neural processing.md"
-    },
-    {
-      "basename": "3. Basic Structures in the Brain",
-      "path": "NPTEL/2. Computational Neuroscience/Week 1/3. Basic Structures in the Brain.md"
-    },
-    {
-      "basename": "8. Ion channels",
-      "path": "NPTEL/2. Computational Neuroscience/Week 2/8. Ion channels.md"
-    },
-    {
-      "basename": "7. Patch Clamp Measurements",
-      "path": "NPTEL/2. Computational Neuroscience/Week 2/7. Patch Clamp Measurements.md"
-    },
-    {
-      "basename": "6. Membrane Potential and All or None Spike",
-      "path": "NPTEL/2. Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md"
-    },
-    {
-      "basename": "10. Single Neuron Activity",
-      "path": "NPTEL/2. Computational Neuroscience/Week 2/10. Single Neuron Activity.md"
-    },
-    {
-      "basename": "9. Current injection- Synapses",
-      "path": "NPTEL/2. Computational Neuroscience/Week 2/9. Current injection- Synapses.md"
-    },
-    {
-      "basename": "5. Methods of Recording Neural Activity",
-      "path": "NPTEL/2. Computational Neuroscience/Week 1/5. Methods of Recording Neural Activity.md"
-    },
-    {
-      "basename": "Networking commands and SSH",
-      "path": "System Commands/Notes/week 2/Networking commands and SSH.md"
-    },
-    {
-      "basename": "linux process management",
-      "path": "System Commands/Notes/week 3/linux process management.md"
-    },
-    {
-      "basename": "software management",
-      "path": "System Commands/Notes/week 3/software management.md"
-    },
-    {
-      "basename": "redirections",
-      "path": "System Commands/Notes/week 3/redirections.md"
-    },
-    {
-      "basename": "Combining commands and files",
-      "path": "System Commands/Notes/week 3/Combining commands and files.md"
-    },
-    {
-      "basename": "Command Line Editors",
-      "path": "System Commands/Notes/week 2/Command Line Editors.md"
-    },
-    {
-      "basename": "Networking fundamentals and SSH",
-      "path": "System Commands/flashcards/week 2/Networking fundamentals and SSH.md"
-    },
-    {
-      "basename": "Command line editors",
-      "path": "System Commands/flashcards/week 2/Command line editors.md"
-    },
-    {
-      "basename": "Command Line Environment",
-      "path": "System Commands/Notes/week 1/Command Line Environment.md"
-    },
-    {
-      "basename": "Linux - Simple Commands",
-      "path": "System Commands/Notes/week 1/Linux - Simple Commands.md"
     }
   ],
   "omittedPaths": [],
