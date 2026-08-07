@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "1. Neuron Structure"
             }
+          },
+          {
+            "id": "3649888aa0733c9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +210,10 @@
       "markdown-importer:Open format converter": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa57f467df3d9dc4",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
     "ML/MLP/notes/week 4 & 5/naive bayes classifier.md",
     "ML/MLP/notes/week 4 & 5/multi learning classification.md",
