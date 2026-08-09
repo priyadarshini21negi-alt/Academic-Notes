@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md",
+                "file": "NPTEL/Computational Neuroscience/Week 1/1. Neuron Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "1. Neuron Structure"
             }
-          },
-          {
-            "id": "3649888aa0733c9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -102,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -210,11 +198,13 @@
       "markdown-importer:Open format converter": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
+    "NPTEL/Computational Neuroscience/Week 1/1. Neuron Structure.md",
     "ML/MLP/notes/week 4 & 5/naive bayes classifier.md",
     "ML/MLP/notes/week 4 & 5/multi learning classification.md",
     "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md",
@@ -222,7 +212,6 @@
     "ML/MLP/notes/week 4 & 5/Polynomial Regression.md",
     "ML/MLP/notes/week 4 & 5/Model Evaluation.md",
     "ML/MLP/notes/week 4 & 5/Linear Regression.md",
-    "NPTEL/2. Computational Neuroscience/Week 1/1. Neuron Structure.md",
     "ML/MLP/notes/week 7/recall.md",
     "ML/MLP/notes/week 7/f1 score.md",
     "ML/MLP/notes/week 7/precision.md",
@@ -238,8 +227,8 @@
     "ML/MLP/notes/week 4 & 5/decision trees.md",
     "ML/MLP/notes/week 4 & 5/svm in scikit-learn.md",
     "ML/MLP/notes/week 4 & 5/k-nn.md",
-    "NPTEL/2. Computational Neuroscience/flashcards/week 1",
-    "NPTEL/2. Computational Neuroscience/flashcards",
+    "NPTEL/Computational Neuroscience/flashcards/week 1",
+    "NPTEL/Computational Neuroscience/flashcards",
     "ML/MLP/notes/week 7/multiclass.md",
     "ML/MLP/notes/week 6/binary class image classification with perceptron.md",
     "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md",
