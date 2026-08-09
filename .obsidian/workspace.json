@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPTEL/Computational Neuroscience/Week 1/1. Neuron Structure.md",
+                "file": "NPTEL/Computational Neuroscience/Week 1/1. Intro -  Structure and History.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Neuron Structure"
+              "title": "1. Intro -  Structure and History"
             }
           },
           {
@@ -37,7 +37,8 @@
               "title": "2. Networks on Neurons and Synapses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +218,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "aa57f467df3d9dc4",
+  "active": "2613cc0923450b15",
   "lastOpenFiles": [
+    "NPTEL/Computational Neuroscience/Week 1/1. Intro -  Structure and History.md",
     "NPTEL/Computational Neuroscience/Week 1/Attachments/neuron.png",
-    "NPTEL/Computational Neuroscience/Week 1/1. Neuron Structure.md",
     "NPTEL/Computational Neuroscience/Week 1/2. Networks on Neurons and Synapses.md",
     "NPTEL/Computational Neuroscience/Week 1/Attachments/Pasted image 20260809142858.png",
     "NPTEL/Computational Neuroscience/Week 1/Attachments/Pasted image 20260809142837.png",
