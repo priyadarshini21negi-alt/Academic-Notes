@@ -41,4 +41,11 @@ Neurotransmitters : diverse group of chemicals  --> that are Synthesized and Sto
 ---> neurotransmitters then diffuse across the cleft and bind to specific receptors on the postsynaptic neuron.
 
 ### common neurotransmitters 
-- **Glutamate** - most abundant 
+1. **Glutamate:** most abundant excitatory neurotransmitter in the brain, involved in promoting the generation of [[action potentials]] and enhancing synaptic transmission.
+2.  **Gamma-Aminobutyric Acid (GABA):** primary inhibitory neurotransmitter in the brain, involved in reducing neuronal activity and dampening excitatory signals.
+3. **Dopamine:** Plays a role in regulating motivation, reward, and pleasure, as well as motor control and various cognitive functions.
+4. **Serotonin:** Regulates mood, sleep, appetite, and other behavioral and physiological processes
+5. **Acetylcholine:** Involved in muscle contraction at the neuromuscular junction and also functions as a neuromodulator in the brain, affecting attention, learning, and memory.
+6. **Norepinephrine (noradrenaline):** Influences arousal, alertness, and stress response, among other functions.
+7. **Epinephrine (adrenaline):** Primarily involved in the "fight or flight" response and stress-related reactions.
+8. **Endorphins:** Act as natural painkillers and are associated with feelings of pleasure and euphoria.
