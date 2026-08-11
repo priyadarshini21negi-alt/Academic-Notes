@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell variables",
+      "path": "System Commands/Notes/week 5/Shell variables.md"
+    },
+    {
       "basename": "Basic Brain Structure",
       "path": "NPTEL/Computational Neuroscience/Week 1/Basic Brain Structure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linear Regression in PyTorch",
       "path": "DLGENAI/notes/week 1/Linear Regression in PyTorch.md"
-    },
-    {
-      "basename": "Model Serialization in PyTorch",
-      "path": "DLGENAI/notes/week 1/Model Serialization in PyTorch.md"
     }
   ],
   "omittedPaths": [],
