@@ -12,7 +12,7 @@ Does the order of options matter for the ls command? ;; No — ls accepts option
 
 
 What is the root directory in Linux? ;; /
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-08-22,11,286-->
 
 # ── DATE AND TIME ───────────────────────────────────────
 
@@ -88,7 +88,7 @@ What command displays the first 10 lines of a file? ;; head _**file**_
 <!--SR:!2026-06-15,3,266-->
 
 What command displays the first N lines of a file? ;; head -n _**N**_ _**file**_
-<!--SR:!2026-06-15,3,266-->
+<!--SR:!2026-08-19,8,266-->
 
 What command displays the last 10 lines of a file? ;; tail _**file**_
 <!--SR:!2026-06-15,3,266-->
@@ -207,7 +207,7 @@ What permission does 7 represent? ;; rwx
 <!--SR:!2026-06-13,1,226-->
 
 What permission does 6 represent? ;; rw-
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-08-13,2,226-->
 
 What permission does 5 represent? ;; r-x
 <!--SR:!2026-06-13,1,226-->
@@ -303,7 +303,7 @@ What is the /proc filesystem? ;; A virtual filesystem exposing kernel and proces
 <!--SR:!2026-06-13,1,226-->
 
 Are files in /proc stored on disk? ;; No
-<!--SR:!2026-06-13,1,226-->
+<!--SR:!2026-08-13,2,226-->
 
 Why do some files in /proc show size 0 but still contain data? ;; They are generated dynamically by the kernel
 <!--SR:!2026-06-13,1,226-->

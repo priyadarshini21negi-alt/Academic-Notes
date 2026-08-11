@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Commands/flashcards/week 5/shell variables.md",
+                "file": "System Commands/Notes/week 5/Shell variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shell variables"
+              "title": "Shell variables"
             }
           }
         ],
@@ -277,8 +277,8 @@
   },
   "active": "bbea1290dd3b7c9d",
   "lastOpenFiles": [
-    "System Commands/Notes/week 5/Shell variables.md",
     "System Commands/flashcards/week 5/shell variables.md",
+    "System Commands/Notes/week 5/Shell variables.md",
     "System Commands/Attachments/Pasted image 20260811124735.png",
     "System Commands/Attachments/Pasted image 20260811124911.png",
     "System Commands/Attachments/Pasted image 20260811124947.png",
