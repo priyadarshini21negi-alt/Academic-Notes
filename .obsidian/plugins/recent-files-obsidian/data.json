@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "shell variables",
+      "path": "System Commands/flashcards/week 5/shell variables.md"
+    },
+    {
       "basename": "Shell variables",
       "path": "System Commands/Notes/week 5/Shell variables.md"
+    },
+    {
+      "basename": "Pasted image 20260811124735",
+      "path": "System Commands/Attachments/Pasted image 20260811124735.png"
+    },
+    {
+      "basename": "Pasted image 20260811124911",
+      "path": "System Commands/Attachments/Pasted image 20260811124911.png"
+    },
+    {
+      "basename": "Pasted image 20260811124947",
+      "path": "System Commands/Attachments/Pasted image 20260811124947.png"
     },
     {
       "basename": "Basic Brain Structure",
@@ -183,22 +199,6 @@
     {
       "basename": "Intro to ANN",
       "path": "DLGENAI/notes/week 1/Intro to ANN.md"
-    },
-    {
-      "basename": "Tensor - Creation, Manipulation, Reshaping and Indexing",
-      "path": "DLGENAI/notes/week 1/Tensor - Creation, Manipulation, Reshaping and Indexing.md"
-    },
-    {
-      "basename": "PyTorch and Numpy integration",
-      "path": "DLGENAI/notes/week 1/PyTorch and Numpy integration.md"
-    },
-    {
-      "basename": "Reproducibility, Hardware Acceleration and common errors in PyTorch",
-      "path": "DLGENAI/notes/week 1/Reproducibility, Hardware Acceleration and common errors in PyTorch.md"
-    },
-    {
-      "basename": "Linear Regression in PyTorch",
-      "path": "DLGENAI/notes/week 1/Linear Regression in PyTorch.md"
     }
   ],
   "omittedPaths": [],
