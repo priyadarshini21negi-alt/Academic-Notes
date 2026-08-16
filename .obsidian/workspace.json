@@ -93,9 +93,21 @@
               "icon": "lucide-file",
               "title": "Shell variables"
             }
+          },
+          {
+            "id": "f5cf125f95c2b90d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bbea1290dd3b7c9d",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
     "System Commands/flashcards/week 5/shell variables.md",
     "System Commands/Notes/week 5/Shell variables.md",
