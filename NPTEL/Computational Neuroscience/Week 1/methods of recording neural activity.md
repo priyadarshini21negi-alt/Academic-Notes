@@ -18,8 +18,31 @@
 ### Q1. What is single-unit recording?
 A single-unit recording is a technique used to record the spiking activity of a single neuron (or a small number of neurons) using a **microelectrode** placed near the neuron.
 
-### Q2. What does a single-unit electrode measure?
-spiking activity or a neuron or a small cluster of neurons.
+### Q2. What does a single-unit electrode actually measure?
+Changes in extracellular electrical potential (voltage) near the electrode tip, which reflect neuronal spiking activity.
+### Q3. What makes a single-unit recording "extracellular"?
+The electrode is outside the neuron and measures electrical potential in the surrounding extracellular space.
 
-### Q3. What electrode tip placement get us single unit recording?
-extracellulary 
+### Q4. Why are the recorded action potentials smaller than the action potentials measured inside a neuron?
+Because the electrode is outside the neuron and is measuring the electrical signal indirectly through the extracellular space.
+
+### Q5. Why can a single electrode record activity from multiple neurons?
+Because the electrode detects electrical activity occurring near its tip, so nearby neurons can contribute their own spike signals to the recording.
+
+### Q6. How can we distinguish the spikes produced by different neurons?
+Through **spike sorting**, which separates recorded spikes based on their characteristics so they can be attributed to different neurons.
+
+### Q7. What is spike sorting, and why is it necessary?
+it is a technique used to distinguish the spiking activity of different neurons when their signals are mixed in the same recording.
+
+### Q8. Why can't we always be certain that a recording represents exactly 1 neuron?
+Because the electrode may capture activity from multiple nearby neurons or other neuronal structures such as axons or dendrites, depending on its placement.
+
+### Q9. What are the main limitations of single-unit recording?
+The electrode may not isolate exactly 1 neuron, and the recorded signal may include activity from multiple neurons or different neuronal structures. 
+
+
+
+# 2. 
+
+
