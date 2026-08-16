@@ -43,6 +43,27 @@ The electrode may not isolate exactly 1 neuron, and the recorded signal may incl
 
 
 
-# 2. 
+# 2. Multiple channel electrodes
+
+## lecture material
+![[Pasted image 20260816125527.png]]
+
+- Neuronal Population = a group of neurons considered together
+## Conceptual Questions
+
+#### Q1. Why is recording from multiple neurons useful in electrophysiology experiments?
+
+#### Q2. What is the main advantage of recording from multiple neurons simultaneously?
+Multiple channels can record activity from multiple neurons simultaneously, allowing the activity of a neuronal population to be considered.
+### Q3. What are the limitations/drawbacks of multiple-channel recordings?
+damage to brain tissue and require more recovery time.
+### Q4. What are LFPs?
+### Q5. How are LFP different from [[action potentials]] ?
+
+### Q6. What makes an LFP 'local'?
+They are recorded by an electrode placed near the cells generating the signal.
+
+### Q7. How can LFPs be extracted from the raw electrophysiological signal?
 
 
+### Q8. What types of information are present in a raw electrophysiological signal?
