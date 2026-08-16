@@ -15,33 +15,37 @@
 
 
 ## Questions I should be able to ans
-### Q1. What is single-unit recording?
+#### Q1. What is single-unit recording?
 A single-unit recording is a technique used to record the spiking activity of a single neuron (or a small number of neurons) using a **microelectrode** placed near the neuron.
 
-### Q2. What does a single-unit electrode actually measure?
+#### Q2. What does a single-unit electrode actually measure?
 Changes in extracellular electrical potential (voltage) near the electrode tip, which reflect neuronal spiking activity.
-### Q3. What makes a single-unit recording "extracellular"?
+#### Q3. What makes a single-unit recording "extracellular"?
 The electrode is outside the neuron and measures electrical potential in the surrounding extracellular space.
 
-### Q4. Why are the recorded action potentials smaller than the action potentials measured inside a neuron?
+#### Q4. Why are the recorded action potentials smaller than the action potentials measured inside a neuron?
 Because the electrode is outside the neuron and is measuring the electrical signal indirectly through the extracellular space.
 
-### Q5. Why can a single electrode record activity from multiple neurons?
+#### Q5. Why can a single electrode record activity from multiple neurons?
 Because the electrode detects electrical activity occurring near its tip, so nearby neurons can contribute their own spike signals to the recording.
 
-### Q6. How can we distinguish the spikes produced by different neurons?
+#### Q6. How can we distinguish the spikes produced by different neurons?
 Through **spike sorting**, which separates recorded spikes based on their characteristics so they can be attributed to different neurons.
 
-### Q7. What is spike sorting, and why is it necessary?
+#### Q7. What is spike sorting, and why is it necessary?
 it is a technique used to distinguish the spiking activity of different neurons when their signals are mixed in the same recording.
 
-### Q8. Why can't we always be certain that a recording represents exactly 1 neuron?
+#### Q8. Why can't we always be certain that a recording represents exactly 1 neuron?
 Because the electrode may capture activity from multiple nearby neurons or other neuronal structures such as axons or dendrites, depending on its placement.
 
-### Q9. What are the main limitations of single-unit recording?
+#### Q9. What are the main limitations of single-unit recording?
 The electrode may not isolate exactly 1 neuron, and the recorded signal may include activity from multiple neurons or different neuronal structures. 
 
 
+
+
+<hr>
+<hr>
 
 # 2. Multiple channel electrodes
 
@@ -50,20 +54,24 @@ The electrode may not isolate exactly 1 neuron, and the recorded signal may incl
 
 - Neuronal Population = a group of neurons considered together
 ## Conceptual Questions
-
+### Multiple channel recording
 #### Q1. Why is recording from multiple neurons useful in electrophysiology experiments?
-
+It allows researchers to study the **activity of a population of neurons simultaneously** rather than focusing on only one neuron.
 #### Q2. What is the main advantage of recording from multiple neurons simultaneously?
 Multiple channels can record activity from multiple neurons simultaneously, allowing the activity of a neuronal population to be considered.
-### Q3. What are the limitations/drawbacks of multiple-channel recordings?
+#### Q3. What are the limitations/drawbacks of multiple-channel recordings?
 damage to brain tissue and require more recovery time.
-### Q4. What are LFPs?
-### Q5. How are LFP different from [[action potentials]] ?
-
-### Q6. What makes an LFP 'local'?
+### LFP
+#### Q4. What are LFPs?
+A local field potential (LFP) is a **low-frequency extracellular electrical signal** recorded by an electrode placed near the neurons generating the signal.
+#### Q5. How are LFP different from [[action potentials]] ?
+LFP is the **low-frequency part of the extracellular signal**, reflecting activity in the local neural population. 
+while action potentials are the **high-frequency signals associated with neuronal spiking**
+#### Q6. What makes an LFP 'local'?
 They are recorded by an electrode placed near the cells generating the signal.
+#### Q7. How can LFPs be extracted from the raw electrophysiological signal?
+By **filtering** the raw electrophysiological signal to **remove the high-frequency** components and **retain the low-frequency** components.
+#### Q8. What types of information are present in a raw electrophysiological signal?
+high-frequency spiking information and low-frequency information corresponding to local field potentials (LFPs).
 
-### Q7. How can LFPs be extracted from the raw electrophysiological signal?
 
-
-### Q8. What types of information are present in a raw electrophysiological signal?
