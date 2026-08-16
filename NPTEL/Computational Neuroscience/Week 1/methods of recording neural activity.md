@@ -75,3 +75,18 @@ By **filtering** the raw electrophysiological signal to **remove the high-freque
 high-frequency spiking information and low-frequency information corresponding to local field potentials (LFPs).
 
 
+# 3. Patch Clamp Technique
+## Lecture notes
+![[Pasted image 20260816132642.png]]
+
+
+## Questions
+
+
+
+
+# 4. Calcium imaging
+## Lecture notes
+![[Pasted image 20260816132725.png]]
+
+## Questions

@@ -1,377 +1,128 @@
-# ── NAVIGATION ──────────────────────────────────────────
+# ── FILE OPERATIONS ───────────────────────────────────────
 
+How does `mv` differ conceptually from `cp` when working with directories? ;; `mv` moves/renames the directory entry, whereas `cp` must copy the directory contents recursively.
 
-What command shows inode numbers alongside filenames? ;; ls -i
-<!--SR:!2026-06-20,1,226-->
+How would you recursively copy a directory to another location? ;; `cp -r <source> <destination>`
 
-What command shows the directory entry itself rather than its contents? ;; ls -d _**directory**_
-<!--SR:!2026-06-13,1,226-->
+How would you remove a directory and everything inside it? ;; `rm -r <directory>` — use with caution because it can delete an entire directory tree.
 
-Does the order of options matter for the ls command? ;; No — ls accepts options in any order
-<!--SR:!2026-06-14,2,246-->
+How would you remove a file while asking for confirmation before deletion? ;; `rm -i <file>`
 
+What does recursion mean in a file operation? ;; Applying the operation to a directory and all of its contents.
 
-What is the root directory in Linux? ;; /
-<!--SR:!2026-08-22,11,286-->
+Why is recursive deletion particularly dangerous? ;; It can delete an entire directory tree rather than a single file.
 
-# ── DATE AND TIME ───────────────────────────────────────
+# ── FILE CONTENTS / INSPECTION ────────────────────────────
 
-What option makes date output in RFC 5322 format? ;; date -R
-<!--SR:!2026-06-30,11,286-->
+When would you use `less` instead of `cat` to inspect a file? ;; When the file is large and you want to navigate through it interactively.
 
-# ── CALENDAR 
+What is the practical difference between `less` and `more`? ;; `less` supports backward navigation and is generally more feature-rich.
 
-What command displays a specific month and year calendar? ;; cal _**month**_ _**year**_
-<!--SR:!2026-06-15,3,266-->
+How would you display only the first N lines of a file? only the last N lines of a file? ;; `head -n <N> <file>` . `tail -n <N> <file>`
 
-What command displays a calendar vertically? ;; ncal
-<!--SR:!2026-06-15,3,266-->
+What information does `wc` provide? ;; Counts such as lines, words, and bytes.
 
-# ── MEMORY AND GROUPS ───────────────────────────────────
+How would you count only the lines in a file? ;; `wc -l <file>`
 
-What command displays memory statistics? ;; free
-<!--SR:!2026-06-13,1,226-->
+# ── FILE / FILESYSTEM INFORMATION ─────────────────────────
 
-What command displays memory statistics in human-readable format? ;; free -h
-<!--SR:!2026-06-14,2,246-->
+How would you determine what type of file something actually is? ;; `file <file>`
 
-What command lists the groups a user belongs to? ;; groups
-<!--SR:!2026-06-15,3,266-->
+What does `stat` provide that a simple directory listing may not? ;; Detailed file metadata such as size, permissions, ownership, and timestamps.
 
-What is swap memory? ;; Disk space used as overflow when RAM is full
-<!--SR:!2026-06-15,3,266-->
+What is the difference between `du` and `df`? ;; `du` reports disk usage associated with files/directories; `df` reports available/used space on filesystems.
 
-Why is swap slower than RAM? ;; Swap is slower because it resides on disk storage, whose access speed is much lower than that of physical RAM.
-<!--SR:!2026-06-21,2,226-->
+How would you inspect overall filesystem disk usage in a human-readable form? ;; `df -h`
 
-# ── FILE AND DIRECTORY OPERATIONS 
+How would you inspect the disk usage of a file or directory in human-readable form? ;; `du -h <file-or-directory>`
 
-What command copies a file? ;; cp _**source**_-**_destination_**
-<!--SR:!2026-06-15,3,266-->
+# ── PERMISSIONS ────────────────────────────────────────────
 
-What command recursively copies a directory? ;; cp -r _**source**_ _**destination**_
-<!--SR:!2026-06-14,2,246-->
+What are the three Linux permission categories? ;; Owner, Group, Others.
 
-What command moves a file? ;; mv _**source**_ _**destination**_
-<!--SR:!2026-06-15,3,266-->
+Why does Linux represent permissions numerically as 4, 2, and 1? ;; Read = 4, Write = 2, Execute = 1; the values are combined to form an octal permission digit.
 
-What command renames a file? ;; mv _**oldname**_ _**newname**_
-<!--SR:!2026-06-13,1,226-->
+What permissions does `7` represent? `6` represent?  `5` represent?;; `rwx` , `rw-` , `r-x` respectively
 
-What command removes a file? ;; rm _**file**_
-<!--SR:!2026-06-15,3,266-->
+What does `700` mean? What does `755` mean?  What does `644` mean? ;; Owner has `rwx`; group and others have no permissions. Owner has `rwx`; group and others have `r-x`. Owner has `rw-`; group and others have `r--`. respectively
 
-What command removes a directory recursively? ;; rm -r _**directory**_
-<!--SR:!2026-06-15,3,266-->
+How would you remove write permission from the group? ;; `chmod g-w <file>`
 
-What command removes a file with a confirmation prompt? ;; rm -i _**file**_
-<!--SR:!2026-07-01,12,286-->
+How would you add read permission for others? ;; `chmod o+r <file>`
 
-Why does mv not need a -r flag to move a directory, but cp does? ;; mv just moves the directory entry; cp must copy all contents recursively
-<!--SR:!2026-06-13,1,226-->
+If you see `chmod 712 <file>`, how do you interpret the three digits? ;; They specify permissions for owner, group, and others respectively, using `r=4`, `w=2`, `x=1`.
 
-# ── VIEWING FILE CONTENTS ───────────────────────────────
+# ── INODES / LINKS ────────────────────────────────────────
 
-What command displays the entire contents of a file? ;; cat _**file**_
-<!--SR:!2026-06-13,1,226-->
+What is an inode? ;; A filesystem data structure containing metadata about a file and information used to locate its data blocks.
 
-What command displays a file page-by-page? ;; less _**file**_
-<!--SR:!2026-06-13,1,226-->
+Does an inode store the filename? ;; No. The filename is associated with a directory entry that points to an inode.
 
-What command also displays a file page-by-page? ;; more _**file**_
-<!--SR:!2026-06-13,1,226-->
+How can you identify two filenames that are hard links to the same file? ;; They point to the same inode number.
 
-What is the practical difference between more and less? ;; less supports backward navigation and is more feature-rich
-<!--SR:!2026-06-13,1,226-->
+What is a hard link? ;; A directory entry that points to the same inode as another directory entry.
 
-What command displays the first 10 lines of a file? ;; head _**file**_
-<!--SR:!2026-06-15,3,266-->
+What is a symbolic link? ;; A separate file that stores a path to another file or directory.
 
-What command displays the first N lines of a file? ;; head -n _**N**_ _**file**_
-<!--SR:!2026-08-19,8,266-->
+What is the key inode difference between hard and symbolic links? ;; Hard links point to the same inode; a symbolic link has its own inode and points to a path.
 
-What command displays the last 10 lines of a file? ;; tail _**file**_
-<!--SR:!2026-06-15,3,266-->
+What happens to a file's accessibility when one hard link is deleted? ;; The file remains accessible through any remaining hard links.
 
-What command displays the last N lines of a file? ;; tail -n _**N**_ _**file**_
-<!--SR:!2026-06-30,11,286-->
+What happens when the target of a symbolic link is deleted? ;; The symbolic link becomes broken because its target path no longer resolves.
 
-What command counts lines, words and bytes in a file? ;; wc _**file**_
-<!--SR:!2026-06-20,1,206-->
+How would you create a symbolic link? ;; `ln -s <source> <link>`
 
-What command counts only lines in a file? ;; wc -l _**file**_
-<!--SR:!2026-06-13,1,226-->
+How would you create a hard link? ;; `ln <source> <link>`
 
-# ── HELP AND DOCUMENTATION ──────────────────────────────
+# ── `ls -l` / FILE TYPES ───────────────────────────────────
 
-What command locates the executable path of a command? ;; which _**command**_
-<!--SR:!2026-06-13,1,226-->
+What does the first character of `ls -l` output tell you? What do `-`, `d`, and `l` at the start of `ls -l` output represent? ;; The file type. Regular file, directory, and symbolic link respectively.
 
-What command gives a one-line description of a command? ;; whatis _**command**_
-<!--SR:!2026-06-29,10,286-->
+What does the hard-link count in `ls -l` represent? ;; The number of directory entries pointing to the same inode.
+# ── VIRTUAL FILESYSTEMS ───────────────────────────────────
 
-What command opens the manual page of a command? ;; man _**command**_
-<!--SR:!2026-06-22,3,246-->
+What is `/proc`? ;; A virtual filesystem exposing runtime kernel and process information.
 
-What command searches for commands by keyword? ;; apropos _**keyword**_
-<!--SR:!2026-06-13,1,226-->
+Are `/proc` files ordinary files stored on disk? ;; No. Much of their content is generated dynamically by the kernel.
 
-What command is equivalent to apropos? ;; man -k _**keyword**_
-<!--SR:!2026-06-13,1,226-->
+Why can a file in `/proc` show size 0 while still providing information? ;; Its contents are generated dynamically rather than stored as ordinary disk data.
 
-What command lists Bash builtins and keywords? ;; help
-<!--SR:!2026-06-14,2,246-->
+What do numbered directories inside `/proc` represent? ;; Process IDs (PIDs).
 
-What command opens an interactive documentation browser? ;; info
-<!--SR:!2026-06-13,1,226-->
+What is `/sys`? ;; A virtual filesystem exposing runtime information about hardware, devices, and the kernel.
 
-What command tells whether something is an alias, builtin or executable? ;; type _**command**_
-<!--SR:!2026-06-13,1,226-->
+Why are `/proc` and `/sys` called virtual filesystems? ;; They expose runtime system information rather than representing ordinary files stored on disk.
 
-# ── ALIASES ─────────────────────────────────────────────
+What information would you look for in `/proc/cpuinfo`, `/proc/meminfo`, and `/proc/version`? ;; CPU details, memory details, and kernel version details respectively.
 
-What is an alias? ;; A user-defined shortcut for a command
-<!--SR:!2026-06-14,2,246-->
+What does `uname -a` provide? ;; Kernel/system information including the kernel name, version, and system architecture.
 
-What command creates an alias? ;; alias _**name**_=_**'command'**_
-<!--SR:!2026-06-14,2,246-->
+# ── COMMANDS / SHELL CONCEPTS ─────────────────────────────
 
-What command lists all currently defined aliases? ;; alias
-<!--SR:!2026-06-14,2,246-->
+What is the difference between a command option and an argument? ;; An option modifies a command's behavior; an argument specifies what the command operates on.
 
-What command removes an alias? ;; unalias _**name**_
-<!--SR:!2026-06-13,1,226-->
+How can you determine whether a command name refers to an alias, builtin, function, or executable? ;; `type <command>`
 
-Why do many users alias rm to rm -i? ;; To avoid accidental deletion
-<!--SR:!2026-06-13,1,226-->
+How would you locate the executable associated with a command? ;; `which <command>`
 
-# ── FILE INFORMATION ────────────────────────────────────
+How would you get a short description of a command? ;; `whatis <command>`
 
-What command displays the type of a file? ;; file _**file**_
-<!--SR:!2026-06-20,1,206-->
+How would you search command documentation by keyword? ;; `apropos <keyword>` or `man -k <keyword>`
 
-What command displays detailed file metadata? ;; stat _**file**_
-<!--SR:!2026-06-13,1,226-->
+How would you open the manual for a command? ;; `man <command>`
 
-What command shows disk usage of a file or directory? ;; du _**file**_
-<!--SR:!2026-06-15,3,266-->
+What causes a `Permission denied` error? ;; The current user/process lacks the required permission for the requested operation.
 
-What command shows disk usage in human-readable form? ;; du -h _**file**_
-<!--SR:!2026-06-14,2,246-->
+# ── PRACTICAL RECALL ──────────────────────────────────────
 
-What command shows overall filesystem disk space usage? ;; df -h
-<!--SR:!2026-06-13,1,226-->
+You need to move every `.txt` file into a directory called `level1`. What command would you use? ;; `mv *.txt level1`
 
-What information does wc provide? ;; Number of lines, words and bytes
-<!--SR:!2026-06-13,1,230-->
+You want to determine the type of every entry in the current directory. What command would you use? ;; `file *`
 
-What does stat provide? ;; Detailed file metadata including size, permissions and timestamps
-<!--SR:!2026-06-14,2,246-->
+You need to set `systemcommands.txt` to permission mode `712`. What command would you use? ;; `chmod 712 systemcommands.txt`
 
-What command prints the current logged-in username? ;; whoami
-<!--SR:!2026-06-13,1,226-->
+You need to create an empty file named `152.digits`. What command would you use? ;; `touch 152.digits`
 
-# ── FILE PERMISSIONS ────────────────────────────────────
+# ── EXAM / CONCEPT CHECK ──────────────────────────────────
 
-What command changes file permissions? ;; chmod _**permissions**_ _**file**_
-<!--SR:!2026-06-14,2,246-->
-
-What command removes write permission from the group? ;; chmod g-w _**file**_
-<!--SR:!2026-06-20,1,206-->
-
-What command removes execute permission from the group? ;; chmod g-x _**file**_
-<!--SR:!2026-06-13,1,226-->
-
-What command removes execute permission from others? ;; chmod o-x _**file**_
-<!--SR:!2026-06-13,1,226-->
-
-What command adds read permission to others? ;; chmod o+r _**file**_
-<!--SR:!2026-06-14,2,246-->
-
-What are the three categories of Linux permissions? ;; Owner, Group, Others
-<!--SR:!2026-06-20,1,206-->
-
-What are the three basic Linux permissions? ;; Read, Write, Execute
-<!--SR:!2026-06-15,3,266-->
-
-What numerical value corresponds to read permission? ;; 4
-<!--SR:!2026-06-13,1,226-->
-
-What numerical value corresponds to write permission? ;; 2
-<!--SR:!2026-06-13,1,226-->
-
-What numerical value corresponds to execute permission? ;; 1
-<!--SR:!2026-06-13,1,226-->
-
-What permission does 7 represent? ;; rwx
-<!--SR:!2026-06-13,1,226-->
-
-What permission does 6 represent? ;; rw-
-<!--SR:!2026-08-13,2,226-->
-
-What permission does 5 represent? ;; r-x
-<!--SR:!2026-06-13,1,226-->
-
-What permission does 4 represent? ;; r--
-<!--SR:!2026-06-13,1,226-->
-
-What does permission 700 mean? ;; Full permissions for owner; none for group or others
-<!--SR:!2026-06-13,1,226-->
-
-What does permission 755 mean? ;; Full permissions for owner; read and execute for group and others
-<!--SR:!2026-06-13,1,226-->
-
-What does permission 644 mean? ;; Read and write for owner; read-only for group and others
-<!--SR:!2026-06-13,1,226-->
-
-# ── FILESYSTEM CONCEPTS ─────────────────────────────────
-
-What is an inode? ;; A data structure storing a file's metadata
-<!--SR:!2026-06-14,2,246-->
-
-Does an inode store the filename? ;; No
-<!--SR:!2026-06-15,3,266-->
-
-What information does an inode store? ;; Permissions, ownership, timestamps and disk block locations
-<!--SR:!2026-06-14,2,246-->
-
-How can two filenames be identified as hard links to each other? ;; They share the same inode number
-<!--SR:!2026-06-13,1,226-->
-
-What is a hard link? ;; A directory entry pointing to the same inode as another entry
-<!--SR:!2026-06-14,2,246-->
-
-What is a symbolic link? ;; A file that stores the path to another file or directory
-<!--SR:!2026-06-20,1,206-->
-
-Do hard links share inode numbers? ;; Yes
-<!--SR:!2026-06-20,1,206-->
-
-Do symbolic links share inode numbers with the original file? ;; No
-<!--SR:!2026-06-13,1,226-->
-
-What happens if one hard link is deleted? ;; The file remains accessible through the remaining hard links
-<!--SR:!2026-06-14,2,246-->
-
-What happens if the target of a symbolic link is deleted? ;; The symbolic link becomes broken
-<!--SR:!2026-06-14,2,246-->
-
-What command creates a symbolic link? ;; ln -s _**source**_ _**link**_
-<!--SR:!2026-06-13,1,226-->
-
-What command creates a hard link? ;; ln _**source**_ _**link**_
-<!--SR:!2026-06-13,1,226-->
-
-# ── LS -L OUTPUT FORMAT ─────────────────────────────────
-
-What does the first character in ls -l output indicate? ;; The file type
-<!--SR:!2026-06-13,1,226-->
-
-What does - at the start of ls -l output indicate? ;; A regular file
-<!--SR:!2026-06-13,1,226-->
-
-What does d at the start of ls -l output indicate? ;; A directory
-<!--SR:!2026-06-14,2,246-->
-
-What does l at the start of ls -l output indicate? ;; A symbolic link
-<!--SR:!2026-06-13,1,226-->
-
-What does c at the start of ls -l output indicate? ;; A character device
-<!--SR:!2026-06-13,1,226-->
-
-What does b at the start of ls -l output indicate? ;; A block device
-<!--SR:!2026-06-13,1,226-->
-
-What does s at the start of ls -l output indicate? ;; A socket
-<!--SR:!2026-06-13,1,226-->
-
-What does p at the start of ls -l output indicate? ;; A named pipe
-<!--SR:!2026-06-13,1,226-->
-
-What is the hard link count shown in ls -l? ;; The number of directory entries pointing to the same inode
-<!--SR:!2026-06-13,1,226-->
-
-Why does every directory contain a . entry? ;; It is a hard link to itself
-<!--SR:!2026-06-13,1,226-->
-
-Why does every directory contain a .. entry? ;; It is a hard link to its parent directory
-<!--SR:!2026-06-13,1,226-->
-
-# ── VIRTUAL FILESYSTEMS ─────────────────────────────────
-
-What is the /proc filesystem? ;; A virtual filesystem exposing kernel and process information
-<!--SR:!2026-06-13,1,226-->
-
-Are files in /proc stored on disk? ;; No
-<!--SR:!2026-08-13,2,226-->
-
-Why do some files in /proc show size 0 but still contain data? ;; They are generated dynamically by the kernel
-<!--SR:!2026-06-13,1,226-->
-
-What do the numbered directories inside /proc represent? ;; Process IDs (PIDs)
-<!--SR:!2026-06-13,1,226-->
-
-What is the /sys filesystem? ;; A virtual filesystem exposing hardware and device information
-<!--SR:!2026-06-13,1,226-->
-
-Why are /proc and /sys called virtual filesystems? ;; They expose runtime kernel information rather than storing files on disk
-<!--SR:!2026-06-13,1,226-->
-
-What information can be found in /proc/cpuinfo? ;; CPU details
-<!--SR:!2026-06-14,2,246-->
-
-What information can be found in /proc/meminfo? ;; Memory details
-<!--SR:!2026-06-14,2,246-->
-
-What information can be found in /proc/version? ;; Kernel version details
-<!--SR:!2026-06-13,1,226-->
-
-What information can be found in /proc/partitions? ;; Disk partition information
-<!--SR:!2026-06-13,1,226-->
-
-What command shows kernel name, version and system architecture? ;; uname -a
-<!--SR:!2026-06-13,1,226-->
-
-# ── GENERAL CONCEPTS ────────────────────────────────────
-
-What is an executable command? ;; A command provided by a binary file
-<!--SR:!2026-06-13,1,226-->
-
-What is the difference between an option and an argument? ;; Options modify behaviour; arguments specify targets
-<!--SR:!2026-06-13,1,226-->
-
-What is recursion in file operations? ;; Performing an operation on a directory and all its contents
-<!--SR:!2026-06-13,1,226-->
-
-Why is recursive deletion dangerous? ;; It can delete entire directory trees
-<!--SR:!2026-06-13,1,226-->
-
-What causes a Permission Denied error? ;; Lack of required permissions
-<!--SR:!2026-06-13,1,226-->
-
-A hypervisor is a software.
-A. Which is same as an operating system.
-B. Containing the source code of linux.
-C. That creates and runs virtual machines.
-D. That allows running multiple operating systems concurrently, while sharing hardware resources.
-?
-C. That creates and runs virtual machines.
-D. That allows running multiple operating systems concurrently, while sharing hardware resources.
-<!--SR:!2026-06-15,3,250-->
-
-
-
-![[Pasted image 20260612164908.png]] ;; `mv *.txt level1`
-<!--SR:!2026-06-15,3,250-->
-
-![[Pasted image 20260612165201.png]] ;; `file *`
-<!--SR:!2026-06-13,1,230-->
-
-![[Pasted image 20260612165848.png]] ;; `chmod 712 systemcommands.txt`
-<!--SR:!2026-06-13,1,230-->
-
-![[Pasted image 20260612170444.png]] ;; `touch 152.digits`
-<!--SR:!2026-06-20,1,210-->
-
-![[Pasted image 20260612170957.png]] ;;![[Pasted image 20260612171009.png]]
-<!--SR:!2026-06-15,3,250-->
+A hypervisor is software that does what? ;; It creates and runs virtual machines, allowing multiple operating systems to run concurrently while sharing hardware resources.

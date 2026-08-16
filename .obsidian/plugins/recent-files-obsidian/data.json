@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux commands",
+      "path": "System Commands/flashcards/week 1/Linux commands.md"
+    },
+    {
       "basename": "methods of recording neural activity",
       "path": "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Numeric Transformers",
       "path": "ML/MLP/notes/week 2 & 3/Numeric Transformers.md"
-    },
-    {
-      "basename": "Dimensionality Reduction by PCA",
-      "path": "ML/MLP/notes/week 2 & 3/Dimensionality Reduction by PCA.md"
     }
   ],
   "omittedPaths": [],
