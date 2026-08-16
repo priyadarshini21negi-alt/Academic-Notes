@@ -20,9 +20,8 @@ What is the practical difference between `less` and `more`? ;; `less` supports b
 
 How would you display only the first N lines of a file? only the last N lines of a file? ;; `head -n <N> <file>` . `tail -n <N> <file>`
 
-What information does `wc` provide? ;; Counts such as lines, words, and bytes.
+What information does `wc` provide? How would you count only the lines in a file? ;; Counts such as lines, words, and bytes. `wc -l <file>` respectively
 
-How would you count only the lines in a file? ;; `wc -l <file>`
 
 # ── FILE / FILESYSTEM INFORMATION ─────────────────────────
 

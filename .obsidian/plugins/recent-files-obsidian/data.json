@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell variables",
+      "path": "System Commands/Notes/week 5/Shell variables.md"
+    },
+    {
+      "basename": "shell variables",
+      "path": "System Commands/flashcards/week 5/shell variables.md"
+    },
+    {
+      "basename": "week 1 combined",
+      "path": "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md"
+    },
+    {
       "basename": "Linux commands",
       "path": "System Commands/flashcards/week 1/Linux commands.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "Basic Brain Structure",
       "path": "NPTEL/Computational Neuroscience/Week 1/Basic Brain Structure.md"
-    },
-    {
-      "basename": "Shell variables",
-      "path": "System Commands/Notes/week 5/Shell variables.md"
-    },
-    {
-      "basename": "shell variables",
-      "path": "System Commands/flashcards/week 5/shell variables.md"
     },
     {
       "basename": "Pasted image 20260811124735",
@@ -195,10 +199,6 @@
     {
       "basename": "Feature Scaling",
       "path": "ML/MLP/notes/week 2 & 3/Feature Scaling.md"
-    },
-    {
-      "basename": "Numeric Transformers",
-      "path": "ML/MLP/notes/week 2 & 3/Numeric Transformers.md"
     }
   ],
   "omittedPaths": [],
