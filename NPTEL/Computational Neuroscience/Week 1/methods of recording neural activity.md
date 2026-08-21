@@ -38,9 +38,8 @@ Because the electrode tip blindly samples any nearby source—including axons, d
 The microelectrode wire is fully insulated along its shaft and exposed only at the conductive tip (tungsten or platinum-iridium), preventing electrical pickup everywhere except the immediate extracellular volume around the tip.
 
 
-<hr>
-<hr>
 
+# ---
 # 2. Multiple channel electrodes
 
 ## lecture material
@@ -66,8 +65,8 @@ while action potentials are the **high-frequency signals associated with neurona
 #### Q. What biophysical process generates the Local Field Potential?
 **Transient ionic imbalances** in extracellular space caused by collective cellular electrical activity
 
-
-
+#### Q. How do 
+# ---
 # 3. Patch Clamp Technique
 ## Lecture notes
 ![[Pasted image 20260816132642.png]]
@@ -99,15 +98,31 @@ It directly measures the **transmembrane voltage difference** ($V_{\text{out}} -
 It is mechanically fragile; physical movement easily breaks the pipette-membrane seal, making it extremely difficult in awake, moving animals or humans.
 
 
-
-
+# ---
 
 # 4. Calcium imaging
 ## Lecture notes
 ![[Pasted image 20260816132725.png]]
 
 ## Questions
+#### Q. What biophysical event does calcium imaging track to infer neural activity, and how does it work?
+It tracks the **intracellular influx of $\text{Ca}^{2+}$ ions (calcium transients)** that occurs during action potentials, using fluorescent indicators (such as GCaMP or dye fluorophores) that emit light when bound to calcium.
+
+#### Q. What major advantages does calcium imaging offer over traditional electrophysiology? 
+- **Cell-type specificity:** Genetic targeting allows labeling of distinct subpopulations (e.g., VIP, SOM, PV neurons).
+    
+- **Structural context:** Resolves neuronal morphology, spatial organization, and microcircuit connectivity.
+    
+- **Population scale:** Simultaneously records optical signals from hundreds to thousands of individual neurons ($100\text{–}1000$).
+
+#### Q. What is the primary physical limitation of two-photon calcium imaging?
+**Limited recording depth**,
+caused by light scattering and tissue absorption, which restricts imaging to superficial layers of the cortex
 
 
+
+
+#
+<hr>
 
 #review

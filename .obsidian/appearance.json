@@ -1,11 +1,14 @@
 {
   "theme": "obsidian",
-  "accentColor": "#b081e9",
+  "accentColor": "#772bd4",
   "cssTheme": "Things",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Orbitron",
   "textFontFamily": "DotGothic16",
   "monospaceFontFamily": "JetBrains Mono",
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "no-headings"
+  ]
 }

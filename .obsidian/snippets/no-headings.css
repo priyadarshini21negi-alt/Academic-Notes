@@ -1,0 +1,9 @@
+/* Remove lines under headings */
+
+.markdown-rendered h2,
+.markdown-preview-view h2,
+.cm-line.HyperMD-header-2,
+.HyperMD-header-2 {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
