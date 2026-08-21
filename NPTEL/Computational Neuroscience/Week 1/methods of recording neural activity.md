@@ -65,7 +65,9 @@ while action potentials are the **high-frequency signals associated with neurona
 #### Q. What biophysical process generates the Local Field Potential?
 **Transient ionic imbalances** in extracellular space caused by collective cellular electrical activity
 
-#### Q. How do 
+#### Q. How do single-unit spikes and LFPs differ in both their frequency content and their underlying biological sources?
+- Local Field Potentials (LFPs) reflect **low-frequency** **extracellular signals** resulting from the synchronized synaptic activity of local populations, 
+- single-unit spikes reflect **high-frequency action potentials** of individual neurons.
 # ---
 # 3. Patch Clamp Technique
 ## Lecture notes
@@ -126,3 +128,5 @@ caused by light scattering and tissue absorption, which restricts imaging to sup
 <hr>
 
 #review
+
+🔴

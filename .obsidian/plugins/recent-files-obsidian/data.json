@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Membrane Potential and All or None Spike",
+      "path": "NPTEL/Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md"
+    },
+    {
       "basename": "methods of recording neural activity",
       "path": "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md"
     },
     {
       "basename": "L4. Systems of Neural Processing",
       "path": "NPTEL/Computational Neuroscience/Week 1/L4. Systems of Neural Processing.md"
+    },
+    {
+      "basename": "7.",
+      "path": "NPTEL/Computational Neuroscience/Week 2/7..md"
+    },
+    {
+      "basename": "w2 combined",
+      "path": "NPTEL/Computational Neuroscience/flashcards/week 2/w2 combined.md"
+    },
+    {
+      "basename": "week 1 combined",
+      "path": "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md"
     },
     {
       "basename": "Basic Brain Structure",
@@ -19,10 +35,6 @@
     {
       "basename": "shell variables",
       "path": "System Commands/flashcards/week 5/shell variables.md"
-    },
-    {
-      "basename": "week 1 combined",
-      "path": "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md"
     },
     {
       "basename": "Linux commands",
@@ -179,22 +191,6 @@
     {
       "basename": "Heterogenous Feature Transformations",
       "path": "ML/MLP/notes/week 2 & 3/Heterogenous Feature Transformations.md"
-    },
-    {
-      "basename": "Wrapper Based Feature Selection",
-      "path": "ML/MLP/notes/week 2 & 3/Wrapper Based Feature Selection.md"
-    },
-    {
-      "basename": "Filter Based Feature Selection",
-      "path": "ML/MLP/notes/week 2 & 3/Filter Based Feature Selection.md"
-    },
-    {
-      "basename": "Outliers",
-      "path": "ML/MLP/notes/week 2 & 3/Outliers.md"
-    },
-    {
-      "basename": "Feature Scaling",
-      "path": "ML/MLP/notes/week 2 & 3/Feature Scaling.md"
     }
   ],
   "omittedPaths": [],
