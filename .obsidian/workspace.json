@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Shell variables"
             }
+          },
+          {
+            "id": "784bc4c0f22a51c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed1297c195552863",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
     "System Commands/flashcards/week 5/shell variables.md",
     "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md",
