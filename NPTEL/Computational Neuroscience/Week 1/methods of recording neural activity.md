@@ -19,7 +19,7 @@ sr-ease: 230
 - The recordings could be from dendrites, multiple neurons or axons , since we are not sure about the placement of electrodes. The electrode may or may not capture the spiking activity or a single neuron or more number of neurons, but very limited.
 
 
-## Questions I should be able to ans
+## Questions
 #### Q. What physical quantity does an extracellular microelectrode measure, and what does it reflect?
 It measures the **potential difference in the extracellular space relative to ground**, which reflects the transmembrane currents generated during nearby neuronal spiking.
 #### Q. Why are the recorded action potentials smaller than the action potentials measured inside a neuron?
@@ -71,11 +71,35 @@ while action potentials are the **high-frequency signals associated with neurona
 # 3. Patch Clamp Technique
 ## Lecture notes
 ![[Pasted image 20260816132642.png]]
+**Extracellular ($V_{\text{out}}$)** is the electrical potential in the fluid **outside** the cell membrane (in the surrounding tissue or bath solution).
+**Intracellular ($V_{\text{in}}$)** is the electrical potential in the **cytoplasm/interior fluid** of the cell. It does not specifically target the nucleus; the whole intracellular fluid acts as a conductive medium.
+
+Think of the cell membrane like an insulating wall separating two conductive pools of salt water:
+
+- **Outside Pool:** Extracellular fluid ($V_{\text{out}}$).
+    
+- **Inside Pool:** Intracellular cytoplasm ($V_{\text{in}}$).
+    
+- **The Membrane:** The lipid barrier between them.
 
 
+The **transmembrane potential** ($V_{\text{m}}$) is simply the difference in electrical charge across that thin membrane wall.
+
+In a patch-clamp experiment, the glass pipette makes contact with the membrane and gains electrical access to the inside pool ($V_{\text{in}}$), while a reference electrode sits in the outside pool ($V_{\text{out}}$), directly measuring the voltage drop across the membrane barrier.
 ## Questions
 
-#### Q. 
+#### Q. What physical quantity does whole-cell patch-clamp record, and how does it differ from extracellular recording? 
+It directly measures the **transmembrane voltage difference** ($V_{\text{out}} - V_{\text{in}}$) across the membrane of a single neuron, rather than the indirect extracellular field potentials.
+#### Q. What is the operational difference between Voltage Clamp and Current Clamp? 
+- **Voltage Clamp:** Membrane **voltage is held constant** to measure the **current** flowing through ion channels.
+    
+- **Current Clamp:** Injected **current is held constant** to measure changes in membrane **voltage** (such as action potentials).
+
+#### Q. What is the major experimental limitation of patch-clamp electrophysiology?
+It is mechanically fragile; physical movement easily breaks the pipette-membrane seal, making it extremely difficult in awake, moving animals or humans.
+
+
+
 
 
 # 4. Calcium imaging
