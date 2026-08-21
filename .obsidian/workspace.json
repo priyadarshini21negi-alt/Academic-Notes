@@ -28,29 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Commands/Notes/week 5/Shell variables.md",
+                "file": "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shell variables"
-            }
-          },
-          {
-            "id": "784bc4c0f22a51c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "methods of recording neural activity"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -230,8 +218,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "d33edad9dcbd51c7",
   "lastOpenFiles": [
+    "NPTEL/Computational Neuroscience/Week 1/Systems of neural processing.md",
+    "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md",
+    "System Commands/Notes/week 5/Shell variables.md",
     "System Commands/flashcards/week 5/shell variables.md",
     "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md",
     "NPTEL/Computational Neuroscience/Attachments/Attachments/Pasted image 20260816134505.png",
@@ -246,11 +237,8 @@
     "NPTEL/Computational Neuroscience/Attachments/Attachments/Pasted image 20260816134231.png",
     "NPTEL/Computational Neuroscience/Attachments/Attachments",
     "System Commands/flashcards/week 1/Linux commands.md",
-    "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md",
     "NPTEL/Computational Neuroscience/Week 1/Attachments",
-    "NPTEL/Computational Neuroscience/Week 1/Systems of neural processing.md",
     "NPTEL/Computational Neuroscience/Week 1/Basic Brain Structure.md",
-    "System Commands/Notes/week 5/Shell variables.md",
     "System Commands/Notes/week 5/Attachments",
     "NPTEL/Computational Neuroscience/Week 1/action potentials.md",
     "NPTEL/Computational Neuroscience/Week 1/Networks on Neurons and Synapses.md",
