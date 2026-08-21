@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -218,7 +219,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d33edad9dcbd51c7",
+  "active": "ed1297c195552863",
   "lastOpenFiles": [
     "NPTEL/Computational Neuroscience/Week 1/Systems of neural processing.md",
     "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md",
