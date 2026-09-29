@@ -17,6 +17,17 @@ sr-ease: 230
 -   When there are more neurons near the electrode tip, there would be another set of spiking information(different shape or different time ) would also be present in the data
 - With spike sorting techniques, we can differentiate the spiking activity of different neurons .
 - The recordings could be from dendrites, multiple neurons or axons , since we are not sure about the placement of electrodes. The electrode may or may not capture the spiking activity or a single neuron or more number of neurons, but very limited.
+- A **transmembrane current** is simply **electric charge flowing across the cell membrane**.
+
+The word itself tells you:
+
+- **trans** = across
+- **membrane** = the neuron's cell membrane
+- **current** = movement of electrical charge
+
+So:
+
+> **Transmembrane current = movement of ions across the neuronal membrane.**
 
 
 ## Questions
