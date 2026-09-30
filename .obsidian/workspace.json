@@ -8,232 +8,367 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbea1290dd3b7c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPTEL/Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Membrane Potential and All or None Spike"
-            }
-          },
-          {
-            "id": "b768b3d792124468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L1. Intro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L1. Intro"
-            }
-          },
-          {
-            "id": "70272bba0d417158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L2. Genetics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L2. Genetics"
-            }
-          },
-          {
-            "id": "415927fc06327b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L3. Cellular Components.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L3. Cellular Components"
-            }
-          },
-          {
-            "id": "aee512ad9df90ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L4. Neuron.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L4. Neuron"
-            }
-          },
-          {
-            "id": "a1b47c3c6bcfaa84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L6. Electrical Signals of the Nerve.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L6. Electrical Signals of the Nerve"
-            }
-          },
-          {
-            "id": "f1327c25ec0dfe0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L7. Synaptic Transmission.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L7. Synaptic Transmission"
-            }
-          },
-          {
-            "id": "0c51ebaae2383a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L8. Neurotransmitters.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L8. Neurotransmitters"
-            }
-          },
-          {
-            "id": "05df658e1cbcf11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L9. Neuroplasticity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L9. Neuroplasticity"
-            }
-          },
-          {
-            "id": "5a4655aa6ca44a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L10. Measuring Neural Activities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L10. Measuring Neural Activities"
-            }
-          },
-          {
-            "id": "af180e14a7288d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L11. Overview of the eye.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L11. Overview of the eye"
-            }
-          },
-          {
-            "id": "84cc3283b40b6ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L12. Retina.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L12. Retina"
-            }
-          },
-          {
-            "id": "86201c0000590126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L13. Visual System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L13. Visual System"
-            }
-          },
-          {
-            "id": "04e285aa1922957c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L14. Perceiving & Recognizing objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "L14. Perceiving & Recognizing objects"
-            }
-          },
-          {
             "id": "245cd8dfca5c9f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled.md",
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L16. Auditory System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "L16. Auditory System"
+            }
+          },
+          {
+            "id": "b115059676c63879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L17. Sound Localization.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L17. Sound Localization"
+            }
+          },
+          {
+            "id": "159b040927bab682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L18 Vestibular system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L18 Vestibular system"
+            }
+          },
+          {
+            "id": "7b54fece24da5700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L19 Olfaction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L19 Olfaction"
+            }
+          },
+          {
+            "id": "e1678f72e9a18f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L20. Olfactory Physiology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L20. Olfactory Physiology"
+            }
+          },
+          {
+            "id": "703bd292e3ef63f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L21. Touch Physiology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L21. Touch Physiology"
+            }
+          },
+          {
+            "id": "342d2c6ebcb9f5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L22. Receptors of the skin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L22. Receptors of the skin"
+            }
+          },
+          {
+            "id": "33041d8125ca9645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L23. Pain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L23. Pain"
+            }
+          },
+          {
+            "id": "4a30f3280bff0a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L24 & 25. Taste & Taste Receptors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L24 & 25. Taste & Taste Receptors"
+            }
+          },
+          {
+            "id": "e4da40d4ddf0d9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L26 & 27 & 28. Motor Control and Movements and Eye Movements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L26 & 27 & 28. Motor Control and Movements and Eye Movements"
+            }
+          },
+          {
+            "id": "f76d94869762fec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L29, 30, 31, 32. Anatomy of the Brain and nervous system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L29, 30, 31, 32. Anatomy of the Brain and nervous system"
+            }
+          },
+          {
+            "id": "a05b73fa66299cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L33, 34 - Overview and Risk and reward.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L33, 34 - Overview and Risk and reward"
+            }
+          },
+          {
+            "id": "023ae4a34d8d8bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L35. Uncertainity, Integration and Comparison to reach Decision.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L35. Uncertainity, Integration and Comparison to reach Decision"
+            }
+          },
+          {
+            "id": "befb2e858ca240ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L36, 37. Consciousness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L36, 37. Consciousness"
+            }
+          },
+          {
+            "id": "f5c93f19be67b905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L38. Attention.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L38. Attention"
+            }
+          },
+          {
+            "id": "ed3385067dabbe0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L39 & 40. Memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L39 & 40. Memory"
+            }
+          },
+          {
+            "id": "a4fbc761126223fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L41 & 42. Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L41 & 42. Language"
+            }
+          },
+          {
+            "id": "8fcddf03e10d1659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L43, 44. Emotions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L43, 44. Emotions"
+            }
+          },
+          {
+            "id": "93be5133ebeabae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L45. Sleep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L45. Sleep"
+            }
+          },
+          {
+            "id": "add31225a7ef82d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L46. Stroke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L46. Stroke"
+            }
+          },
+          {
+            "id": "372784818d30fc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L47. Neuro-oncology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L47. Neuro-oncology"
+            }
+          },
+          {
+            "id": "8237e94de5200fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L48. Headache Disorders and Neurologic Pain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L48. Headache Disorders and Neurologic Pain"
+            }
+          },
+          {
+            "id": "2934706849b2beef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L49. Epilepsy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L49. Epilepsy"
+            }
+          },
+          {
+            "id": "bcb6b1827e68174a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L50. Neurodegenerative Diseases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L50. Neurodegenerative Diseases"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -413,29 +548,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "245cd8dfca5c9f17",
+  "active": "bcb6b1827e68174a",
   "lastOpenFiles": [
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L15. Perception of Colour.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L49. Epilepsy.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L50. Neurodegenerative Diseases.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L48. Headache Disorders and Neurologic Pain.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L47. Neuro-oncology.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L46. Stroke.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L45. Sleep.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L43, 44. Emotions.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L41 & 42. Language.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L39 & 40. Memory.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L38. Attention.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L36, 37. Consciousness.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L35. Uncertainity, Integration and Comparison to reach Decision.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L33, 34 - Overview and Risk and reward.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L29, 30, 31, 32. Anatomy of the Brain and nervous system.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L26 & 27 & 28. Motor Control and Movements and Eye Movements.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L24 & 25. Taste & Taste Receptors.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L23. Pain.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L22. Receptors of the skin.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L21. Touch Physiology.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L20. Olfactory Physiology.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L19 Olfaction.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L18 Vestibular system.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L17. Sound Localization.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L16. Auditory System.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L11 - L15 EYE.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L6 - L10 Electrical Signals of the nerves, synaptic transmission, neurotransmitters, plasticity, measuring neural activities.md",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L14. Perceiving & Recognizing objects.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L13. Visual System.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L12. Retina.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L11. Overview of the eye.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L10. Measuring Neural Activities.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L9. Neuroplasticity.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L8. Neurotransmitters.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L7. Synaptic Transmission.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L6. Electrical Signals of the Nerve.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L1 - L5 Intro, Genetics, Cellular Components, Neurons, Gilal Cells and Neural Circuit.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L5. Gilal cells and Neural Circuit.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L1. Intro.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L2. Genetics.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L3. Cellular Components.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L4. Neuron.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/3. Cellular Components.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/2. Genetics.md",
-    "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes",
     "9. Aerospace & Space",
@@ -445,16 +586,10 @@
     "4. Electrical Engineering",
     "00. IITM/0.3 BSc/SPG",
     "00. IITM/0.3 BSc/Software Engineering",
-    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md",
-    "Untitled.md",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222730.png",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222535.png",
-    "00. IITM/0.1 Prog Diploma/System Commands/01. Notes/week 9/awk programming.md",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments/Pasted image 20260929222359.png",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments/Pasted image 20260929221954.png",
-    "NPTEL/Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md",
-    "NPTEL/Computational Neuroscience/Week 1/L4. Systems of Neural Processing.md",
-    "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 3/Pasted image 20260822001121.png",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 3/Pasted image 20260822000732.png",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 3/Pasted image 20260822000720.png",
