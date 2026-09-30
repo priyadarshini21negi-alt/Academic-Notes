@@ -2,203 +2,35 @@
   "recentFiles": [
     {
       "basename": "awk programming",
-      "path": "System Commands/flashcards/week 9/awk programming.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md"
     },
     {
       "basename": "awk programming",
-      "path": "System Commands/Notes/week 9/awk programming.md"
-    },
-    {
-      "basename": "6. Membrane Potential and All or None Spike",
-      "path": "NPTEL/Computational Neuroscience/Week 2/6. Membrane Potential and All or None Spike.md"
-    },
-    {
-      "basename": "L4. Systems of Neural Processing",
-      "path": "NPTEL/Computational Neuroscience/Week 1/L4. Systems of Neural Processing.md"
-    },
-    {
-      "basename": "methods of recording neural activity",
-      "path": "NPTEL/Computational Neuroscience/Week 1/methods of recording neural activity.md"
-    },
-    {
-      "basename": "7.",
-      "path": "NPTEL/Computational Neuroscience/Week 2/7..md"
-    },
-    {
-      "basename": "w2 combined",
-      "path": "NPTEL/Computational Neuroscience/flashcards/week 2/w2 combined.md"
-    },
-    {
-      "basename": "week 1 combined",
-      "path": "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md"
-    },
-    {
-      "basename": "Basic Brain Structure",
-      "path": "NPTEL/Computational Neuroscience/Week 1/Basic Brain Structure.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/01. Notes/week 9/awk programming.md"
     },
     {
       "basename": "Shell variables",
-      "path": "System Commands/Notes/week 5/Shell variables.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/01. Notes/week 5/Shell variables.md"
     },
     {
       "basename": "shell variables",
-      "path": "System Commands/flashcards/week 5/shell variables.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/02. flashcards/week 5/shell variables.md"
     },
     {
       "basename": "Linux commands",
-      "path": "System Commands/flashcards/week 1/Linux commands.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/02. flashcards/week 1/Linux commands.md"
     },
     {
       "basename": "Pasted image 20260811124735",
-      "path": "System Commands/Attachments/Pasted image 20260811124735.png"
+      "path": "00. IITM/1. Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124735.png"
     },
     {
       "basename": "Pasted image 20260811124911",
-      "path": "System Commands/Attachments/Pasted image 20260811124911.png"
+      "path": "00. IITM/1. Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124911.png"
     },
     {
       "basename": "Pasted image 20260811124947",
-      "path": "System Commands/Attachments/Pasted image 20260811124947.png"
-    },
-    {
-      "basename": "Networks on Neurons and Synapses",
-      "path": "NPTEL/Computational Neuroscience/Week 1/Networks on Neurons and Synapses.md"
-    },
-    {
-      "basename": "Intro and History",
-      "path": "NPTEL/Computational Neuroscience/Week 1/Intro and History.md"
-    },
-    {
-      "basename": "neuron",
-      "path": "NPTEL/Computational Neuroscience/Attachments/neuron.png"
-    },
-    {
-      "basename": "naive bayes classifier",
-      "path": "ML/MLP/notes/week 4 & 5/naive bayes classifier.md"
-    },
-    {
-      "basename": "multi learning classification",
-      "path": "ML/MLP/notes/week 4 & 5/multi learning classification.md"
-    },
-    {
-      "basename": "Hyper parameter tuning",
-      "path": "ML/MLP/notes/week 4 & 5/Hyper parameter tuning.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "ML/MLP/notes/week 4 & 5/Regularization.md"
-    },
-    {
-      "basename": "Polynomial Regression",
-      "path": "ML/MLP/notes/week 4 & 5/Polynomial Regression.md"
-    },
-    {
-      "basename": "Model Evaluation",
-      "path": "ML/MLP/notes/week 4 & 5/Model Evaluation.md"
-    },
-    {
-      "basename": "Linear Regression",
-      "path": "ML/MLP/notes/week 4 & 5/Linear Regression.md"
-    },
-    {
-      "basename": "recall",
-      "path": "ML/MLP/notes/week 7/recall.md"
-    },
-    {
-      "basename": "f1 score",
-      "path": "ML/MLP/notes/week 7/f1 score.md"
-    },
-    {
-      "basename": "precision",
-      "path": "ML/MLP/notes/week 7/precision.md"
-    },
-    {
-      "basename": "accuracy",
-      "path": "ML/MLP/notes/week 7/accuracy.md"
-    },
-    {
-      "basename": "confusion matrix",
-      "path": "ML/MLP/notes/week 7/confusion matrix.md"
-    },
-    {
-      "basename": "large scale ML",
-      "path": "ML/MLP/notes/week 7/large scale ML.md"
-    },
-    {
-      "basename": "evaluating classifiers",
-      "path": "ML/MLP/notes/week 6/evaluating classifiers.md"
-    },
-    {
-      "basename": "classification functions in scikit learn",
-      "path": "ML/MLP/notes/week 6/classification functions in scikit learn.md"
-    },
-    {
-      "basename": "boosting - adaboost, gradientboost",
-      "path": "ML/MLP/notes/week 4 & 5/boosting - adaboost, gradientboost.md"
-    },
-    {
-      "basename": "random forest",
-      "path": "ML/MLP/notes/week 4 & 5/random forest.md"
-    },
-    {
-      "basename": "bagging",
-      "path": "ML/MLP/notes/week 4 & 5/bagging.md"
-    },
-    {
-      "basename": "voting",
-      "path": "ML/MLP/notes/week 4 & 5/voting.md"
-    },
-    {
-      "basename": "decision trees",
-      "path": "ML/MLP/notes/week 4 & 5/decision trees.md"
-    },
-    {
-      "basename": "svm in scikit-learn",
-      "path": "ML/MLP/notes/week 4 & 5/svm in scikit-learn.md"
-    },
-    {
-      "basename": "k-nn",
-      "path": "ML/MLP/notes/week 4 & 5/k-nn.md"
-    },
-    {
-      "basename": "multiclass",
-      "path": "ML/MLP/notes/week 7/multiclass.md"
-    },
-    {
-      "basename": "binary class image classification with perceptron",
-      "path": "ML/MLP/notes/week 6/binary class image classification with perceptron.md"
-    },
-    {
-      "basename": "neural networks - multi-layer perceptrons",
-      "path": "ML/MLP/notes/week 4 & 5/neural networks - multi-layer perceptrons.md"
-    },
-    {
-      "basename": "Categorical Transformers",
-      "path": "ML/MLP/notes/week 2 & 3/Categorical Transformers.md"
-    },
-    {
-      "basename": "Handling Missing Data",
-      "path": "ML/MLP/notes/week 2 & 3/Handling Missing Data.md"
-    },
-    {
-      "basename": "Data Preprocessing",
-      "path": "ML/MLP/notes/week 2 & 3/Data Preprocessing.md"
-    },
-    {
-      "basename": "sklearn dataset API",
-      "path": "ML/MLP/notes/week 2 & 3/sklearn dataset API.md"
-    },
-    {
-      "basename": "Data Loading",
-      "path": "ML/MLP/notes/week 2 & 3/Data Loading.md"
-    },
-    {
-      "basename": "intro to scikit-learn",
-      "path": "ML/MLP/notes/week 2 & 3/intro to scikit-learn.md"
-    },
-    {
-      "basename": "Heterogenous Feature Transformations",
-      "path": "ML/MLP/notes/week 2 & 3/Heterogenous Feature Transformations.md"
+      "path": "00. IITM/1. Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124947.png"
     }
   ],
   "omittedPaths": [],
