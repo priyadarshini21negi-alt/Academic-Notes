@@ -28,17 +28,212 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md",
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L1. Intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MIT 9.16 Cellular Neurophysiology"
+              "title": "L1. Intro"
+            }
+          },
+          {
+            "id": "70272bba0d417158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L2. Genetics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L2. Genetics"
+            }
+          },
+          {
+            "id": "415927fc06327b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L3. Cellular Components.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L3. Cellular Components"
+            }
+          },
+          {
+            "id": "aee512ad9df90ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L4. Neuron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L4. Neuron"
+            }
+          },
+          {
+            "id": "a1b47c3c6bcfaa84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L6. Electrical Signals of the Nerve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L6. Electrical Signals of the Nerve"
+            }
+          },
+          {
+            "id": "f1327c25ec0dfe0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L7. Synaptic Transmission.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L7. Synaptic Transmission"
+            }
+          },
+          {
+            "id": "0c51ebaae2383a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L8. Neurotransmitters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L8. Neurotransmitters"
+            }
+          },
+          {
+            "id": "05df658e1cbcf11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L9. Neuroplasticity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L9. Neuroplasticity"
+            }
+          },
+          {
+            "id": "5a4655aa6ca44a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L10. Measuring Neural Activities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L10. Measuring Neural Activities"
+            }
+          },
+          {
+            "id": "af180e14a7288d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L11. Overview of the eye.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L11. Overview of the eye"
+            }
+          },
+          {
+            "id": "84cc3283b40b6ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L12. Retina.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L12. Retina"
+            }
+          },
+          {
+            "id": "86201c0000590126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L13. Visual System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L13. Visual System"
+            }
+          },
+          {
+            "id": "04e285aa1922957c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L14. Perceiving & Recognizing objects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "L14. Perceiving & Recognizing objects"
+            }
+          },
+          {
+            "id": "245cd8dfca5c9f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -57,7 +252,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,21 +413,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d33edad9dcbd51c7",
+  "active": "245cd8dfca5c9f17",
   "lastOpenFiles": [
-    "00. IITM/0.1 Prog Diploma/DBMS",
-    "3. Computer Science/3.4 Distributed Systems",
-    "3. Computer Science/3.3 Computer Networks",
-    "3. Computer Science/3.2 OS",
-    "3. Computer Science/3.1 Computer Architecture",
-    "3. Computer Science",
-    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L15. Perception of Colour.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L14. Perceiving & Recognizing objects.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L13. Visual System.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L12. Retina.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L11. Overview of the eye.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L10. Measuring Neural Activities.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L9. Neuroplasticity.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L8. Neurotransmitters.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L7. Synaptic Transmission.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L6. Electrical Signals of the Nerve.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L1 - L5 Intro, Genetics, Cellular Components, Neurons, Gilal Cells and Neural Circuit.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L5. Gilal cells and Neural Circuit.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L1. Intro.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L2. Genetics.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L3. Cellular Components.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L4. Neuron.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/3. Cellular Components.md",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/2. Genetics.md",
     "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md",
-    "2. Neuroscience/2.8 Neural Engineering",
-    "2. Neuroscience/2.7 Brain-Computer Interfaces",
-    "2. Neuroscience/2.6 Neural Signals & Recording",
-    "2. Neuroscience/2.5 Computational Neuroscience",
-    "2. Neuroscience/2.4 Cognitive Neuroscience",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards",
+    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes",
+    "9. Aerospace & Space",
+    "8. HCI",
+    "6. Robotics",
+    "5. Physics",
+    "4. Electrical Engineering",
+    "00. IITM/0.3 BSc/SPG",
+    "00. IITM/0.3 BSc/Software Engineering",
+    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md",
     "Untitled.md",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222730.png",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222535.png",
@@ -246,25 +459,7 @@
     "NPTEL/Computational Neuroscience/Attachments/Attachments 3/Pasted image 20260822000732.png",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 3/Pasted image 20260822000720.png",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 2/Pasted image 20260821235731.png",
-    "NPTEL/Computational Neuroscience/Week 2/7..md",
-    "NPTEL/Computational Neuroscience/flashcards/week 2/w2 combined.md",
     "NPTEL/Computational Neuroscience/Attachments/Attachments 1/Pasted image 20260821235345.png",
-    "NPTEL/Computational Neuroscience/Attachments/Attachments 1/Pasted image 20260821235335.png",
-    "NPTEL/Computational Neuroscience/flashcards/week 1/week 1 combined.md",
-    "NPTEL/Computational Neuroscience/Week 2/8. Ion channels.md",
-    "NPTEL/Computational Neuroscience/Week 2/10. Single Neuron Activity.md",
-    "NPTEL/Computational Neuroscience/Week 2/9. Current injection- Synapses.md",
-    "NPTEL/Computational Neuroscience/Week 2/7. Patch Clamp Measurements.md",
-    "NPTEL/Computational Neuroscience/Week 1/Basic Brain Structure.md",
-    "NPTEL/Computational Neuroscience/Week 1/Systems of neural processing.md",
-    "00. IITM/0.1 Prog Diploma/System Commands/01. Notes/week 5/Shell variables.md",
-    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 5/shell variables.md",
-    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 1/Linux commands.md",
-    "NPTEL/Computational Neuroscience/Week 1/action potentials.md",
-    "NPTEL/Computational Neuroscience/Week 1/Networks on Neurons and Synapses.md",
-    "NPTEL/Computational Neuroscience/Week 1/Intro and History.md",
-    "NPTEL/Computational Neuroscience/Week 1/3. Basic Structures in the Brain.md",
-    "ML/MLP/notes/week 4 & 5/naive bayes classifier.md",
-    "ML/MLP/notes/week 4 & 5/multi learning classification.md"
+    "NPTEL/Computational Neuroscience/Attachments/Attachments 1/Pasted image 20260821235335.png"
   ]
 }
