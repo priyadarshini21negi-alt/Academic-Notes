@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md"
+    },
+    {
+      "basename": "6. Categorical Transformers",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/6. Categorical Transformers.md"
+    },
+    {
+      "basename": "5. Handling missing data",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5. Handling missing data.md"
+    },
+    {
+      "basename": "4. Data Preprocessing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4. Data Preprocessing.md"
+    },
+    {
+      "basename": "3. Dataloading and Demonstration of sklearn dataset API",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3. Dataloading and Demonstration of sklearn dataset API.md"
+    },
+    {
+      "basename": "2. Scikit Learn intro",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2. Scikit Learn intro.md"
+    },
+    {
+      "basename": "1. EDA",
+      "path": "00. IITM/0.2 DS diploma/MLP/02. Flashcards/1. EDA.md"
+    },
+    {
+      "basename": "Linux commands",
+      "path": "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 1/Linux commands.md"
+    },
+    {
       "basename": "1. EDA",
       "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/1. EDA.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "L15. Perception of Colour",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L15. Perception of Colour.md"
-    },
-    {
-      "basename": "L1 - L5 Intro, Genetics, Cellular Components, Neurons, Gilal Cells and Neural Circuit",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L1 - L5 Intro, Genetics, Cellular Components, Neurons, Gilal Cells and Neural Circuit.md"
-    },
-    {
-      "basename": "L5. Gilal cells and Neural Circuit",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L5. Gilal cells and Neural Circuit.md"
-    },
-    {
-      "basename": "awk programming",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md"
-    },
-    {
-      "basename": "awk programming",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/01. Notes/week 9/awk programming.md"
-    },
-    {
-      "basename": "Shell variables",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/01. Notes/week 5/Shell variables.md"
-    },
-    {
-      "basename": "shell variables",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 5/shell variables.md"
-    },
-    {
-      "basename": "Linux commands",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 1/Linux commands.md"
-    },
-    {
-      "basename": "Pasted image 20260811124735",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124735.png"
     }
   ],
   "omittedPaths": [],
