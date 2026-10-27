@@ -8,82 +8,127 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcb6b1827e68174a",
+            "id": "118cfd3a6b70eb7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/2. Scikit Learn intro.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.13 Neural Networks - multilayer perceptron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2. Scikit Learn intro"
+              "title": "4.13 Neural Networks - multilayer perceptron"
             }
           },
           {
-            "id": "612f2b5ac64ca6aa",
+            "id": "616ad3a175d55c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/3. Dataloading and Demonstration of sklearn dataset API.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.1 Exploring California housing dataset.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Dataloading and Demonstration of sklearn dataset API"
+              "title": "5.1 Exploring California housing dataset"
             }
           },
           {
-            "id": "e7352fb922a1a4a1",
+            "id": "8d6746791bd6d198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/4. Data Preprocessing.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.2 Linear Regression on Cali housing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4. Data Preprocessing"
+              "title": "5.2 Linear Regression on Cali housing"
             }
           },
           {
-            "id": "501aebb3ed49c503",
+            "id": "be8399de56d5091a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5. Handling missing data.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.3 LR Demo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5. Handling missing data"
+              "title": "5.3 LR Demo"
             }
           },
           {
-            "id": "82ee1b15b1837d7e",
+            "id": "696f1c10b0fc62af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/6. Categorical Transformers.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.4 Baseline model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "6. Categorical Transformers"
+              "title": "5.4 Baseline model"
             }
           },
           {
-            "id": "e3359f31c8ddb2eb",
+            "id": "660db3a93f386f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.5 SGDRegressor Demo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 SGDRegressor Demo"
+            }
+          },
+          {
+            "id": "19ad2725b51dedfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.6 Demo - KNN with cali housing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5.6 Demo - KNN with cali housing"
+            }
+          },
+          {
+            "id": "c36fed7a188b7004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.7 Decision Trees for regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5.7 Decision Trees for regression"
+            }
+          },
+          {
+            "id": "10ae6b08c22d03b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 320.5
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -278,37 +323,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3359f31c8ddb2eb",
+  "active": "10ae6b08c22d03b6",
   "lastOpenFiles": [
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/6. Categorical Transformers.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.7 Decision Trees for regression.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/5. Handling missing data.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/4. Data Preprocessing.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/3. Dataloading and Demonstration of sklearn dataset API.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/2. Scikit Learn intro.md",
-    "00. IITM/0.2 DS diploma/MLP/02. Flashcards/1. EDA.md",
-    "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 1/Linux commands.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/1. EDA.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.6 Demo - KNN with cali housing.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.5 SGDRegressor Demo.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.4 Baseline model.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.3 LR Demo.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.2 Linear Regression on Cali housing.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.1 Exploring California housing dataset.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.13 Neural Networks - multilayer perceptron.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.12 Boosting - AdaBoost, GradientBoost.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.11 Voting, Bagging and Random Forest.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.10 Decision Trees.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.9 SVM in scikit learn.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.8 K-nearest neighbours.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.7 Naive Bayes classifier.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.6 Multi Learning Classification.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.5 Hyperparameter tuning.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.4 Regularization.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.3 Polynomial Regression.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.2 Model Evaluation.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.1 Linear Regression.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.4 feature selection demonstration PCA, pipelines, handling class imbalance.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.3 Data transformation, composite transformers.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.2 Data extraction, imputation, scaling, visualizing feature distribution.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.1 Chaining transformers.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/2.10 Dimensionality Reduction by PCA.md",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments/Pasted image 20261027145546.png",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments/Pasted image 20261027084904.png",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L49. Epilepsy.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L48. Headache Disorders and Neurologic Pain.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L47. Neuro-oncology.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L46. Stroke.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L45. Sleep.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L43, 44. Emotions.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L41 & 42. Language.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L39 & 40. Memory.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L38. Attention.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L36, 37. Consciousness.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L35. Uncertainity, Integration and Comparison to reach Decision.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L33, 34 - Overview and Risk and reward.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L29, 30, 31, 32. Anatomy of the Brain and nervous system.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L26 & 27 & 28. Motor Control and Movements and Eye Movements.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L24 & 25. Taste & Taste Receptors.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L23. Pain.md",
-    "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L22. Receptors of the skin.md",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes",

@@ -5,24 +5,140 @@
       "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md"
     },
     {
-      "basename": "6. Categorical Transformers",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/6. Categorical Transformers.md"
+      "basename": "5.7 Decision Trees for regression",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.7 Decision Trees for regression.md"
     },
     {
-      "basename": "5. Handling missing data",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5. Handling missing data.md"
+      "basename": "5.6 Demo - KNN with cali housing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.6 Demo - KNN with cali housing.md"
     },
     {
-      "basename": "4. Data Preprocessing",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4. Data Preprocessing.md"
+      "basename": "5.5 SGDRegressor Demo",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.5 SGDRegressor Demo.md"
     },
     {
-      "basename": "3. Dataloading and Demonstration of sklearn dataset API",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3. Dataloading and Demonstration of sklearn dataset API.md"
+      "basename": "5.4 Baseline model",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.4 Baseline model.md"
     },
     {
-      "basename": "2. Scikit Learn intro",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2. Scikit Learn intro.md"
+      "basename": "5.3 LR Demo",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.3 LR Demo.md"
+    },
+    {
+      "basename": "5.2 Linear Regression on Cali housing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.2 Linear Regression on Cali housing.md"
+    },
+    {
+      "basename": "5.1 Exploring California housing dataset",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.1 Exploring California housing dataset.md"
+    },
+    {
+      "basename": "4.13 Neural Networks - multilayer perceptron",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.13 Neural Networks - multilayer perceptron.md"
+    },
+    {
+      "basename": "4.12 Boosting - AdaBoost, GradientBoost",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.12 Boosting - AdaBoost, GradientBoost.md"
+    },
+    {
+      "basename": "4.11 Voting, Bagging and Random Forest",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.11 Voting, Bagging and Random Forest.md"
+    },
+    {
+      "basename": "4.10 Decision Trees",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.10 Decision Trees.md"
+    },
+    {
+      "basename": "4.9 SVM in scikit learn",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.9 SVM in scikit learn.md"
+    },
+    {
+      "basename": "4.8 K-nearest neighbours",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.8 K-nearest neighbours.md"
+    },
+    {
+      "basename": "4.7 Naive Bayes classifier",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.7 Naive Bayes classifier.md"
+    },
+    {
+      "basename": "4.6 Multi Learning Classification",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.6 Multi Learning Classification.md"
+    },
+    {
+      "basename": "4.5 Hyperparameter tuning",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.5 Hyperparameter tuning.md"
+    },
+    {
+      "basename": "4.4 Regularization",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.4 Regularization.md"
+    },
+    {
+      "basename": "4.3 Polynomial Regression",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.3 Polynomial Regression.md"
+    },
+    {
+      "basename": "4.2 Model Evaluation",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.2 Model Evaluation.md"
+    },
+    {
+      "basename": "4.1 Linear Regression",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.1 Linear Regression.md"
+    },
+    {
+      "basename": "3.4 feature selection demonstration PCA, pipelines, handling class imbalance",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3.4 feature selection demonstration PCA, pipelines, handling class imbalance.md"
+    },
+    {
+      "basename": "3.3 Data transformation, composite transformers",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3.3 Data transformation, composite transformers.md"
+    },
+    {
+      "basename": "3.2 Data extraction, imputation, scaling, visualizing feature distribution",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3.2 Data extraction, imputation, scaling, visualizing feature distribution.md"
+    },
+    {
+      "basename": "3.1 Chaining transformers",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/3.1 Chaining transformers.md"
+    },
+    {
+      "basename": "2.10 Dimensionality Reduction by PCA",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.10 Dimensionality Reduction by PCA.md"
+    },
+    {
+      "basename": "2.9 Heterogeneous features transformations",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.9 Heterogeneous features transformations.md"
+    },
+    {
+      "basename": "2.8 Wrapper Based Feature",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.8 Wrapper Based Feature.md"
+    },
+    {
+      "basename": "2.7 Feature Scaling",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.7 Feature Scaling.md"
+    },
+    {
+      "basename": "2.6 Numeric Transformers",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.6 Numeric Transformers.md"
+    },
+    {
+      "basename": "2.5 Categorical Transformers",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.5 Categorical Transformers.md"
+    },
+    {
+      "basename": "2.4 Handling missing data",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.4 Handling missing data.md"
+    },
+    {
+      "basename": "2.3 Data Preprocessing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.3 Data Preprocessing.md"
+    },
+    {
+      "basename": "2.2 Dataloading and Demonstration of sklearn dataset API",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.2 Dataloading and Demonstration of sklearn dataset API.md"
+    },
+    {
+      "basename": "2.1 Scikit Learn intro",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.1 Scikit Learn intro.md"
     },
     {
       "basename": "1. EDA",
@@ -83,122 +199,6 @@
     {
       "basename": "L33, 34 - Overview and Risk and reward",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L33, 34 - Overview and Risk and reward.md"
-    },
-    {
-      "basename": "L29, 30, 31, 32. Anatomy of the Brain and nervous system",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L29, 30, 31, 32. Anatomy of the Brain and nervous system.md"
-    },
-    {
-      "basename": "L26 & 27 & 28. Motor Control and Movements and Eye Movements",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L26 & 27 & 28. Motor Control and Movements and Eye Movements.md"
-    },
-    {
-      "basename": "L24 & 25. Taste & Taste Receptors",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L24 & 25. Taste & Taste Receptors.md"
-    },
-    {
-      "basename": "L23. Pain",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L23. Pain.md"
-    },
-    {
-      "basename": "L22. Receptors of the skin",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L22. Receptors of the skin.md"
-    },
-    {
-      "basename": "L21. Touch Physiology",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L21. Touch Physiology.md"
-    },
-    {
-      "basename": "L20. Olfactory Physiology",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L20. Olfactory Physiology.md"
-    },
-    {
-      "basename": "L19 Olfaction",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L19 Olfaction.md"
-    },
-    {
-      "basename": "L18 Vestibular system",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L18 Vestibular system.md"
-    },
-    {
-      "basename": "L17. Sound Localization",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L17. Sound Localization.md"
-    },
-    {
-      "basename": "L16. Auditory System",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L16. Auditory System.md"
-    },
-    {
-      "basename": "MIT 9.16 Cellular Neurophysiology",
-      "path": "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md"
-    },
-    {
-      "basename": "L50. Neurodegenerative Diseases",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L50. Neurodegenerative Diseases.md"
-    },
-    {
-      "basename": "L11 - L15 EYE",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L11 - L15 EYE.md"
-    },
-    {
-      "basename": "L6 - L10 Electrical Signals of the nerves, synaptic transmission, neurotransmitters, plasticity, measuring neural activities",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L6 - L10 Electrical Signals of the nerves, synaptic transmission, neurotransmitters, plasticity, measuring neural activities.md"
-    },
-    {
-      "basename": "L14. Perceiving & Recognizing objects",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L14. Perceiving & Recognizing objects.md"
-    },
-    {
-      "basename": "L13. Visual System",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L13. Visual System.md"
-    },
-    {
-      "basename": "L12. Retina",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L12. Retina.md"
-    },
-    {
-      "basename": "L11. Overview of the eye",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L11. Overview of the eye.md"
-    },
-    {
-      "basename": "L10. Measuring Neural Activities",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L10. Measuring Neural Activities.md"
-    },
-    {
-      "basename": "L9. Neuroplasticity",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L9. Neuroplasticity.md"
-    },
-    {
-      "basename": "L8. Neurotransmitters",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L8. Neurotransmitters.md"
-    },
-    {
-      "basename": "L7. Synaptic Transmission",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L7. Synaptic Transmission.md"
-    },
-    {
-      "basename": "L6. Electrical Signals of the Nerve",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L6. Electrical Signals of the Nerve.md"
-    },
-    {
-      "basename": "L4. Neuron",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L4. Neuron.md"
-    },
-    {
-      "basename": "L3. Cellular Components",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L3. Cellular Components.md"
-    },
-    {
-      "basename": "L2. Genetics",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L2. Genetics.md"
-    },
-    {
-      "basename": "L1. Intro",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L1. Intro.md"
-    },
-    {
-      "basename": "L15. Perception of Colour",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L15. Perception of Colour.md"
     }
   ],
   "omittedPaths": [],
