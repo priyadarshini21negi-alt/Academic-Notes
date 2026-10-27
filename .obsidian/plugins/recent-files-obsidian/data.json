@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md"
+      "basename": "2.1 Scikit Learn intro",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.1 Scikit Learn intro.md"
+    },
+    {
+      "basename": "5.10 MLP Regressor on cali housing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.10 MLP Regressor on cali housing.md"
+    },
+    {
+      "basename": "5.9 AdaBoost and GradientBoost regressor on cali housing",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.9 AdaBoost and GradientBoost regressor on cali housing.md"
+    },
+    {
+      "basename": "5.8 Bagging and RandomForest Regressor on Cali",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.8 Bagging and RandomForest Regressor on Cali.md"
     },
     {
       "basename": "5.7 Decision Trees for regression",
@@ -137,10 +149,6 @@
       "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.2 Dataloading and Demonstration of sklearn dataset API.md"
     },
     {
-      "basename": "2.1 Scikit Learn intro",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.1 Scikit Learn intro.md"
-    },
-    {
       "basename": "1. EDA",
       "path": "00. IITM/0.2 DS diploma/MLP/02. Flashcards/1. EDA.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "L36, 37. Consciousness",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L36, 37. Consciousness.md"
-    },
-    {
-      "basename": "L35. Uncertainity, Integration and Comparison to reach Decision",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L35. Uncertainity, Integration and Comparison to reach Decision.md"
-    },
-    {
-      "basename": "L33, 34 - Overview and Risk and reward",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L33, 34 - Overview and Risk and reward.md"
     }
   ],
   "omittedPaths": [],

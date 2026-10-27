@@ -4,146 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c809096cd67c1b60",
+        "id": "b9f546cbc9faf954",
         "type": "tabs",
         "children": [
           {
-            "id": "118cfd3a6b70eb7c",
+            "id": "dd7e984f18868e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/4.13 Neural Networks - multilayer perceptron.md",
+                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.1 Scikit Learn intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4.13 Neural Networks - multilayer perceptron"
-            }
-          },
-          {
-            "id": "616ad3a175d55c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.1 Exploring California housing dataset.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 Exploring California housing dataset"
-            }
-          },
-          {
-            "id": "8d6746791bd6d198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.2 Linear Regression on Cali housing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.2 Linear Regression on Cali housing"
-            }
-          },
-          {
-            "id": "be8399de56d5091a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.3 LR Demo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.3 LR Demo"
-            }
-          },
-          {
-            "id": "696f1c10b0fc62af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.4 Baseline model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.4 Baseline model"
-            }
-          },
-          {
-            "id": "660db3a93f386f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.5 SGDRegressor Demo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5 SGDRegressor Demo"
-            }
-          },
-          {
-            "id": "19ad2725b51dedfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.6 Demo - KNN with cali housing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.6 Demo - KNN with cali housing"
-            }
-          },
-          {
-            "id": "c36fed7a188b7004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/5.7 Decision Trees for regression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5.7 Decision Trees for regression"
-            }
-          },
-          {
-            "id": "10ae6b08c22d03b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2.1 Scikit Learn intro"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d17de8421fc9cfd",
@@ -323,10 +203,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "10ae6b08c22d03b6",
+  "active": "dd7e984f18868e53",
   "lastOpenFiles": [
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/Attachments/Pasted image 20261027154904.png",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/Attachments",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.10 MLP Regressor on cali housing.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.9 AdaBoost and GradientBoost regressor on cali housing.md",
+    "00. IITM/0.2 DS diploma/MLP/01. Notes/5.8 Bagging and RandomForest Regressor on Cali.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/5.7 Decision Trees for regression.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/Untitled.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/5.6 Demo - KNN with cali housing.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/5.5 SGDRegressor Demo.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/5.4 Baseline model.md",
@@ -348,9 +232,6 @@
     "00. IITM/0.2 DS diploma/MLP/01. Notes/4.1 Linear Regression.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/3.4 feature selection demonstration PCA, pipelines, handling class imbalance.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/3.3 Data transformation, composite transformers.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.2 Data extraction, imputation, scaling, visualizing feature distribution.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/3.1 Chaining transformers.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/2.10 Dimensionality Reduction by PCA.md",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments/Pasted image 20261027145546.png",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments/Pasted image 20261027084904.png",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments",
@@ -362,7 +243,6 @@
     "6. Robotics",
     "5. Physics",
     "4. Electrical Engineering",
-    "00. IITM/0.3 BSc/SPG",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222730.png",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments 1/Pasted image 20260929222535.png",
     "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Attachments/Pasted image 20260929222359.png",
