@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-10-27",
+      "path": "2026-10-27.md"
+    },
+    {
+      "basename": "2.2 Dataloading and Demonstration of sklearn dataset API",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.2 Dataloading and Demonstration of sklearn dataset API.md"
+    },
+    {
       "basename": "2.1 Scikit Learn intro",
       "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.1 Scikit Learn intro.md"
     },
@@ -145,10 +153,6 @@
       "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.3 Data Preprocessing.md"
     },
     {
-      "basename": "2.2 Dataloading and Demonstration of sklearn dataset API",
-      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/2.2 Dataloading and Demonstration of sklearn dataset API.md"
-    },
-    {
       "basename": "1. EDA",
       "path": "00. IITM/0.2 DS diploma/MLP/02. Flashcards/1. EDA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "L38. Attention",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L38. Attention.md"
-    },
-    {
-      "basename": "L36, 37. Consciousness",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L36, 37. Consciousness.md"
     }
   ],
   "omittedPaths": [],
