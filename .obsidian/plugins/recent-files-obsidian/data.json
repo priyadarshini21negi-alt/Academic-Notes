@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "L50. Neurodegenerative Diseases",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L50. Neurodegenerative Diseases.md"
+      "basename": "1. EDA",
+      "path": "00. IITM/0.2 DS diploma/MLP/01. Notes/1. EDA.md"
     },
     {
       "basename": "L49. Epilepsy",
@@ -97,6 +97,14 @@
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L16. Auditory System.md"
     },
     {
+      "basename": "MIT 9.16 Cellular Neurophysiology",
+      "path": "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md"
+    },
+    {
+      "basename": "L50. Neurodegenerative Diseases",
+      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L50. Neurodegenerative Diseases.md"
+    },
+    {
       "basename": "L11 - L15 EYE",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/L11 - L15 EYE.md"
     },
@@ -169,10 +177,6 @@
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L5. Gilal cells and Neural Circuit.md"
     },
     {
-      "basename": "MIT 9.16 Cellular Neurophysiology",
-      "path": "2. Neuroscience/2.2 Cellular Neuroscience/MIT 9.16 Cellular Neurophysiology.md"
-    },
-    {
       "basename": "awk programming",
       "path": "00. IITM/0.1 Prog Diploma/System Commands/02. flashcards/week 9/awk programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20260811124735",
       "path": "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124735.png"
-    },
-    {
-      "basename": "Pasted image 20260811124911",
-      "path": "00. IITM/0.1 Prog Diploma/System Commands/00. Attachments/Pasted image 20260811124911.png"
     }
   ],
   "omittedPaths": [],
