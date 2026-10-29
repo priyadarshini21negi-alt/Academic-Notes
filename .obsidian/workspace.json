@@ -196,14 +196,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dd7e984f18868e53",
+  "active": "5ef821e9cf0ba5d2",
   "lastOpenFiles": [
     "00. IITM/0.2 DS diploma/MLP/01. Notes/2.2 Dataloading and Demonstration of sklearn dataset API.md",
     "2026-10-27.md",
