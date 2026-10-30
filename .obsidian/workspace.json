@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/W3.md",
+                "file": "00. IITM/0.1 Prog Diploma/PDSA/02. Flashcards/2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "W3"
+              "title": "2"
             }
           }
         ]
@@ -201,9 +201,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5ef821e9cf0ba5d2",
+  "active": "dd7e984f18868e53",
   "lastOpenFiles": [
+    "00. IITM/0.1 Prog Diploma/PDSA/02. Flashcards/Attachments/Pasted image 20261030144843.png",
+    "00. IITM/0.1 Prog Diploma/PDSA/02. Flashcards/Attachments",
     "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/W3.md",
+    "00. IITM/0.1 Prog Diploma/PDSA/02. Flashcards/2.md",
     "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/Attachments/Pasted image 20261029190917.png",
     "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/Attachments/Pasted image 20261029190838.png",
     "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/Attachments/Pasted image 20261029190044.png",
@@ -239,14 +242,12 @@
     "00. IITM/0.2 DS diploma/MLP/01. Notes/4.7 Naive Bayes classifier.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/4.6 Multi Learning Classification.md",
     "00. IITM/0.2 DS diploma/MLP/01. Notes/4.5 Hyperparameter tuning.md",
-    "00. IITM/0.2 DS diploma/MLP/01. Notes/4.4 Regularization.md",
     "00. IITM/0.2 DS diploma/MLP/00. Attachments/Attachments",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards/Untitled",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/b. Flashcards",
     "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes",
     "9. Aerospace & Space",
     "8. HCI",
-    "6. Robotics",
-    "5. Physics"
+    "6. Robotics"
   ]
 }

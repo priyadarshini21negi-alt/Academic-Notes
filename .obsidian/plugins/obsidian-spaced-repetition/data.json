@@ -19,7 +19,7 @@
     ],
     "singleLineCardSeparator": ";;",
     "singleLineReversedCardSeparator": ":::",
-    "multilineCardSeparator": "?",
+    "multilineCardSeparator": "??",
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
     "enableReviewReminders": false,

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2",
+      "path": "00. IITM/0.1 Prog Diploma/PDSA/02. Flashcards/2.md"
+    },
+    {
       "basename": "W3",
       "path": "00. IITM/0.1 Prog Diploma/JAVA/02. Flashcards/W3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "L41 & 42. Language",
       "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L41 & 42. Language.md"
-    },
-    {
-      "basename": "L39 & 40. Memory",
-      "path": "2. Neuroscience/2.1 Essential NS - guide (NPTEL)/a. Notes/L39 & 40. Memory.md"
     }
   ],
   "omittedPaths": [],
